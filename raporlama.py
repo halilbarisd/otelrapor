@@ -6,7 +6,9 @@ st.title("Otel Stop Sale ve Fırsat Günleri Dashboard")
 # CSV verisini oku
 try:
     df = pd.read_csv('sonuc.csv')
-    df['Tarih'] = pd.to_datetime(df['Tarih'], format='%Y-%m-%d')
+
+    # Tarih formatını düzelt!
+    df['Tarih'] = pd.to_datetime(df['Tarih'], format='%d-%m-%Y')
 
     # Doluluk ve fiyat verilerini ayır
     doluluk_df = df[df['Fiyat'].astype(str).str.strip().str.upper() == 'DOLU']

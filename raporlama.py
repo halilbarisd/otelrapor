@@ -9,19 +9,24 @@ st.set_page_config(page_title="Otel Raporlama Dashboard", layout="wide")
 st.title("📊 Otel Stop Sale ve Fırsat Günleri Dashboard")
 
 try:
-    # CSV dosyalarını bul
+    # CSV dosyalarını bul ve sıralı liste yap
     csv_files = sorted(glob.glob("sonuc_*.csv"))
 
     if not csv_files:
         st.warning("Hiç CSV dosyası bulunamadı. Lütfen botu çalıştır ve tekrar dene.")
     else:
-        # Tarih + saat listesini çıkar
+        # Tarih + saat listesini çıkar ve en yeniyi başa al
         dates_available = [
             f.replace("sonuc_", "").replace(".csv", "").replace("_", " ") for f in csv_files
         ]
+        dates_available.reverse()  # En yeni başta
 
         # Kullanıcı tarih/saat seçiyor
-        selected_datetime = st.selectbox("📅 Hangi tarih/saat verisini görmek istersin?", dates_available)
+        selected_datetime = st.selectbox(
+            "📅 Hangi tarih/saat verisini görmek istersin?",
+            dates_available,
+            index=0  # Varsayılan olarak en yeni dosya seçili
+        )
 
         # Seçilen dosya yolu
         selected_file = f"sonuc_{selected_datetime.replace(' ', '_')}.csv"
@@ -109,11 +114,10 @@ try:
             st.subheader(f"📋 Tüm Oteller Genel Raporu ({selected_datetime})")
             st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
 
-            st.divider()  # Görsel ayırıcı
+            st.divider()
 
             st.subheader("📝 Detaylı Otel Raporları")
 
-            # Her otelin detayları
             for index, row in rapor_df.iterrows():
                 otel_adi = row['Otel Adı']
 
@@ -129,72 +133,98 @@ try:
                     otel_fiyat_df = df_numeric[df_numeric['Hotel Adı'] == otel_adi][['Tarih', 'Fiyat']].sort_values(by='Tarih')
                     st.dataframe(otel_fiyat_df)
 
-                    # (Opsiyonel) Fiyat grafiği
+                    # Fiyat grafiği
                     st.line_chart(otel_fiyat_df.set_index('Tarih'))
 
-                        # Karşılaştırmalı analiz alanı
-    st.divider()
-    st.subheader("🔄 İki Zaman Dilimi Arasında Karşılaştırmalı Analiz")
+        # KARŞILAŞTIRMALI ANALİZ
+        st.divider()
+        st.subheader("🔄 İki Zaman Dilimi Arasında Karşılaştırmalı Analiz")
 
-    # Kullanıcı iki zaman dilimi seçiyor
-    compare_datetimes = st.multiselect(
-        "Karşılaştırmak istediğin iki tarih/saat kaydını seç (ilk → önceki, ikinci → yeni):",
-        dates_available,
-        max_selections=2
-    )
-
-    # İki kayıt seçildiğinde
-    if len(compare_datetimes) == 2:
-        file1 = f"sonuc_{compare_datetimes[0].replace(' ', '_')}.csv"
-        file2 = f"sonuc_{compare_datetimes[1].replace(' ', '_')}.csv"
-
-        st.info(f"Karşılaştırılıyor:\n➡️ {compare_datetimes[0]}\n➡️ {compare_datetimes[1]}")
-
-        df1 = pd.read_csv(file1)
-        df2 = pd.read_csv(file2)
-
-        # Verileri hazırlıyoruz
-        df1['Fiyat'] = df1['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
-        df2['Fiyat'] = df2['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
-
-        df1['Tarih'] = pd.to_datetime(df1['Tarih'], format='%d-%m-%Y')
-        df2['Tarih'] = pd.to_datetime(df2['Tarih'], format='%d-%m-%Y')
-
-        # İki dataframe'i birleştiriyoruz (Hotel Adı + Tarih bazlı)
-        merged = pd.merge(
-            df1,
-            df2,
-            on=['Hotel Adı', 'Tarih'],
-            suffixes=('_ilk', '_son')
+        compare_datetimes = st.multiselect(
+            "Karşılaştırmak istediğin iki tarih/saat kaydını seç (ilk → önceki, ikinci → yeni):",
+            dates_available,
+            max_selections=2
         )
 
-        # Fiyat farkı hesapla
-        merged['Fiyat Farkı'] = merged['Fiyat_son'] - merged['Fiyat_ilk']
+        if len(compare_datetimes) == 2:
+            file1 = f"sonuc_{compare_datetimes[0].replace(' ', '_')}.csv"
+            file2 = f"sonuc_{compare_datetimes[1].replace(' ', '_')}.csv"
 
-        # Değişim durumlarını filtrele
-        fiyat_artanlar = merged[merged['Fiyat Farkı'] > 0]
-        fiyat_azalanlar = merged[merged['Fiyat Farkı'] < 0]
+            st.info(f"Karşılaştırılıyor:\n➡️ {compare_datetimes[0]}\n➡️ {compare_datetimes[1]}")
 
-        st.subheader("📈 Fiyat Artışları")
-        if fiyat_artanlar.empty:
-            st.success("Fiyat artışı yok!")
+            df1 = pd.read_csv(file1)
+            df2 = pd.read_csv(file2)
+
+            df1['Fiyat'] = df1['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
+            df2['Fiyat'] = df2['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
+
+            df1['Tarih'] = pd.to_datetime(df1['Tarih'], format='%d-%m-%Y')
+            df2['Tarih'] = pd.to_datetime(df2['Tarih'], format='%d-%m-%Y')
+
+            merged = pd.merge(
+                df1,
+                df2,
+                on=['Hotel Adı', 'Tarih'],
+                suffixes=('_ilk', '_son')
+            )
+
+            merged['Fiyat Farkı'] = merged['Fiyat_son'] - merged['Fiyat_ilk']
+
+            fiyat_artanlar = merged[merged['Fiyat Farkı'] > 0]
+            fiyat_azalanlar = merged[merged['Fiyat Farkı'] < 0]
+
+            st.subheader("📈 Fiyat Artışları")
+            if fiyat_artanlar.empty:
+                st.success("Fiyat artışı yok!")
+            else:
+                st.dataframe(fiyat_artanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
+
+            st.subheader("📉 Fiyat Düşüşleri (Fırsat Olabilir!)")
+            if fiyat_azalanlar.empty:
+                st.success("Fiyat düşüşü yok!")
+            else:
+                st.dataframe(fiyat_azalanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
+
+            # Yeni Stop Sale Günleri
+            st.subheader("🚫 Yeni Stop Sale Günleri (Dolmuş Olanlar)")
+
+            df1_dolu = df1[df1['Fiyat'] == 0][['Hotel Adı', 'Tarih']]
+            df2_dolu = df2[df2['Fiyat'] == 0][['Hotel Adı', 'Tarih']]
+
+            yeni_stop_sale = pd.merge(
+                df2_dolu,
+                df1_dolu,
+                how='left',
+                indicator=True
+            ).query('_merge == "left_only"').drop(columns=['_merge'])
+
+            if yeni_stop_sale.empty:
+                st.success("Yeni stop sale (dolmuş) tarih bulunamadı.")
+            else:
+                st.warning("Yeni dolmuş (stop sale) günler:")
+                st.dataframe(yeni_stop_sale)
+
+            # Stop Sale Kalkmış Günler
+            st.subheader("✅ Stop Sale Kalkmış Günler (Boşalmış Olanlar)")
+
+            stop_sale_kalkmis = pd.merge(
+                df1_dolu,
+                df2_dolu,
+                how='left',
+                indicator=True
+            ).query('_merge == "left_only"').drop(columns=['_merge'])
+
+            if stop_sale_kalkmis.empty:
+                st.success("Hiçbir stop sale kalkmamış.")
+            else:
+                st.info("Stop sale kalkmış (boşalmış) günler:")
+                st.dataframe(stop_sale_kalkmis)
+
+        elif len(compare_datetimes) == 1:
+            st.info("Lütfen iki farklı zaman dilimi seçin.")
+
         else:
-            st.dataframe(fiyat_artanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
-
-        st.subheader("📉 Fiyat Düşüşleri (Fırsat Olabilir!)")
-        if fiyat_azalanlar.empty:
-            st.success("Fiyat düşüşü yok!")
-        else:
-            st.dataframe(fiyat_azalanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
-
-        # Stop sale / doluluk durum farklarını göstermek istersen ekleriz!
-
-    elif len(compare_datetimes) == 1:
-        st.info("Lütfen iki farklı zaman dilimi seçin.")
-
-    else:
-        st.info("Karşılaştırma için iki kayıt seçiniz.")
-
+            st.info("Karşılaştırma için iki kayıt seçiniz.")
 
 except Exception as e:
     st.error(f"Hata oluştu: {e}")

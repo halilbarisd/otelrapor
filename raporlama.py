@@ -31,15 +31,19 @@ try:
         # Seçilen dosya yolu
         selected_file = f"sonuc_{selected_datetime.replace(' ', '_')}.csv"
 
-        # Veriyi oku
-        df = pd.read_csv(selected_file)
+        # 🔧 Veriyi oku ➔ "-" olanlar NaN yapılır
+        df = pd.read_csv(selected_file, na_values=['-', 'DOLU'])
 
         # Tarih formatı
         df['Tarih'] = pd.to_datetime(df['Tarih'], format='%d-%m-%Y')
 
-        # Dolu ve fiyat verilerini ayır
-        doluluk_df = df[df['Fiyat'].astype(str).str.strip().str.upper() == 'DOLU']
-        df_numeric = df[df['Fiyat'].astype(str).str.strip().str.upper() != 'DOLU'].copy()
+        # 🔧 Dolu (Stop Sale) verilerini ayır ➔ Fiyat NaN olan satırlar
+        doluluk_df = df[df['Fiyat'].isna()]
+
+        # 🔧 Dolu olmayan verileri işle ➔ Fiyatı olanlar
+        df_numeric = df[df['Fiyat'].notna()].copy()
+
+        # Eğer fiyat değerlerinde € sembolü varsa temizle (Varsa kalabilir!)
         df_numeric['Fiyat'] = df_numeric['Fiyat'].replace('[€]', '', regex=True).astype(float)
 
         # Rapor listesi başlat
@@ -50,6 +54,7 @@ try:
             otel_dolu = doluluk_df[doluluk_df['Hotel Adı'] == otel]
             otel_numeric = df_numeric[df_numeric['Hotel Adı'] == otel].copy()
 
+            # Yıl-Ay bazlı gruplama
             otel_numeric['YilAy'] = otel_numeric['Tarih'].dt.to_period('M')
             ay_ortalamalari = otel_numeric.groupby('YilAy')['Fiyat'].mean()
 
@@ -61,9 +66,11 @@ try:
                 fiyat = row['Fiyat']
                 ortalama = ay_ortalamalari[yilay]
 
+                # 🔧 Fiyat ortalamanın %30 üzerindeyse ➔ Stop Sale olabilir!
                 if fiyat >= ortalama * 1.30:
                     stop_sale_tarihler.add(row['Tarih'])
 
+                # 🔧 Fiyat ortalamanın %15 altındaysa ➔ Fırsat günleri
                 if fiyat <= ortalama * 0.85:
                     firsat_tarihler.add(row['Tarih'])
 
@@ -152,11 +159,11 @@ try:
 
             st.info(f"Karşılaştırılıyor:\n➡️ {compare_datetimes[0]}\n➡️ {compare_datetimes[1]}")
 
-            df1 = pd.read_csv(file1)
-            df2 = pd.read_csv(file2)
+            df1 = pd.read_csv(file1, na_values=['-', 'DOLU'])
+            df2 = pd.read_csv(file2, na_values=['-', 'DOLU'])
 
-            df1['Fiyat'] = df1['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
-            df2['Fiyat'] = df2['Fiyat'].replace('DOLU', 0).replace('[€]', '', regex=True).astype(float)
+            df1['Fiyat'] = pd.to_numeric(df1['Fiyat'], errors='coerce')
+            df2['Fiyat'] = pd.to_numeric(df2['Fiyat'], errors='coerce')
 
             df1['Tarih'] = pd.to_datetime(df1['Tarih'], format='%d-%m-%Y')
             df2['Tarih'] = pd.to_datetime(df2['Tarih'], format='%d-%m-%Y')
@@ -188,8 +195,8 @@ try:
             # Yeni Stop Sale Günleri
             st.subheader("🚫 Yeni Stop Sale Günleri (Dolmuş Olanlar)")
 
-            df1_dolu = df1[df1['Fiyat'] == 0][['Hotel Adı', 'Tarih']]
-            df2_dolu = df2[df2['Fiyat'] == 0][['Hotel Adı', 'Tarih']]
+            df1_dolu = df1[df1['Fiyat'].isna()][['Hotel Adı', 'Tarih']]
+            df2_dolu = df2[df2['Fiyat'].isna()][['Hotel Adı', 'Tarih']]
 
             yeni_stop_sale = pd.merge(
                 df2_dolu,
@@ -221,10 +228,9 @@ try:
                 st.dataframe(stop_sale_kalkmis)
 
         elif len(compare_datetimes) == 1:
-            st.info("Lütfen iki farklı zaman dilimi seçin.")
-
+                st.info("Lütfen iki farklı zaman dilimi seçin.")
         else:
-            st.info("Karşılaştırma için iki kayıt seçiniz.")
+                st.info("Karşılaştırma için iki kayıt seçiniz.")
 
 except Exception as e:
     st.error(f"Hata oluştu: {e}")

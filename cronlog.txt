@@ -2402,4 +2402,100 @@ Tarih: 20-04-2025, Fiyat: 166
 Tarih: 21-04-2025, Fiyat: 154
 Tarih: 22-04-2025, Fiyat: 154
 Tarih: 23-04-2025, Fiyat: 154
-Tarih: 24-04-2025, Fiyat: 143
+Tarih: 24-04-2025, Fiyat: 143[main 3e30133] Otomatik CSV güncellemesi
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 3732 insertions(+), 1 deletion(-)
+ create mode 100644 .DS_Store
+ create mode 100644 sonuc_2025-03-15_22-00.csv
+fatal: could not read Username for 'https://github.com': Device not configured
+
+Tarih: 25-04-2025, Fiyat: 154
+Tarih: 26-04-2025, Fiyat: 154
+Tarih: 27-04-2025, Fiyat: 143
+Tarih: 28-04-2025, Fiyat: 143
+Tarih: 29-04-2025, Fiyat: 143
+Tarih: 30-04-2025, Fiyat: 143
+Elite World İstanbul Florya için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World İstanbul Florya).
+Otel araması yapıldı: Elite World İstanbul Florya
+Önerilen otel seçildi: Elite World İstanbul Florya
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World İstanbul Florya
+Yeni sekmeye geçildi: Elite World İstanbul Florya
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 68
+Tarih: 17-03-2025, Fiyat: 68
+Tarih: 18-03-2025, Fiyat: 68
+Tarih: 19-03-2025, Fiyat: 68
+Tarih: 20-03-2025, Fiyat: 68
+Tarih: 21-03-2025, Fiyat: 68
+Tarih: 22-03-2025, Fiyat: 68
+Tarih: 23-03-2025, Fiyat: 68
+Tarih: 24-03-2025, Fiyat: 68
+Tarih: 25-03-2025, Fiyat: 68
+Tarih: 26-03-2025, Fiyat: 68
+Tarih: 27-03-2025, Fiyat: 68
+Tarih: 28-03-2025, Fiyat: 68
+Tarih: 29-03-2025, Fiyat: 68
+Tarih: 30-03-2025, Fiyat: 66
+Tarih: 31-03-2025, Fiyat: 66
+Tarih: 01-04-2025, Fiyat: 73
+Tarih: 02-04-2025, Fiyat: 73
+Tarih: 03-04-2025, Fiyat: 73
+Tarih: 04-04-2025, Fiyat: 73
+Tarih: 05-04-2025, Fiyat: 73
+Tarih: 06-04-2025, Fiyat: 73
+Tarih: 07-04-2025, Fiyat: 73
+Tarih: 08-04-2025, Fiyat: 73
+Tarih: 09-04-2025, Fiyat: 82
+Tarih: 10-04-2025, Fiyat: 82
+Tarih: 11-04-2025, Fiyat: 82
+Tarih: 12-04-2025, Fiyat: 82
+Tarih: 13-04-2025, Fiyat: 73
+Tarih: 14-04-2025, Fiyat: 73
+Tarih: 15-04-2025, Fiyat: 86
+Tarih: 16-04-2025, Fiyat: 103
+Tarih: 17-04-2025, Fiyat: 103
+Tarih: 18-04-2025, Fiyat: 103
+Tarih: 19-04-2025, Fiyat: 103
+Tarih: 20-04-2025, Fiyat: 73
+Tarih: 21-04-2025, Fiyat: 73
+Tarih: 22-04-2025, Fiyat: 73
+Tarih: 23-04-2025, Fiyat: 86
+Tarih: 24-04-2025, Fiyat: 98
+Tarih: 25-04-2025, Fiyat: 97
+Tarih: 26-04-2025, Fiyat: 90
+Tarih: 27-04-2025, Fiyat: 73
+Tarih: 28-04-2025, Fiyat: 73
+Tarih: 29-04-2025, Fiyat: 84
+Tarih: 30-04-2025, Fiyat: 84
+Tüm sonuçlar sonuc_2025-03-15_22-00.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+❌ Git push sırasında hata oluştu: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.

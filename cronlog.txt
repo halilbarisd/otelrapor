@@ -273,3 +273,2133 @@ Stacktrace:
 Tüm sonuçlar sonuc_2025-03-15_21-08.csv dosyasına kaydedildi.
 Tarayıcı kapatıldı.
 ❌ Git push sırasında hata oluştu: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
+✅ Mail başarıyla gönderildi!
+Address Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Address Hotel Istanbul).
+Otel araması yapıldı: Address Hotel Istanbul
+Önerilen otel seçildi: Address Hotel Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Address Hotel Istanbul
+Yeni sekmeye geçildi: Address Hotel Istanbul
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 162
+Tarih: 17-03-2025, Fiyat: 162
+Tarih: 18-03-2025, Fiyat: 162
+Tarih: 19-03-2025, Fiyat: 162
+Tarih: 20-03-2025, Fiyat: 162
+Tarih: 21-03-2025, Fiyat: 162
+Tarih: 22-03-2025, Fiyat: 162
+Tarih: 23-03-2025, Fiyat: 162
+Tarih: 24-03-2025, Fiyat: 162
+Tarih: 25-03-2025, Fiyat: 162
+Tarih: 26-03-2025, Fiyat: 162
+Tarih: 27-03-2025, Fiyat: 162
+Tarih: 28-03-2025, Fiyat: 143
+Tarih: 29-03-2025, Fiyat: 142
+Tarih: 30-03-2025, Fiyat: 192
+Tarih: 31-03-2025, Fiyat: 219
+Tarih: 01-04-2025, Fiyat: 219
+Tarih: 02-04-2025, Fiyat: 211
+Tarih: 03-04-2025, Fiyat: 211
+Tarih: 04-04-2025, Fiyat: 211
+Tarih: 05-04-2025, Fiyat: 192
+Tarih: 06-04-2025, Fiyat: 192
+Tarih: 07-04-2025, Fiyat: 192
+Tarih: 08-04-2025, Fiyat: 192
+Tarih: 09-04-2025, Fiyat: 192
+Tarih: 10-04-2025, Fiyat: 192
+Tarih: 11-04-2025, Fiyat: 192
+Tarih: 12-04-2025, Fiyat: 192
+Tarih: 13-04-2025, Fiyat: 192
+Tarih: 14-04-2025, Fiyat: 192
+Tarih: 15-04-2025, Fiyat: 192
+Tarih: 16-04-2025, Fiyat: 192
+Tarih: 17-04-2025, Fiyat: 192
+Tarih: 18-04-2025, Fiyat: 192
+Tarih: 19-04-2025, Fiyat: 192
+Tarih: 20-04-2025, Fiyat: 192
+Tarih: 21-04-2025, Fiyat: 192
+Tarih: 22-04-2025, Fiyat: 192
+Tarih: 23-04-2025, Fiyat: 192
+Tarih: 24-04-2025, Fiyat: 192
+Tarih: 25-04-2025, Fiyat: 192
+Tarih: 26-04-2025, Fiyat: 192
+Tarih: 27-04-2025, Fiyat: 192
+Tarih: 28-04-2025, Fiyat: 192
+Tarih: 29-04-2025, Fiyat: 192
+Tarih: 30-04-2025, Fiyat: 192
+Beethoven Premium Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Premium Hotel).
+Otel araması yapıldı: Beethoven Premium Hotel
+Önerilen otel seçildi: Beethoven Premium Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Beethoven Premium Hotel
+Yeni sekmeye geçildi: Beethoven Premium Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 120
+Tarih: 17-03-2025, Fiyat: 100
+Tarih: 18-03-2025, Fiyat: 100
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 107
+Tarih: 21-03-2025, Fiyat: 107
+Tarih: 22-03-2025, Fiyat: 107
+Tarih: 23-03-2025, Fiyat: 101
+Tarih: 24-03-2025, Fiyat: 123
+Tarih: 25-03-2025, Fiyat: 93
+Tarih: 26-03-2025, Fiyat: 123
+Tarih: 27-03-2025, Fiyat: 123
+Tarih: 28-03-2025, Fiyat: 122
+Tarih: 29-03-2025, Fiyat: 91
+Tarih: 30-03-2025, Fiyat: 91
+Tarih: 31-03-2025, Fiyat: 91
+Tarih: 01-04-2025, Fiyat: 151
+Tarih: 02-04-2025, Fiyat: 151
+Tarih: 03-04-2025, Fiyat: 151
+Tarih: 04-04-2025, Fiyat: 150
+Tarih: 05-04-2025, Fiyat: 150
+Tarih: 06-04-2025, Fiyat: 150
+Tarih: 07-04-2025, Fiyat: 151
+Tarih: 08-04-2025, Fiyat: 151
+Tarih: 09-04-2025, Fiyat: 151
+Tarih: 10-04-2025, Fiyat: 151
+Tarih: 11-04-2025, Fiyat: 150
+Tarih: 12-04-2025, Fiyat: 136
+Tarih: 13-04-2025, Fiyat: 150
+Tarih: 14-04-2025, Fiyat: 151
+Tarih: 15-04-2025, Fiyat: 151
+Tarih: 16-04-2025, Fiyat: 151
+Tarih: 17-04-2025, Fiyat: 151
+Tarih: 18-04-2025, Fiyat: 136
+Tarih: 19-04-2025, Fiyat: 160
+Tarih: 20-04-2025, Fiyat: 161
+Tarih: 21-04-2025, Fiyat: 161
+Tarih: 22-04-2025, Fiyat: 161
+Tarih: 23-04-2025, Fiyat: 160
+Tarih: 24-04-2025, Fiyat: 160
+Tarih: 25-04-2025, Fiyat: 150
+Tarih: 26-04-2025, Fiyat: 150
+Tarih: 27-04-2025, Fiyat: 150
+Tarih: 28-04-2025, Fiyat: 151
+Tarih: 29-04-2025, Fiyat: 151
+Tarih: 30-04-2025, Fiyat: 151
+Beethoven Senfoni Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Senfoni Hotel Istanbul).
+Otel araması yapıldı: Beethoven Senfoni Hotel Istanbul
+Önerilen otel seçildi: Beethoven Senfoni Hotel Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Beethoven Senfoni Hotel Istanbul
+Yeni sekmeye geçildi: Beethoven Senfoni Hotel Istanbul
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 87
+Tarih: 17-03-2025, Fiyat: 87
+Tarih: 18-03-2025, Fiyat: 87
+Tarih: 19-03-2025, Fiyat: 87
+Tarih: 20-03-2025, Fiyat: 87
+Tarih: 21-03-2025, Fiyat: 87
+Tarih: 22-03-2025, Fiyat: 87
+Tarih: 23-03-2025, Fiyat: 87
+Tarih: 24-03-2025, Fiyat: 87
+Tarih: 25-03-2025, Fiyat: 99
+Tarih: 26-03-2025, Fiyat: 87
+Tarih: 27-03-2025, Fiyat: 87
+Tarih: 28-03-2025, Fiyat: 87
+Tarih: 29-03-2025, Fiyat: 88
+Tarih: 30-03-2025, Fiyat: 88
+Tarih: 31-03-2025, Fiyat: 87
+Tarih: 01-04-2025, Fiyat: 160
+Tarih: 02-04-2025, Fiyat: 160
+Tarih: 03-04-2025, Fiyat: 160
+Tarih: 04-04-2025, Fiyat: 158
+Tarih: 05-04-2025, Fiyat: 158
+Tarih: 06-04-2025, Fiyat: 158
+Tarih: 07-04-2025, Fiyat: 160
+Tarih: 08-04-2025, Fiyat: 160
+Tarih: 09-04-2025, Fiyat: 160
+Tarih: 10-04-2025, Fiyat: 160
+Tarih: 11-04-2025, Fiyat: 158
+Tarih: 12-04-2025, Fiyat: 158
+Tarih: 13-04-2025, Fiyat: 158
+Tarih: 14-04-2025, Fiyat: 160
+Tarih: 15-04-2025, Fiyat: 160
+Tarih: 16-04-2025, Fiyat: 180
+Tarih: 17-04-2025, Fiyat: 180
+Tarih: 18-04-2025, Fiyat: 180
+Tarih: 19-04-2025, Fiyat: 180
+Tarih: 20-04-2025, Fiyat: 180
+Tarih: 21-04-2025, Fiyat: 180
+Tarih: 22-04-2025, Fiyat: 180
+Tarih: 23-04-2025, Fiyat: 180
+Tarih: 24-04-2025, Fiyat: 180
+Tarih: 25-04-2025, Fiyat: 180
+Tarih: 26-04-2025, Fiyat: 158
+Tarih: 27-04-2025, Fiyat: 158
+Tarih: 28-04-2025, Fiyat: 160
+Tarih: 29-04-2025, Fiyat: 160
+Tarih: 30-04-2025, Fiyat: 160
+Burdock Hotel Istanbul, Autograph Collection için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Burdock Hotel Istanbul, Autograph Collection).
+Otel araması yapıldı: Burdock Hotel Istanbul, Autograph Collection
+Önerilen otel seçildi: Burdock Hotel Istanbul, Autograph Collection
+Arama yapıldı.
+Otel detay sayfasına gidildi: Burdock Hotel Istanbul, Autograph Collection
+Yeni sekmeye geçildi: Burdock Hotel Istanbul, Autograph Collection
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 139
+Tarih: 17-03-2025, Fiyat: 118
+Tarih: 18-03-2025, Fiyat: 118
+Tarih: 19-03-2025, Fiyat: 118
+Tarih: 20-03-2025, Fiyat: 118
+Tarih: 21-03-2025, Fiyat: 118
+Tarih: 22-03-2025, Fiyat: 118
+Tarih: 23-03-2025, Fiyat: 118
+Tarih: 24-03-2025, Fiyat: 118
+Tarih: 25-03-2025, Fiyat: 118
+Tarih: 26-03-2025, Fiyat: 112
+Tarih: 27-03-2025, Fiyat: 112
+Tarih: 28-03-2025, Fiyat: 112
+Tarih: 29-03-2025, Fiyat: 119
+Tarih: 30-03-2025, Fiyat: 159
+Tarih: 31-03-2025, Fiyat: 159
+Tarih: 01-04-2025, Fiyat: 212
+Tarih: 02-04-2025, Fiyat: 237
+Tarih: 03-04-2025, Fiyat: -
+Tarih: 04-04-2025, Fiyat: 186
+Tarih: 05-04-2025, Fiyat: 169
+Tarih: 06-04-2025, Fiyat: 145
+Tarih: 07-04-2025, Fiyat: 145
+Tarih: 08-04-2025, Fiyat: 145
+Tarih: 09-04-2025, Fiyat: 145
+Tarih: 10-04-2025, Fiyat: 152
+Tarih: 11-04-2025, Fiyat: 169
+Tarih: 12-04-2025, Fiyat: 259
+Tarih: 13-04-2025, Fiyat: 169
+Tarih: 14-04-2025, Fiyat: 169
+Tarih: 15-04-2025, Fiyat: 169
+Tarih: 16-04-2025, Fiyat: 169
+Tarih: 17-04-2025, Fiyat: 186
+Tarih: 18-04-2025, Fiyat: 237
+Tarih: 19-04-2025, Fiyat: 178
+Tarih: 20-04-2025, Fiyat: 169
+Tarih: 21-04-2025, Fiyat: -
+Tarih: 22-04-2025, Fiyat: 237
+Tarih: 23-04-2025, Fiyat: 237
+Tarih: 24-04-2025, Fiyat: 237
+Tarih: 25-04-2025, Fiyat: -
+Tarih: 26-04-2025, Fiyat: 152
+Tarih: 27-04-2025, Fiyat: 145
+Tarih: 28-04-2025, Fiyat: 145
+Tarih: 29-04-2025, Fiyat: 145
+Tarih: 30-04-2025, Fiyat: 189
+Crowne Plaza Istanbul Old City için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Crowne Plaza Istanbul Old City).
+Otel araması yapıldı: Crowne Plaza Istanbul Old City
+Önerilen otel seçildi: Crowne Plaza Istanbul Old City
+Arama yapıldı.
+Otel detay sayfasına gidildi: Crowne Plaza Istanbul Old City
+Yeni sekmeye geçildi: Crowne Plaza Istanbul Old City
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 90
+Tarih: 17-03-2025, Fiyat: 110
+Tarih: 18-03-2025, Fiyat: 100
+Tarih: 19-03-2025, Fiyat: 100
+Tarih: 20-03-2025, Fiyat: 107
+Tarih: 21-03-2025, Fiyat: 115
+Tarih: 22-03-2025, Fiyat: 115
+Tarih: 23-03-2025, Fiyat: 90
+Tarih: 24-03-2025, Fiyat: 124
+Tarih: 25-03-2025, Fiyat: 124
+Tarih: 26-03-2025, Fiyat: 124
+Tarih: 27-03-2025, Fiyat: 124
+Tarih: 28-03-2025, Fiyat: 132
+Tarih: 29-03-2025, Fiyat: 132
+Tarih: 30-03-2025, Fiyat: 115
+Tarih: 31-03-2025, Fiyat: 115
+Tarih: 01-04-2025, Fiyat: 120
+Tarih: 02-04-2025, Fiyat: 120
+Tarih: 03-04-2025, Fiyat: 120
+Tarih: 04-04-2025, Fiyat: 120
+Tarih: 05-04-2025, Fiyat: 120
+Tarih: 06-04-2025, Fiyat: 120
+Tarih: 07-04-2025, Fiyat: 120
+Tarih: 08-04-2025, Fiyat: 120
+Tarih: 09-04-2025, Fiyat: 120
+Tarih: 10-04-2025, Fiyat: 120
+Tarih: 11-04-2025, Fiyat: 120
+Tarih: 12-04-2025, Fiyat: 166
+Tarih: 13-04-2025, Fiyat: 153
+Tarih: 14-04-2025, Fiyat: 153
+Tarih: 15-04-2025, Fiyat: 148
+Tarih: 16-04-2025, Fiyat: 229
+Tarih: 17-04-2025, Fiyat: 229
+Tarih: 18-04-2025, Fiyat: 229
+Tarih: 19-04-2025, Fiyat: 157
+Tarih: 20-04-2025, Fiyat: 162
+Tarih: 21-04-2025, Fiyat: 148
+Tarih: 22-04-2025, Fiyat: 148
+Tarih: 23-04-2025, Fiyat: 148
+Tarih: 24-04-2025, Fiyat: 238
+Tarih: 25-04-2025, Fiyat: 238
+Tarih: 26-04-2025, Fiyat: 238
+Tarih: 27-04-2025, Fiyat: 148
+Tarih: 28-04-2025, Fiyat: 148
+Tarih: 29-04-2025, Fiyat: 166
+Tarih: 30-04-2025, Fiyat: 229
+Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd. için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd.).
+Otel araması yapıldı: Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd.
+Önerilen otel seçildi: Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd.
+Arama yapıldı.
+Otel detay sayfasına gidildi: Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd.
+Yeni sekmeye geçildi: Delta Hotels Istanbul Levent Esentepe, Büyükdere Cd.
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 121
+Tarih: 17-03-2025, Fiyat: 121
+Tarih: 18-03-2025, Fiyat: 109
+Tarih: 19-03-2025, Fiyat: 109
+Tarih: 20-03-2025, Fiyat: 109
+Tarih: 21-03-2025, Fiyat: 103
+Tarih: 22-03-2025, Fiyat: 103
+Tarih: 23-03-2025, Fiyat: 109
+Tarih: 24-03-2025, Fiyat: 109
+Tarih: 25-03-2025, Fiyat: 109
+Tarih: 26-03-2025, Fiyat: 109
+Tarih: 27-03-2025, Fiyat: 109
+Tarih: 28-03-2025, Fiyat: 103
+Tarih: 29-03-2025, Fiyat: 103
+Tarih: 30-03-2025, Fiyat: 109
+Tarih: 31-03-2025, Fiyat: 109
+Tarih: 01-04-2025, Fiyat: 135
+Tarih: 02-04-2025, Fiyat: 135
+Tarih: 03-04-2025, Fiyat: 135
+Tarih: 04-04-2025, Fiyat: 128
+Tarih: 05-04-2025, Fiyat: 128
+Tarih: 06-04-2025, Fiyat: 135
+Tarih: 07-04-2025, Fiyat: 135
+Tarih: 08-04-2025, Fiyat: 135
+Tarih: 09-04-2025, Fiyat: 135
+Tarih: 10-04-2025, Fiyat: 135
+Tarih: 11-04-2025, Fiyat: 135
+Tarih: 12-04-2025, Fiyat: 135
+Tarih: 13-04-2025, Fiyat: 135
+Tarih: 14-04-2025, Fiyat: 135
+Tarih: 15-04-2025, Fiyat: 135
+Tarih: 16-04-2025, Fiyat: 135
+Tarih: 17-04-2025, Fiyat: 135
+Tarih: 18-04-2025, Fiyat: 135
+Tarih: 19-04-2025, Fiyat: 135
+Tarih: 20-04-2025, Fiyat: 135
+Tarih: 21-04-2025, Fiyat: 135
+Tarih: 22-04-2025, Fiyat: 135
+Tarih: 23-04-2025, Fiyat: 135
+Tarih: 24-04-2025, Fiyat: 135
+Tarih: 25-04-2025, Fiyat: 135
+Tarih: 26-04-2025, Fiyat: 135
+Tarih: 27-04-2025, Fiyat: 135
+Tarih: 28-04-2025, Fiyat: 135
+Tarih: 29-04-2025, Fiyat: 135
+Tarih: 30-04-2025, Fiyat: 135
+DoubleTree by Hilton Hotel Istanbul Piyalepasa için veri çekiliyor...
+Trip.com ana sayfasına gidildi (DoubleTree by Hilton Hotel Istanbul Piyalepasa).
+Otel araması yapıldı: DoubleTree by Hilton Hotel Istanbul Piyalepasa
+Önerilen otel seçildi: DoubleTree by Hilton Hotel Istanbul Piyalepasa
+Arama yapıldı.
+Hata oluştu (DoubleTree by Hilton Hotel Istanbul Piyalepasa): Message: 
+Stacktrace:
+0   chromedriver                        0x000000010452d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000104525ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104079ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001040c11d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104102678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001040b535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001044f2cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001044f5fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001044d2d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001044f6800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001044c3ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010451645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001045165e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000104525a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Emin Hotel laleli için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Emin Hotel laleli).
+Otel araması yapıldı: Emin Hotel laleli
+Önerilen otel seçildi: Emin Hotel laleli
+Arama yapıldı.
+Otel detay sayfasına gidildi: Emin Hotel laleli
+Yeni sekmeye geçildi: Emin Hotel laleli
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 57
+Tarih: 17-03-2025, Fiyat: 57
+Tarih: 18-03-2025, Fiyat: 71
+Tarih: 19-03-2025, Fiyat: 80
+Tarih: 20-03-2025, Fiyat: 57
+Tarih: 21-03-2025, Fiyat: 80
+Tarih: 22-03-2025, Fiyat: 57
+Tarih: 23-03-2025, Fiyat: 80
+Tarih: 24-03-2025, Fiyat: 57
+Tarih: 25-03-2025, Fiyat: 57
+Tarih: 26-03-2025, Fiyat: 80
+Tarih: 27-03-2025, Fiyat: 80
+Tarih: 28-03-2025, Fiyat: 80
+Tarih: 29-03-2025, Fiyat: 57
+Tarih: 30-03-2025, Fiyat: 72
+Tarih: 31-03-2025, Fiyat: 57
+Tarih: 01-04-2025, Fiyat: 72
+Tarih: 02-04-2025, Fiyat: 72
+Tarih: 03-04-2025, Fiyat: 72
+Tarih: 04-04-2025, Fiyat: 72
+Tarih: 05-04-2025, Fiyat: 72
+Tarih: 06-04-2025, Fiyat: 72
+Tarih: 07-04-2025, Fiyat: 72
+Tarih: 08-04-2025, Fiyat: 72
+Tarih: 09-04-2025, Fiyat: 72
+Tarih: 10-04-2025, Fiyat: 72
+Tarih: 11-04-2025, Fiyat: 72
+Tarih: 12-04-2025, Fiyat: 72
+Tarih: 13-04-2025, Fiyat: 72
+Tarih: 14-04-2025, Fiyat: 72
+Tarih: 15-04-2025, Fiyat: 72
+Tarih: 16-04-2025, Fiyat: 72
+Tarih: 17-04-2025, Fiyat: 72
+Tarih: 18-04-2025, Fiyat: 72
+Tarih: 19-04-2025, Fiyat: 72
+Tarih: 20-04-2025, Fiyat: 72
+Tarih: 21-04-2025, Fiyat: 72
+Tarih: 22-04-2025, Fiyat: 72
+Tarih: 23-04-2025, Fiyat: 71
+Tarih: 24-04-2025, Fiyat: 72
+Tarih: 25-04-2025, Fiyat: 72
+Tarih: 26-04-2025, Fiyat: 72
+Tarih: 27-04-2025, Fiyat: 72
+Tarih: 28-04-2025, Fiyat: 72
+Tarih: 29-04-2025, Fiyat: 72
+Tarih: 30-04-2025, Fiyat: 72
+Four Point By Sheraton Istanbul Kagithane için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Four Point By Sheraton Istanbul Kagithane).
+Otel araması yapıldı: Four Point By Sheraton Istanbul Kagithane
+Önerilen otel seçildi: Four Point By Sheraton Istanbul Kagithane
+Arama yapıldı.
+Otel detay sayfasına gidildi: Four Point By Sheraton Istanbul Kagithane
+Yeni sekmeye geçildi: Four Point By Sheraton Istanbul Kagithane
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 105
+Tarih: 17-03-2025, Fiyat: 98
+Tarih: 18-03-2025, Fiyat: 98
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 98
+Tarih: 21-03-2025, Fiyat: 89
+Tarih: 22-03-2025, Fiyat: 89
+Tarih: 23-03-2025, Fiyat: 93
+Tarih: 24-03-2025, Fiyat: 98
+Tarih: 25-03-2025, Fiyat: 98
+Tarih: 26-03-2025, Fiyat: 98
+Tarih: 27-03-2025, Fiyat: 98
+Tarih: 28-03-2025, Fiyat: 89
+Tarih: 29-03-2025, Fiyat: 89
+Tarih: 30-03-2025, Fiyat: 93
+Tarih: 31-03-2025, Fiyat: 98
+Tarih: 01-04-2025, Fiyat: 98
+Tarih: 02-04-2025, Fiyat: 98
+Tarih: 03-04-2025, Fiyat: 98
+Tarih: 04-04-2025, Fiyat: 89
+Tarih: 05-04-2025, Fiyat: 89
+Tarih: 06-04-2025, Fiyat: 93
+Tarih: 07-04-2025, Fiyat: 98
+Tarih: 08-04-2025, Fiyat: 98
+Tarih: 09-04-2025, Fiyat: 98
+Tarih: 10-04-2025, Fiyat: 98
+Tarih: 11-04-2025, Fiyat: 93
+Tarih: 12-04-2025, Fiyat: 93
+Tarih: 13-04-2025, Fiyat: 93
+Tarih: 14-04-2025, Fiyat: 98
+Tarih: 15-04-2025, Fiyat: 98
+Tarih: 16-04-2025, Fiyat: 98
+Tarih: 17-04-2025, Fiyat: 98
+Tarih: 18-04-2025, Fiyat: 93
+Tarih: 19-04-2025, Fiyat: 93
+Tarih: 20-04-2025, Fiyat: 93
+Tarih: 21-04-2025, Fiyat: 98
+Tarih: 22-04-2025, Fiyat: 98
+Tarih: 23-04-2025, Fiyat: 98
+Tarih: 24-04-2025, Fiyat: 98
+Tarih: 25-04-2025, Fiyat: 93
+Tarih: 26-04-2025, Fiyat: 93
+Tarih: 27-04-2025, Fiyat: 93
+Tarih: 28-04-2025, Fiyat: 98
+Tarih: 29-04-2025, Fiyat: 98
+Tarih: 30-04-2025, Fiyat: 98
+Gleam Collection Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Gleam Collection Hotel).
+Otel araması yapıldı: Gleam Collection Hotel
+Önerilen otel seçildi: Gleam Collection Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Gleam Collection Hotel
+Yeni sekmeye geçildi: Gleam Collection Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 103
+Tarih: 17-03-2025, Fiyat: 93
+Tarih: 18-03-2025, Fiyat: 91
+Tarih: 19-03-2025, Fiyat: 111
+Tarih: 20-03-2025, Fiyat: 97
+Tarih: 21-03-2025, Fiyat: 97
+Tarih: 22-03-2025, Fiyat: 111
+Tarih: 23-03-2025, Fiyat: 103
+Tarih: 24-03-2025, Fiyat: 98
+Tarih: 25-03-2025, Fiyat: 97
+Tarih: 26-03-2025, Fiyat: 98
+Tarih: 27-03-2025, Fiyat: 98
+Tarih: 28-03-2025, Fiyat: 101
+Tarih: 29-03-2025, Fiyat: 101
+Tarih: 30-03-2025, Fiyat: 138
+Tarih: 31-03-2025, Fiyat: 138
+Tarih: 01-04-2025, Fiyat: 178
+Tarih: 02-04-2025, Fiyat: 178
+Tarih: 03-04-2025, Fiyat: 194
+Tarih: 04-04-2025, Fiyat: 131
+Tarih: 05-04-2025, Fiyat: 124
+Tarih: 06-04-2025, Fiyat: 115
+Tarih: 07-04-2025, Fiyat: 107
+Tarih: 08-04-2025, Fiyat: 122
+Tarih: 09-04-2025, Fiyat: 108
+Tarih: 10-04-2025, Fiyat: 115
+Tarih: 11-04-2025, Fiyat: 122
+Tarih: 12-04-2025, Fiyat: 112
+Tarih: 13-04-2025, Fiyat: 112
+Tarih: 14-04-2025, Fiyat: 111
+Tarih: 15-04-2025, Fiyat: 111
+Tarih: 16-04-2025, Fiyat: 111
+Tarih: 17-04-2025, Fiyat: 124
+Tarih: 18-04-2025, Fiyat: 132
+Tarih: 19-04-2025, Fiyat: 136
+Tarih: 20-04-2025, Fiyat: 150
+Tarih: 21-04-2025, Fiyat: 118
+Tarih: 22-04-2025, Fiyat: 109
+Tarih: 23-04-2025, Fiyat: 112
+Tarih: 24-04-2025, Fiyat: 127
+Tarih: 25-04-2025, Fiyat: 112
+Tarih: 26-04-2025, Fiyat: 124
+Tarih: 27-04-2025, Fiyat: 108
+Tarih: 28-04-2025, Fiyat: 124
+Tarih: 29-04-2025, Fiyat: 127
+Tarih: 30-04-2025, Fiyat: 121
+Grand Emin için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Emin).
+Otel araması yapıldı: Grand Emin
+Önerilen otel seçildi: Grand Emin
+Arama yapıldı.
+Otel detay sayfasına gidildi: Grand Emin
+Yeni sekmeye geçildi: Grand Emin
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 98
+Tarih: 17-03-2025, Fiyat: 105
+Tarih: 18-03-2025, Fiyat: 98
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 98
+Tarih: 21-03-2025, Fiyat: 98
+Tarih: 22-03-2025, Fiyat: 98
+Tarih: 23-03-2025, Fiyat: 98
+Tarih: 24-03-2025, Fiyat: 98
+Tarih: 25-03-2025, Fiyat: 98
+Tarih: 26-03-2025, Fiyat: 98
+Tarih: 27-03-2025, Fiyat: 98
+Tarih: 28-03-2025, Fiyat: 98
+Tarih: 29-03-2025, Fiyat: 105
+Tarih: 30-03-2025, Fiyat: 105
+Tarih: 31-03-2025, Fiyat: 105
+Tarih: 01-04-2025, Fiyat: 98
+Tarih: 02-04-2025, Fiyat: 98
+Tarih: 03-04-2025, Fiyat: 98
+Tarih: 04-04-2025, Fiyat: 98
+Tarih: 05-04-2025, Fiyat: 98
+Tarih: 06-04-2025, Fiyat: 98
+Tarih: 07-04-2025, Fiyat: 98
+Tarih: 08-04-2025, Fiyat: 98
+Tarih: 09-04-2025, Fiyat: 98
+Tarih: 10-04-2025, Fiyat: 98
+Tarih: 11-04-2025, Fiyat: 112
+Tarih: 12-04-2025, Fiyat: 112
+Tarih: 13-04-2025, Fiyat: 98
+Tarih: 14-04-2025, Fiyat: 98
+Tarih: 15-04-2025, Fiyat: 113
+Tarih: 16-04-2025, Fiyat: 98
+Tarih: 17-04-2025, Fiyat: 98
+Tarih: 18-04-2025, Fiyat: 98
+Tarih: 19-04-2025, Fiyat: 99
+Tarih: 20-04-2025, Fiyat: 98
+Tarih: 21-04-2025, Fiyat: 98
+Tarih: 22-04-2025, Fiyat: 98
+Tarih: 23-04-2025, Fiyat: 98
+Tarih: 24-04-2025, Fiyat: 98
+Tarih: 25-04-2025, Fiyat: 98
+Tarih: 26-04-2025, Fiyat: 98
+Tarih: 27-04-2025, Fiyat: -
+Tarih: 28-04-2025, Fiyat: 98
+Tarih: 29-04-2025, Fiyat: 98
+Tarih: 30-04-2025, Fiyat: 98
+Grand Naki Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Naki Hotel).
+Otel araması yapıldı: Grand Naki Hotel
+Önerilen otel seçildi: Grand Naki Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Grand Naki Hotel
+Yeni sekmeye geçildi: Grand Naki Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 104
+Tarih: 17-03-2025, Fiyat: 104
+Tarih: 18-03-2025, Fiyat: 104
+Tarih: 19-03-2025, Fiyat: 104
+Tarih: 20-03-2025, Fiyat: 104
+Tarih: 21-03-2025, Fiyat: 104
+Tarih: 22-03-2025, Fiyat: 104
+Tarih: 23-03-2025, Fiyat: 104
+Tarih: 24-03-2025, Fiyat: 104
+Tarih: 25-03-2025, Fiyat: 104
+Tarih: 26-03-2025, Fiyat: 104
+Tarih: 27-03-2025, Fiyat: 104
+Tarih: 28-03-2025, Fiyat: 104
+Tarih: 29-03-2025, Fiyat: 79
+Tarih: 30-03-2025, Fiyat: 84
+Tarih: 31-03-2025, Fiyat: 84
+Tarih: 01-04-2025, Fiyat: 84
+Tarih: 02-04-2025, Fiyat: 84
+Tarih: 03-04-2025, Fiyat: 84
+Tarih: 04-04-2025, Fiyat: 84
+Tarih: 05-04-2025, Fiyat: 84
+Tarih: 06-04-2025, Fiyat: 84
+Tarih: 07-04-2025, Fiyat: 84
+Tarih: 08-04-2025, Fiyat: 84
+Tarih: 09-04-2025, Fiyat: 84
+Tarih: 10-04-2025, Fiyat: 84
+Tarih: 11-04-2025, Fiyat: 84
+Tarih: 12-04-2025, Fiyat: 84
+Tarih: 13-04-2025, Fiyat: 84
+Tarih: 14-04-2025, Fiyat: 84
+Tarih: 15-04-2025, Fiyat: 84
+Tarih: 16-04-2025, Fiyat: 84
+Tarih: 17-04-2025, Fiyat: -
+Tarih: 18-04-2025, Fiyat: -
+Tarih: 19-04-2025, Fiyat: -
+Tarih: 20-04-2025, Fiyat: -
+Tarih: 21-04-2025, Fiyat: -
+Tarih: 22-04-2025, Fiyat: -
+Tarih: 23-04-2025, Fiyat: -
+Tarih: 24-04-2025, Fiyat: -
+Tarih: 25-04-2025, Fiyat: 84
+Tarih: 26-04-2025, Fiyat: 84
+Tarih: 27-04-2025, Fiyat: 84
+Tarih: 28-04-2025, Fiyat: 84
+Tarih: 29-04-2025, Fiyat: 84
+Tarih: 30-04-2025, Fiyat: 84
+Hyatt Levent Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hyatt Levent Istanbul).
+Otel araması yapıldı: Hyatt Levent Istanbul
+Önerilen otel seçildi: Hyatt Levent Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Hyatt Levent Istanbul
+Yeni sekmeye geçildi: Hyatt Levent Istanbul
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 120
+Tarih: 17-03-2025, Fiyat: 165
+Tarih: 18-03-2025, Fiyat: 160
+Tarih: 19-03-2025, Fiyat: 180
+Tarih: 20-03-2025, Fiyat: 155
+Tarih: 21-03-2025, Fiyat: 135
+Tarih: 22-03-2025, Fiyat: 135
+Tarih: 23-03-2025, Fiyat: 135
+Tarih: 24-03-2025, Fiyat: 140
+Tarih: 25-03-2025, Fiyat: 160
+Tarih: 26-03-2025, Fiyat: 140
+Tarih: 27-03-2025, Fiyat: 130
+Tarih: 28-03-2025, Fiyat: 120
+Tarih: 29-03-2025, Fiyat: 120
+Tarih: 30-03-2025, Fiyat: 120
+Tarih: 31-03-2025, Fiyat: 140
+Tarih: 01-04-2025, Fiyat: 145
+Tarih: 02-04-2025, Fiyat: 145
+Tarih: 03-04-2025, Fiyat: 145
+Tarih: 04-04-2025, Fiyat: 145
+Tarih: 05-04-2025, Fiyat: 145
+Tarih: 06-04-2025, Fiyat: 145
+Tarih: 07-04-2025, Fiyat: 155
+Tarih: 08-04-2025, Fiyat: 185
+Tarih: 09-04-2025, Fiyat: 185
+Tarih: 10-04-2025, Fiyat: 185
+Tarih: 11-04-2025, Fiyat: 155
+Tarih: 12-04-2025, Fiyat: 155
+Tarih: 13-04-2025, Fiyat: 155
+Tarih: 14-04-2025, Fiyat: 224
+Tarih: 15-04-2025, Fiyat: 235
+Tarih: 16-04-2025, Fiyat: 235
+Tarih: 17-04-2025, Fiyat: 155
+Tarih: 18-04-2025, Fiyat: 155
+Tarih: 19-04-2025, Fiyat: 155
+Tarih: 20-04-2025, Fiyat: 155
+Tarih: 21-04-2025, Fiyat: 155
+Tarih: 22-04-2025, Fiyat: 155
+Tarih: 23-04-2025, Fiyat: 155
+Tarih: 24-04-2025, Fiyat: 155
+Tarih: 25-04-2025, Fiyat: 155
+Tarih: 26-04-2025, Fiyat: 155
+Tarih: 27-04-2025, Fiyat: 155
+Tarih: 28-04-2025, Fiyat: 175
+Tarih: 29-04-2025, Fiyat: 155
+Tarih: 30-04-2025, Fiyat: 155
+Hotel le Mirage için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hotel le Mirage).
+Otel araması yapıldı: Hotel le Mirage
+Önerilen otel seçildi: Hotel le Mirage
+Arama yapıldı.
+Otel detay sayfasına gidildi: Hotel le Mirage
+Yeni sekmeye geçildi: Hotel le Mirage
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 57
+Tarih: 17-03-2025, Fiyat: 51
+Tarih: 18-03-2025, Fiyat: 51
+Tarih: 19-03-2025, Fiyat: 51
+Tarih: 20-03-2025, Fiyat: 51
+Tarih: 21-03-2025, Fiyat: 51
+Tarih: 22-03-2025, Fiyat: 51
+Tarih: 23-03-2025, Fiyat: 53
+Tarih: 24-03-2025, Fiyat: 53
+Tarih: 25-03-2025, Fiyat: 51
+Tarih: 26-03-2025, Fiyat: 52
+Tarih: 27-03-2025, Fiyat: 51
+Tarih: 28-03-2025, Fiyat: 51
+Tarih: 29-03-2025, Fiyat: 51
+Tarih: 30-03-2025, Fiyat: 51
+Tarih: 31-03-2025, Fiyat: 57
+Tarih: 01-04-2025, Fiyat: 59
+Tarih: 02-04-2025, Fiyat: 57
+Tarih: 03-04-2025, Fiyat: 57
+Tarih: 04-04-2025, Fiyat: 59
+Tarih: 05-04-2025, Fiyat: 53
+Tarih: 06-04-2025, Fiyat: 53
+Tarih: 07-04-2025, Fiyat: 53
+Tarih: 08-04-2025, Fiyat: 53
+Tarih: 09-04-2025, Fiyat: 57
+Tarih: 10-04-2025, Fiyat: 53
+Tarih: 11-04-2025, Fiyat: 53
+Tarih: 12-04-2025, Fiyat: 53
+Tarih: 13-04-2025, Fiyat: 53
+Tarih: 14-04-2025, Fiyat: 57
+Tarih: 15-04-2025, Fiyat: 53
+Tarih: 16-04-2025, Fiyat: 53
+Tarih: 17-04-2025, Fiyat: 53
+Tarih: 18-04-2025, Fiyat: 53
+Tarih: 19-04-2025, Fiyat: 59
+Tarih: 20-04-2025, Fiyat: 53
+Tarih: 21-04-2025, Fiyat: 57
+Tarih: 22-04-2025, Fiyat: 53
+Tarih: 23-04-2025, Fiyat: 57
+Tarih: 24-04-2025, Fiyat: 59
+Tarih: 25-04-2025, Fiyat: 53
+Tarih: 26-04-2025, Fiyat: 53
+Tarih: 27-04-2025, Fiyat: 53
+Tarih: 28-04-2025, Fiyat: 57
+Tarih: 29-04-2025, Fiyat: 57
+Tarih: 30-04-2025, Fiyat: 59
+Lasagrada Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Lasagrada Hotel).
+Otel araması yapıldı: Lasagrada Hotel
+Önerilen otel seçildi: Lasagrada Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Lasagrada Hotel
+Yeni sekmeye geçildi: Lasagrada Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 100
+Tarih: 17-03-2025, Fiyat: 93
+Tarih: 18-03-2025, Fiyat: 92
+Tarih: 19-03-2025, Fiyat: 95
+Tarih: 20-03-2025, Fiyat: 92
+Tarih: 21-03-2025, Fiyat: 95
+Tarih: 22-03-2025, Fiyat: 95
+Tarih: 23-03-2025, Fiyat: 92
+Tarih: 24-03-2025, Fiyat: 92
+Tarih: 25-03-2025, Fiyat: 93
+Tarih: 26-03-2025, Fiyat: 92
+Tarih: 27-03-2025, Fiyat: 95
+Tarih: 28-03-2025, Fiyat: 95
+Tarih: 29-03-2025, Fiyat: 92
+Tarih: 30-03-2025, Fiyat: 132
+Tarih: 31-03-2025, Fiyat: 140
+Tarih: 01-04-2025, Fiyat: 140
+Tarih: 02-04-2025, Fiyat: 121
+Tarih: 03-04-2025, Fiyat: 121
+Tarih: 04-04-2025, Fiyat: 121
+Tarih: 05-04-2025, Fiyat: 121
+Tarih: 06-04-2025, Fiyat: 121
+Tarih: 07-04-2025, Fiyat: 121
+Tarih: 08-04-2025, Fiyat: 121
+Tarih: 09-04-2025, Fiyat: 121
+Tarih: 10-04-2025, Fiyat: 121
+Tarih: 11-04-2025, Fiyat: 120
+Tarih: 12-04-2025, Fiyat: 121
+Tarih: 13-04-2025, Fiyat: 121
+Tarih: 14-04-2025, Fiyat: 121
+Tarih: 15-04-2025, Fiyat: 121
+Tarih: 16-04-2025, Fiyat: 121
+Tarih: 17-04-2025, Fiyat: 120
+Tarih: 18-04-2025, Fiyat: 121
+Tarih: 19-04-2025, Fiyat: 121
+Tarih: 20-04-2025, Fiyat: 121
+Tarih: 21-04-2025, Fiyat: 121
+Tarih: 22-04-2025, Fiyat: 121
+Tarih: 23-04-2025, Fiyat: 121
+Tarih: 24-04-2025, Fiyat: 121
+Tarih: 25-04-2025, Fiyat: 121
+Tarih: 26-04-2025, Fiyat: 121
+Tarih: 27-04-2025, Fiyat: 122
+Tarih: 28-04-2025, Fiyat: 121
+Tarih: 29-04-2025, Fiyat: 121
+Tarih: 30-04-2025, Fiyat: 124
+Legacy Ottoman Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Legacy Ottoman Hotel).
+Otel araması yapıldı: Legacy Ottoman Hotel
+Önerilen otel seçildi: Legacy Ottoman Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Legacy Ottoman Hotel
+Yeni sekmeye geçildi: Legacy Ottoman Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 119
+Tarih: 17-03-2025, Fiyat: 112
+Tarih: 18-03-2025, Fiyat: 96
+Tarih: 19-03-2025, Fiyat: 83
+Tarih: 20-03-2025, Fiyat: 83
+Tarih: 21-03-2025, Fiyat: 96
+Tarih: 22-03-2025, Fiyat: 91
+Tarih: 23-03-2025, Fiyat: 86
+Tarih: 24-03-2025, Fiyat: 83
+Tarih: 25-03-2025, Fiyat: 88
+Tarih: 26-03-2025, Fiyat: 96
+Tarih: 27-03-2025, Fiyat: 97
+Tarih: 28-03-2025, Fiyat: 98
+Tarih: 29-03-2025, Fiyat: 81
+Tarih: 30-03-2025, Fiyat: 105
+Tarih: 31-03-2025, Fiyat: 97
+Tarih: 01-04-2025, Fiyat: 107
+Tarih: 02-04-2025, Fiyat: 116
+Tarih: 03-04-2025, Fiyat: 124
+Tarih: 04-04-2025, Fiyat: 114
+Tarih: 05-04-2025, Fiyat: 124
+Tarih: 06-04-2025, Fiyat: 117
+Tarih: 07-04-2025, Fiyat: 108
+Tarih: 08-04-2025, Fiyat: 108
+Tarih: 09-04-2025, Fiyat: 108
+Tarih: 10-04-2025, Fiyat: 108
+Tarih: 11-04-2025, Fiyat: 114
+Tarih: 12-04-2025, Fiyat: 124
+Tarih: 13-04-2025, Fiyat: 125
+Tarih: 14-04-2025, Fiyat: 125
+Tarih: 15-04-2025, Fiyat: 108
+Tarih: 16-04-2025, Fiyat: 108
+Tarih: 17-04-2025, Fiyat: 151
+Tarih: 18-04-2025, Fiyat: 156
+Tarih: 19-04-2025, Fiyat: 183
+Tarih: 20-04-2025, Fiyat: 125
+Tarih: 21-04-2025, Fiyat: 125
+Tarih: 22-04-2025, Fiyat: 108
+Tarih: 23-04-2025, Fiyat: 109
+Tarih: 24-04-2025, Fiyat: 118
+Tarih: 25-04-2025, Fiyat: 118
+Tarih: 26-04-2025, Fiyat: 124
+Tarih: 27-04-2025, Fiyat: 125
+Tarih: 28-04-2025, Fiyat: 118
+Tarih: 29-04-2025, Fiyat: 124
+Tarih: 30-04-2025, Fiyat: 117
+Martinenz Otel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Martinenz Otel).
+Otel araması yapıldı: Martinenz Otel
+Önerilen otel seçildi: Martinenz Otel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Martinenz Otel
+Yeni sekmeye geçildi: Martinenz Otel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 51
+Tarih: 17-03-2025, Fiyat: 51
+Tarih: 18-03-2025, Fiyat: 51
+Tarih: 19-03-2025, Fiyat: 51
+Tarih: 20-03-2025, Fiyat: 51
+Tarih: 21-03-2025, Fiyat: 51
+Tarih: 22-03-2025, Fiyat: 51
+Tarih: 23-03-2025, Fiyat: 51
+Tarih: 24-03-2025, Fiyat: 51
+Tarih: 25-03-2025, Fiyat: 51
+Tarih: 26-03-2025, Fiyat: 51
+Tarih: 27-03-2025, Fiyat: 46
+Tarih: 28-03-2025, Fiyat: 51
+Tarih: 29-03-2025, Fiyat: 47
+Tarih: 30-03-2025, Fiyat: 51
+Tarih: 31-03-2025, Fiyat: 51
+Tarih: 01-04-2025, Fiyat: 50
+Tarih: 02-04-2025, Fiyat: 51
+Tarih: 03-04-2025, Fiyat: 72
+Tarih: 04-04-2025, Fiyat: 73
+Tarih: 05-04-2025, Fiyat: 72
+Tarih: 06-04-2025, Fiyat: 56
+Tarih: 07-04-2025, Fiyat: 56
+Tarih: 08-04-2025, Fiyat: 56
+Tarih: 09-04-2025, Fiyat: 56
+Tarih: 10-04-2025, Fiyat: 72
+Tarih: 11-04-2025, Fiyat: 72
+Tarih: 12-04-2025, Fiyat: 72
+Tarih: 13-04-2025, Fiyat: 56
+Tarih: 14-04-2025, Fiyat: 56
+Tarih: 15-04-2025, Fiyat: 56
+Tarih: 16-04-2025, Fiyat: 56
+Tarih: 17-04-2025, Fiyat: 73
+Tarih: 18-04-2025, Fiyat: 72
+Tarih: 19-04-2025, Fiyat: 72
+Tarih: 20-04-2025, Fiyat: 72
+Tarih: 21-04-2025, Fiyat: 56
+Tarih: 22-04-2025, Fiyat: 56
+Tarih: 23-04-2025, Fiyat: 72
+Tarih: 24-04-2025, Fiyat: 73
+Tarih: 25-04-2025, Fiyat: 72
+Tarih: 26-04-2025, Fiyat: 73
+Tarih: 27-04-2025, Fiyat: 56
+Tarih: 28-04-2025, Fiyat: 56
+Tarih: 29-04-2025, Fiyat: 55
+Tarih: 30-04-2025, Fiyat: 72
+Nidya Hotel Galataport için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Nidya Hotel Galataport).
+Otel araması yapıldı: Nidya Hotel Galataport
+Önerilen otel seçildi: Nidya Hotel Galataport
+Arama yapıldı.
+Otel detay sayfasına gidildi: Nidya Hotel Galataport
+Yeni sekmeye geçildi: Nidya Hotel Galataport
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 77
+Tarih: 17-03-2025, Fiyat: 93
+Tarih: 18-03-2025, Fiyat: 77
+Tarih: 19-03-2025, Fiyat: 93
+Tarih: 20-03-2025, Fiyat: 68
+Tarih: 21-03-2025, Fiyat: 68
+Tarih: 22-03-2025, Fiyat: 68
+Tarih: 23-03-2025, Fiyat: 93
+Tarih: 24-03-2025, Fiyat: 77
+Tarih: 25-03-2025, Fiyat: 78
+Tarih: 26-03-2025, Fiyat: 78
+Tarih: 27-03-2025, Fiyat: 77
+Tarih: 28-03-2025, Fiyat: 93
+Tarih: 29-03-2025, Fiyat: -
+Tarih: 30-03-2025, Fiyat: 93
+Tarih: 31-03-2025, Fiyat: -
+Tarih: 01-04-2025, Fiyat: 78
+Tarih: 02-04-2025, Fiyat: 112
+Tarih: 03-04-2025, Fiyat: -
+Tarih: 04-04-2025, Fiyat: -
+Tarih: 05-04-2025, Fiyat: -
+Tarih: 06-04-2025, Fiyat: -
+Tarih: 07-04-2025, Fiyat: 112
+Tarih: 08-04-2025, Fiyat: 78
+Tarih: 09-04-2025, Fiyat: 78
+Tarih: 10-04-2025, Fiyat: 78
+Tarih: 11-04-2025, Fiyat: 112
+Tarih: 12-04-2025, Fiyat: 118
+Tarih: 13-04-2025, Fiyat: 88
+Tarih: 14-04-2025, Fiyat: 112
+Tarih: 15-04-2025, Fiyat: 78
+Tarih: 16-04-2025, Fiyat: 112
+Tarih: 17-04-2025, Fiyat: 112
+Tarih: 18-04-2025, Fiyat: 112
+Tarih: 19-04-2025, Fiyat: -
+Tarih: 20-04-2025, Fiyat: -
+Tarih: 21-04-2025, Fiyat: 78
+Tarih: 22-04-2025, Fiyat: 88
+Tarih: 23-04-2025, Fiyat: 78
+Tarih: 24-04-2025, Fiyat: 78
+Tarih: 25-04-2025, Fiyat: 78
+Tarih: 26-04-2025, Fiyat: 78
+Tarih: 27-04-2025, Fiyat: -
+Tarih: 28-04-2025, Fiyat: 78
+Tarih: 29-04-2025, Fiyat: 78
+Tarih: 30-04-2025, Fiyat: 78
+Point Hotel Barbaros için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Point Hotel Barbaros).
+Otel araması yapıldı: Point Hotel Barbaros
+Önerilen otel seçildi: Point Hotel Barbaros
+Arama yapıldı.
+Otel detay sayfasına gidildi: Point Hotel Barbaros
+Yeni sekmeye geçildi: Point Hotel Barbaros
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 164
+Tarih: 17-03-2025, Fiyat: 154
+Tarih: 18-03-2025, Fiyat: 113
+Tarih: 19-03-2025, Fiyat: 113
+Tarih: 20-03-2025, Fiyat: 113
+Tarih: 21-03-2025, Fiyat: 113
+Tarih: 22-03-2025, Fiyat: 113
+Tarih: 23-03-2025, Fiyat: 113
+Tarih: 24-03-2025, Fiyat: 113
+Tarih: 25-03-2025, Fiyat: 113
+Tarih: 26-03-2025, Fiyat: 113
+Tarih: 27-03-2025, Fiyat: 113
+Tarih: 28-03-2025, Fiyat: 113
+Tarih: 29-03-2025, Fiyat: 113
+Tarih: 30-03-2025, Fiyat: 113
+Tarih: 31-03-2025, Fiyat: 113
+Tarih: 01-04-2025, Fiyat: 121
+Tarih: 02-04-2025, Fiyat: 121
+Tarih: 03-04-2025, Fiyat: 119
+Tarih: 04-04-2025, Fiyat: 119
+Tarih: 05-04-2025, Fiyat: 161
+Tarih: 06-04-2025, Fiyat: 164
+Tarih: 07-04-2025, Fiyat: 161
+Tarih: 08-04-2025, Fiyat: 214
+Tarih: 09-04-2025, Fiyat: 217
+Tarih: 10-04-2025, Fiyat: 217
+Tarih: 11-04-2025, Fiyat: 164
+Tarih: 12-04-2025, Fiyat: 199
+Tarih: 13-04-2025, Fiyat: 196
+Tarih: 14-04-2025, Fiyat: 192
+Tarih: 15-04-2025, Fiyat: 199
+Tarih: 16-04-2025, Fiyat: 199
+Tarih: 17-04-2025, Fiyat: 199
+Tarih: 18-04-2025, Fiyat: 199
+Tarih: 19-04-2025, Fiyat: 199
+Tarih: 20-04-2025, Fiyat: 199
+Tarih: 21-04-2025, Fiyat: 121
+Tarih: 22-04-2025, Fiyat: 199
+Tarih: 23-04-2025, Fiyat: 199
+Tarih: 24-04-2025, Fiyat: 199
+Tarih: 25-04-2025, Fiyat: 196
+Tarih: 26-04-2025, Fiyat: 196
+Tarih: 27-04-2025, Fiyat: 119
+Tarih: 28-04-2025, Fiyat: 119
+Tarih: 29-04-2025, Fiyat: 121
+Tarih: 30-04-2025, Fiyat: 119
+Ramada Pera için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Ramada Pera).
+Otel araması yapıldı: Ramada Pera
+Önerilen otel seçildi: Ramada Pera
+Arama yapıldı.
+Otel detay sayfasına gidildi: Ramada Pera
+Yeni sekmeye geçildi: Ramada Pera
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 120
+Tarih: 17-03-2025, Fiyat: 100
+Tarih: 18-03-2025, Fiyat: 100
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 107
+Tarih: 21-03-2025, Fiyat: 107
+Tarih: 22-03-2025, Fiyat: 107
+Tarih: 23-03-2025, Fiyat: 101
+Tarih: 24-03-2025, Fiyat: 123
+Tarih: 25-03-2025, Fiyat: 93
+Tarih: 26-03-2025, Fiyat: 123
+Tarih: 27-03-2025, Fiyat: 123
+Tarih: 28-03-2025, Fiyat: 122
+Tarih: 29-03-2025, Fiyat: 91
+Tarih: 30-03-2025, Fiyat: 91
+Tarih: 31-03-2025, Fiyat: 91
+Tarih: 01-04-2025, Fiyat: 151
+Tarih: 02-04-2025, Fiyat: 151
+Tarih: 03-04-2025, Fiyat: 151
+Tarih: 04-04-2025, Fiyat: 150
+Tarih: 05-04-2025, Fiyat: 150
+Tarih: 06-04-2025, Fiyat: 150
+Tarih: 07-04-2025, Fiyat: 151
+Tarih: 08-04-2025, Fiyat: 151
+Tarih: 09-04-2025, Fiyat: 151
+Tarih: 10-04-2025, Fiyat: 151
+Tarih: 11-04-2025, Fiyat: 150
+Tarih: 12-04-2025, Fiyat: 136
+Tarih: 13-04-2025, Fiyat: 150
+Tarih: 14-04-2025, Fiyat: 151
+Tarih: 15-04-2025, Fiyat: 151
+Tarih: 16-04-2025, Fiyat: 151
+Tarih: 17-04-2025, Fiyat: 151
+Tarih: 18-04-2025, Fiyat: 136
+Tarih: 19-04-2025, Fiyat: 160
+Tarih: 20-04-2025, Fiyat: 161
+Tarih: 21-04-2025, Fiyat: 161
+Tarih: 22-04-2025, Fiyat: 161
+Tarih: 23-04-2025, Fiyat: 160
+Tarih: 24-04-2025, Fiyat: 161
+Tarih: 25-04-2025, Fiyat: 150
+Tarih: 26-04-2025, Fiyat: 150
+Tarih: 27-04-2025, Fiyat: 150
+Tarih: 28-04-2025, Fiyat: 151
+Tarih: 29-04-2025, Fiyat: 151
+Tarih: 30-04-2025, Fiyat: 151
+Riva Hotel Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Riva Hotel Taksim).
+Otel araması yapıldı: Riva Hotel Taksim
+Önerilen otel seçildi: Riva Hotel Taksim
+Arama yapıldı.
+Otel detay sayfasına gidildi: Riva Hotel Taksim
+Yeni sekmeye geçildi: Riva Hotel Taksim
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 78
+Tarih: 17-03-2025, Fiyat: 78
+Tarih: 18-03-2025, Fiyat: 78
+Tarih: 19-03-2025, Fiyat: 78
+Tarih: 20-03-2025, Fiyat: 78
+Tarih: 21-03-2025, Fiyat: 78
+Tarih: 22-03-2025, Fiyat: 89
+Tarih: 23-03-2025, Fiyat: 149
+Tarih: 24-03-2025, Fiyat: 149
+Tarih: 25-03-2025, Fiyat: 89
+Tarih: 26-03-2025, Fiyat: 89
+Tarih: 27-03-2025, Fiyat: 89
+Tarih: 28-03-2025, Fiyat: 149
+Tarih: 29-03-2025, Fiyat: 149
+Tarih: 30-03-2025, Fiyat: 100
+Tarih: 31-03-2025, Fiyat: 100
+Tarih: 01-04-2025, Fiyat: 120
+Tarih: 02-04-2025, Fiyat: 122
+Tarih: 03-04-2025, Fiyat: 122
+Tarih: 04-04-2025, Fiyat: 120
+Tarih: 05-04-2025, Fiyat: 122
+Tarih: 06-04-2025, Fiyat: 122
+Tarih: 07-04-2025, Fiyat: 122
+Tarih: 08-04-2025, Fiyat: 122
+Tarih: 09-04-2025, Fiyat: 122
+Tarih: 10-04-2025, Fiyat: 122
+Tarih: 11-04-2025, Fiyat: 122
+Tarih: 12-04-2025, Fiyat: 122
+Tarih: 13-04-2025, Fiyat: 122
+Tarih: 14-04-2025, Fiyat: 122
+Tarih: 15-04-2025, Fiyat: 122
+Tarih: 16-04-2025, Fiyat: 122
+Tarih: 17-04-2025, Fiyat: 122
+Tarih: 18-04-2025, Fiyat: 122
+Tarih: 19-04-2025, Fiyat: 122
+Tarih: 20-04-2025, Fiyat: 120
+Tarih: 21-04-2025, Fiyat: 122
+Tarih: 22-04-2025, Fiyat: 122
+Tarih: 23-04-2025, Fiyat: 122
+Tarih: 24-04-2025, Fiyat: 168
+Tarih: 25-04-2025, Fiyat: 168
+Tarih: 26-04-2025, Fiyat: 123
+Tarih: 27-04-2025, Fiyat: 122
+Tarih: 28-04-2025, Fiyat: 122
+Tarih: 29-04-2025, Fiyat: 120
+Tarih: 30-04-2025, Fiyat: 122
+Sheraton Istanbul City Center için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sheraton Istanbul City Center).
+Otel araması yapıldı: Sheraton Istanbul City Center
+Önerilen otel seçildi: Sheraton Istanbul City Center
+Arama yapıldı.
+Otel detay sayfasına gidildi: Sheraton Istanbul City Center
+Yeni sekmeye geçildi: Sheraton Istanbul City Center
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 102
+Tarih: 17-03-2025, Fiyat: 115
+Tarih: 18-03-2025, Fiyat: 99
+Tarih: 19-03-2025, Fiyat: 112
+Tarih: 20-03-2025, Fiyat: 104
+Tarih: 21-03-2025, Fiyat: 100
+Tarih: 22-03-2025, Fiyat: 100
+Tarih: 23-03-2025, Fiyat: 103
+Tarih: 24-03-2025, Fiyat: 101
+Tarih: 25-03-2025, Fiyat: 100
+Tarih: 26-03-2025, Fiyat: 101
+Tarih: 27-03-2025, Fiyat: 101
+Tarih: 28-03-2025, Fiyat: 101
+Tarih: 29-03-2025, Fiyat: 115
+Tarih: 30-03-2025, Fiyat: 105
+Tarih: 31-03-2025, Fiyat: 105
+Tarih: 01-04-2025, Fiyat: 121
+Tarih: 02-04-2025, Fiyat: 121
+Tarih: 03-04-2025, Fiyat: 121
+Tarih: 04-04-2025, Fiyat: 118
+Tarih: 05-04-2025, Fiyat: 118
+Tarih: 06-04-2025, Fiyat: 107
+Tarih: 07-04-2025, Fiyat: 105
+Tarih: 08-04-2025, Fiyat: 107
+Tarih: 09-04-2025, Fiyat: 109
+Tarih: 10-04-2025, Fiyat: 109
+Tarih: 11-04-2025, Fiyat: 118
+Tarih: 12-04-2025, Fiyat: 142
+Tarih: 13-04-2025, Fiyat: 118
+Tarih: 14-04-2025, Fiyat: 109
+Tarih: 15-04-2025, Fiyat: 121
+Tarih: 16-04-2025, Fiyat: 121
+Tarih: 17-04-2025, Fiyat: 123
+Tarih: 18-04-2025, Fiyat: 123
+Tarih: 19-04-2025, Fiyat: 123
+Tarih: 20-04-2025, Fiyat: 123
+Tarih: 21-04-2025, Fiyat: 110
+Tarih: 22-04-2025, Fiyat: 123
+Tarih: 23-04-2025, Fiyat: 208
+Tarih: 24-04-2025, Fiyat: 123
+Tarih: 25-04-2025, Fiyat: 123
+Tarih: 26-04-2025, Fiyat: 115
+Tarih: 27-04-2025, Fiyat: 115
+Tarih: 28-04-2025, Fiyat: 115
+Tarih: 29-04-2025, Fiyat: 115
+Tarih: 30-04-2025, Fiyat: 115
+Sim Hotel
+Aksaray, Aksaray Mah Namık Kemal Cad, için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sim Hotel
+Aksaray, Aksaray Mah Namık Kemal Cad,).
+Otel araması yapıldı: Sim Hotel
+Aksaray, Aksaray Mah Namık Kemal Cad,
+Önerilen otel seçildi: Sim Hotel
+Aksaray, Aksaray Mah Namık Kemal Cad,
+Arama yapıldı.
+Hata oluştu (Sim Hotel
+Aksaray, Aksaray Mah Namık Kemal Cad,): Message: 
+Stacktrace:
+0   chromedriver                        0x000000010452d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000104525ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104079ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001040c11d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104102678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001040b535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001044f2cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001044f5fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001044d2d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001044f6800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001044c3ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010451645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001045165e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000104525a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+The Elysium Istanbul Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Elysium Istanbul Taksim).
+Otel araması yapıldı: The Elysium Istanbul Taksim
+Önerilen otel seçildi: The Elysium Istanbul Taksim
+Arama yapıldı.
+Otel detay sayfasına gidildi: The Elysium Istanbul Taksim
+Yeni sekmeye geçildi: The Elysium Istanbul Taksim
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 80
+Tarih: 17-03-2025, Fiyat: 65
+Tarih: 18-03-2025, Fiyat: 80
+Tarih: 19-03-2025, Fiyat: 78
+Tarih: 20-03-2025, Fiyat: 86
+Tarih: 21-03-2025, Fiyat: 78
+Tarih: 22-03-2025, Fiyat: 86
+Tarih: 23-03-2025, Fiyat: 78
+Tarih: 24-03-2025, Fiyat: 78
+Tarih: 25-03-2025, Fiyat: 86
+Tarih: 26-03-2025, Fiyat: 86
+Tarih: 27-03-2025, Fiyat: 86
+Tarih: 28-03-2025, Fiyat: 86
+Tarih: 29-03-2025, Fiyat: 89
+Tarih: 30-03-2025, Fiyat: 81
+Tarih: 31-03-2025, Fiyat: 81
+Tarih: 01-04-2025, Fiyat: 95
+Tarih: 02-04-2025, Fiyat: 97
+Tarih: 03-04-2025, Fiyat: 97
+Tarih: 04-04-2025, Fiyat: 93
+Tarih: 05-04-2025, Fiyat: 88
+Tarih: 06-04-2025, Fiyat: 93
+Tarih: 07-04-2025, Fiyat: 93
+Tarih: 08-04-2025, Fiyat: 84
+Tarih: 09-04-2025, Fiyat: 84
+Tarih: 10-04-2025, Fiyat: 84
+Tarih: 11-04-2025, Fiyat: 102
+Tarih: 12-04-2025, Fiyat: 102
+Tarih: 13-04-2025, Fiyat: 84
+Tarih: 14-04-2025, Fiyat: 97
+Tarih: 15-04-2025, Fiyat: 97
+Tarih: 16-04-2025, Fiyat: 97
+Tarih: 17-04-2025, Fiyat: 120
+Tarih: 18-04-2025, Fiyat: 118
+Tarih: 19-04-2025, Fiyat: 120
+Tarih: 20-04-2025, Fiyat: 120
+Tarih: 21-04-2025, Fiyat: 131
+Tarih: 22-04-2025, Fiyat: 120
+Tarih: 23-04-2025, Fiyat: 120
+Tarih: 24-04-2025, Fiyat: 120
+Tarih: 25-04-2025, Fiyat: 120
+Tarih: 26-04-2025, Fiyat: 120
+Tarih: 27-04-2025, Fiyat: 120
+Tarih: 28-04-2025, Fiyat: 120
+Tarih: 29-04-2025, Fiyat: 104
+Tarih: 30-04-2025, Fiyat: 104
+The Elysium Styles Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Elysium Styles Taksim).
+Otel araması yapıldı: The Elysium Styles Taksim
+Önerilen otel seçildi: The Elysium Styles Taksim
+Arama yapıldı.
+Otel detay sayfasına gidildi: The Elysium Styles Taksim
+Yeni sekmeye geçildi: The Elysium Styles Taksim
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 102
+Tarih: 17-03-2025, Fiyat: 115
+Tarih: 18-03-2025, Fiyat: 99
+Tarih: 19-03-2025, Fiyat: 112
+Tarih: 20-03-2025, Fiyat: 104
+Tarih: 21-03-2025, Fiyat: 100
+Tarih: 22-03-2025, Fiyat: 100
+Tarih: 23-03-2025, Fiyat: 103
+Tarih: 24-03-2025, Fiyat: 101
+Tarih: 25-03-2025, Fiyat: 100
+Tarih: 26-03-2025, Fiyat: 101
+Tarih: 27-03-2025, Fiyat: 101
+Tarih: 28-03-2025, Fiyat: 101
+Tarih: 29-03-2025, Fiyat: 115
+Tarih: 30-03-2025, Fiyat: 105
+Tarih: 31-03-2025, Fiyat: 105
+Tarih: 01-04-2025, Fiyat: 121
+Tarih: 02-04-2025, Fiyat: 121
+Tarih: 03-04-2025, Fiyat: 121
+Tarih: 04-04-2025, Fiyat: 118
+Tarih: 05-04-2025, Fiyat: 118
+Tarih: 06-04-2025, Fiyat: 107
+Tarih: 07-04-2025, Fiyat: 105
+Tarih: 08-04-2025, Fiyat: 107
+Tarih: 09-04-2025, Fiyat: 109
+Tarih: 10-04-2025, Fiyat: 109
+Tarih: 11-04-2025, Fiyat: 118
+Tarih: 12-04-2025, Fiyat: 142
+Tarih: 13-04-2025, Fiyat: 118
+Tarih: 14-04-2025, Fiyat: 109
+Tarih: 15-04-2025, Fiyat: 121
+Tarih: 16-04-2025, Fiyat: 121
+Tarih: 17-04-2025, Fiyat: 123
+Tarih: 18-04-2025, Fiyat: 123
+Tarih: 19-04-2025, Fiyat: 123
+Tarih: 20-04-2025, Fiyat: 123
+Tarih: 21-04-2025, Fiyat: 110
+Tarih: 22-04-2025, Fiyat: 123
+Tarih: 23-04-2025, Fiyat: 208
+Tarih: 24-04-2025, Fiyat: 123
+Tarih: 25-04-2025, Fiyat: 123
+Tarih: 26-04-2025, Fiyat: 115
+Tarih: 27-04-2025, Fiyat: 115
+Tarih: 28-04-2025, Fiyat: 115
+Tarih: 29-04-2025, Fiyat: 115
+Tarih: 30-04-2025, Fiyat: 115
+The Westin Istanbul Nisantasi için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Westin Istanbul Nisantasi).
+Otel araması yapıldı: The Westin Istanbul Nisantasi
+Önerilen otel seçildi: The Westin Istanbul Nisantasi
+Arama yapıldı.
+Otel detay sayfasına gidildi: The Westin Istanbul Nisantasi
+Yeni sekmeye geçildi: The Westin Istanbul Nisantasi
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 149
+Tarih: 17-03-2025, Fiyat: 133
+Tarih: 18-03-2025, Fiyat: 133
+Tarih: 19-03-2025, Fiyat: 133
+Tarih: 20-03-2025, Fiyat: 133
+Tarih: 21-03-2025, Fiyat: 133
+Tarih: 22-03-2025, Fiyat: 133
+Tarih: 23-03-2025, Fiyat: 133
+Tarih: 24-03-2025, Fiyat: 133
+Tarih: 25-03-2025, Fiyat: 133
+Tarih: 26-03-2025, Fiyat: 133
+Tarih: 27-03-2025, Fiyat: 133
+Tarih: 28-03-2025, Fiyat: 166
+Tarih: 29-03-2025, Fiyat: 170
+Tarih: 30-03-2025, Fiyat: 196
+Tarih: 31-03-2025, Fiyat: 281
+Tarih: 01-04-2025, Fiyat: -
+Tarih: 02-04-2025, Fiyat: 374
+Tarih: 03-04-2025, Fiyat: -
+Tarih: 04-04-2025, Fiyat: 291
+Tarih: 05-04-2025, Fiyat: 253
+Tarih: 06-04-2025, Fiyat: 220
+Tarih: 07-04-2025, Fiyat: 220
+Tarih: 08-04-2025, Fiyat: 208
+Tarih: 09-04-2025, Fiyat: 208
+Tarih: 10-04-2025, Fiyat: 340
+Tarih: 11-04-2025, Fiyat: 184
+Tarih: 12-04-2025, Fiyat: 184
+Tarih: 13-04-2025, Fiyat: 184
+Tarih: 14-04-2025, Fiyat: 184
+Tarih: 15-04-2025, Fiyat: 184
+Tarih: 16-04-2025, Fiyat: 184
+Tarih: 17-04-2025, Fiyat: 226
+Tarih: 18-04-2025, Fiyat: 184
+Tarih: 19-04-2025, Fiyat: 184
+Tarih: 20-04-2025, Fiyat: 184
+Tarih: 21-04-2025, Fiyat: 184
+Tarih: 22-04-2025, Fiyat: 184
+Tarih: 23-04-2025, Fiyat: 184
+Tarih: 24-04-2025, Fiyat: 184
+Tarih: 25-04-2025, Fiyat: 184
+Tarih: 26-04-2025, Fiyat: 184
+Tarih: 27-04-2025, Fiyat: 184
+Tarih: 28-04-2025, Fiyat: 184
+Tarih: 29-04-2025, Fiyat: 184
+Tarih: 30-04-2025, Fiyat: 184
+Wyndham Istanbul Old City için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Wyndham Istanbul Old City).
+Otel araması yapıldı: Wyndham Istanbul Old City
+Önerilen otel seçildi: Wyndham Istanbul Old City
+Arama yapıldı.
+Otel detay sayfasına gidildi: Wyndham Istanbul Old City
+Yeni sekmeye geçildi: Wyndham Istanbul Old City
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 73
+Tarih: 17-03-2025, Fiyat: 73
+Tarih: 18-03-2025, Fiyat: 73
+Tarih: 19-03-2025, Fiyat: 73
+Tarih: 20-03-2025, Fiyat: 73
+Tarih: 21-03-2025, Fiyat: 115
+Tarih: 22-03-2025, Fiyat: 326
+Tarih: 23-03-2025, Fiyat: 127
+Tarih: 24-03-2025, Fiyat: 73
+Tarih: 25-03-2025, Fiyat: 73
+Tarih: 26-03-2025, Fiyat: 73
+Tarih: 27-03-2025, Fiyat: 73
+Tarih: 28-03-2025, Fiyat: 115
+Tarih: 29-03-2025, Fiyat: 153
+Tarih: 30-03-2025, Fiyat: 80
+Tarih: 31-03-2025, Fiyat: 80
+Tarih: 01-04-2025, Fiyat: 151
+Tarih: 02-04-2025, Fiyat: 153
+Tarih: 03-04-2025, Fiyat: 151
+Tarih: 04-04-2025, Fiyat: 153
+Tarih: 05-04-2025, Fiyat: 209
+Tarih: 06-04-2025, Fiyat: 153
+Tarih: 07-04-2025, Fiyat: 155
+Tarih: 08-04-2025, Fiyat: 153
+Tarih: 09-04-2025, Fiyat: 148
+Tarih: 10-04-2025, Fiyat: 153
+Tarih: 11-04-2025, Fiyat: 153
+Tarih: 12-04-2025, Fiyat: 196
+Tarih: 13-04-2025, Fiyat: 153
+Tarih: 14-04-2025, Fiyat: 153
+Tarih: 15-04-2025, Fiyat: 153
+Tarih: 16-04-2025, Fiyat: 153
+Tarih: 17-04-2025, Fiyat: 196
+Tarih: 18-04-2025, Fiyat: -
+Tarih: 19-04-2025, Fiyat: -
+Tarih: 20-04-2025, Fiyat: -
+Tarih: 21-04-2025, Fiyat: 153
+Tarih: 22-04-2025, Fiyat: 153
+Tarih: 23-04-2025, Fiyat: 153
+Tarih: 24-04-2025, Fiyat: 153
+Tarih: 25-04-2025, Fiyat: 155
+Tarih: 26-04-2025, Fiyat: 155
+Tarih: 27-04-2025, Fiyat: 153
+Tarih: 28-04-2025, Fiyat: 153
+Tarih: 29-04-2025, Fiyat: 153
+Tarih: 30-04-2025, Fiyat: 153
+Zimmer Hotels Bosphorus için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Zimmer Hotels Bosphorus).
+Otel araması yapıldı: Zimmer Hotels Bosphorus
+Önerilen otel seçildi: Zimmer Hotels Bosphorus
+Arama yapıldı.
+Otel detay sayfasına gidildi: Zimmer Hotels Bosphorus
+Yeni sekmeye geçildi: Zimmer Hotels Bosphorus
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 85
+Tarih: 17-03-2025, Fiyat: 73
+Tarih: 18-03-2025, Fiyat: 78
+Tarih: 19-03-2025, Fiyat: 73
+Tarih: 20-03-2025, Fiyat: 78
+Tarih: 21-03-2025, Fiyat: 73
+Tarih: 22-03-2025, Fiyat: 73
+Tarih: 23-03-2025, Fiyat: 73
+Tarih: 24-03-2025, Fiyat: 73
+Tarih: 25-03-2025, Fiyat: 73
+Tarih: 26-03-2025, Fiyat: 73
+Tarih: 27-03-2025, Fiyat: 73
+Tarih: 28-03-2025, Fiyat: 73
+Tarih: 29-03-2025, Fiyat: 85
+Tarih: 30-03-2025, Fiyat: 78
+Tarih: 31-03-2025, Fiyat: 78
+Tarih: 01-04-2025, Fiyat: 105
+Tarih: 02-04-2025, Fiyat: 105
+Tarih: 03-04-2025, Fiyat: 104
+Tarih: 04-04-2025, Fiyat: 105
+Tarih: 05-04-2025, Fiyat: 105
+Tarih: 06-04-2025, Fiyat: 105
+Tarih: 07-04-2025, Fiyat: 105
+Tarih: 08-04-2025, Fiyat: 105
+Tarih: 09-04-2025, Fiyat: 105
+Tarih: 10-04-2025, Fiyat: 104
+Tarih: 11-04-2025, Fiyat: 105
+Tarih: 12-04-2025, Fiyat: 105
+Tarih: 13-04-2025, Fiyat: 105
+Tarih: 14-04-2025, Fiyat: 105
+Tarih: 15-04-2025, Fiyat: 105
+Tarih: 16-04-2025, Fiyat: 104
+Tarih: 17-04-2025, Fiyat: 105
+Tarih: 18-04-2025, Fiyat: 105
+Tarih: 19-04-2025, Fiyat: 104
+Tarih: 20-04-2025, Fiyat: 105
+Tarih: 21-04-2025, Fiyat: 105
+Tarih: 22-04-2025, Fiyat: 104
+Tarih: 23-04-2025, Fiyat: 105
+Tarih: 24-04-2025, Fiyat: 105
+Tarih: 25-04-2025, Fiyat: 105
+Tarih: 26-04-2025, Fiyat: 105
+Tarih: 27-04-2025, Fiyat: 105
+Tarih: 28-04-2025, Fiyat: 105
+Tarih: 29-04-2025, Fiyat: 105
+Tarih: 30-04-2025, Fiyat: 105
+Elite World Comfy Istanbul Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Comfy Istanbul Taksim).
+Otel araması yapıldı: Elite World Comfy Istanbul Taksim
+Önerilen otel seçildi: Elite World Comfy Istanbul Taksim
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Comfy Istanbul Taksim
+Yeni sekmeye geçildi: Elite World Comfy Istanbul Taksim
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 63
+Tarih: 17-03-2025, Fiyat: 63
+Tarih: 18-03-2025, Fiyat: 63
+Tarih: 19-03-2025, Fiyat: -
+Tarih: 20-03-2025, Fiyat: -
+Tarih: 21-03-2025, Fiyat: -
+Tarih: 22-03-2025, Fiyat: -
+Tarih: 23-03-2025, Fiyat: -
+Tarih: 24-03-2025, Fiyat: 88
+Tarih: 25-03-2025, Fiyat: 70
+Tarih: 26-03-2025, Fiyat: -
+Tarih: 27-03-2025, Fiyat: 79
+Tarih: 28-03-2025, Fiyat: -
+Tarih: 29-03-2025, Fiyat: -
+Tarih: 30-03-2025, Fiyat: -
+Tarih: 31-03-2025, Fiyat: -
+Tarih: 01-04-2025, Fiyat: -
+Tarih: 02-04-2025, Fiyat: -
+Tarih: 03-04-2025, Fiyat: -
+Tarih: 04-04-2025, Fiyat: -
+Tarih: 05-04-2025, Fiyat: -
+Tarih: 06-04-2025, Fiyat: -
+Tarih: 07-04-2025, Fiyat: 89
+Tarih: 08-04-2025, Fiyat: 79
+Tarih: 09-04-2025, Fiyat: 79
+Tarih: 10-04-2025, Fiyat: 79
+Tarih: 11-04-2025, Fiyat: 79
+Tarih: 12-04-2025, Fiyat: 79
+Tarih: 13-04-2025, Fiyat: 79
+Tarih: 14-04-2025, Fiyat: 79
+Tarih: 15-04-2025, Fiyat: 79
+Tarih: 16-04-2025, Fiyat: 79
+Tarih: 17-04-2025, Fiyat: 78
+Tarih: 18-04-2025, Fiyat: 79
+Tarih: 19-04-2025, Fiyat: 79
+Tarih: 20-04-2025, Fiyat: 79
+Tarih: 21-04-2025, Fiyat: 78
+Tarih: 22-04-2025, Fiyat: 78
+Tarih: 23-04-2025, Fiyat: 79
+Tarih: 24-04-2025, Fiyat: 79
+Tarih: 25-04-2025, Fiyat: 79
+Tarih: 26-04-2025, Fiyat: 79
+Tarih: 27-04-2025, Fiyat: 79
+Tarih: 28-04-2025, Fiyat: 78
+Tarih: 29-04-2025, Fiyat: 79
+Tarih: 30-04-2025, Fiyat: 79
+Elite World Grand Istanbul Basin Ekspres için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Grand Istanbul Basin Ekspres).
+Otel araması yapıldı: Elite World Grand Istanbul Basin Ekspres
+Önerilen otel seçildi: Elite World Grand Istanbul Basin Ekspres
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Grand Istanbul Basin Ekspres
+Yeni sekmeye geçildi: Elite World Grand Istanbul Basin Ekspres
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 63
+Tarih: 17-03-2025, Fiyat: 71
+Tarih: 18-03-2025, Fiyat: 67
+Tarih: 19-03-2025, Fiyat: 73
+Tarih: 20-03-2025, Fiyat: 68
+Tarih: 21-03-2025, Fiyat: 68
+Tarih: 22-03-2025, Fiyat: 68
+Tarih: 23-03-2025, Fiyat: 68
+Tarih: 24-03-2025, Fiyat: 68
+Tarih: 25-03-2025, Fiyat: 68
+Tarih: 26-03-2025, Fiyat: 68
+Tarih: 27-03-2025, Fiyat: 68
+Tarih: 28-03-2025, Fiyat: 71
+Tarih: 29-03-2025, Fiyat: 72
+Tarih: 30-03-2025, Fiyat: 64
+Tarih: 31-03-2025, Fiyat: 64
+Tarih: 01-04-2025, Fiyat: 56
+Tarih: 02-04-2025, Fiyat: 56
+Tarih: 03-04-2025, Fiyat: 60
+Tarih: 04-04-2025, Fiyat: 60
+Tarih: 05-04-2025, Fiyat: 75
+Tarih: 06-04-2025, Fiyat: 77
+Tarih: 07-04-2025, Fiyat: 79
+Tarih: 08-04-2025, Fiyat: 79
+Tarih: 09-04-2025, Fiyat: 70
+Tarih: 10-04-2025, Fiyat: 70
+Tarih: 11-04-2025, Fiyat: 70
+Tarih: 12-04-2025, Fiyat: 75
+Tarih: 13-04-2025, Fiyat: 57
+Tarih: 14-04-2025, Fiyat: 66
+Tarih: 15-04-2025, Fiyat: 115
+Tarih: 16-04-2025, Fiyat: 73
+Tarih: 17-04-2025, Fiyat: 72
+Tarih: 18-04-2025, Fiyat: 86
+Tarih: 19-04-2025, Fiyat: 137
+Tarih: 20-04-2025, Fiyat: 74
+Tarih: 21-04-2025, Fiyat: 74
+Tarih: 22-04-2025, Fiyat: 77
+Tarih: 23-04-2025, Fiyat: 77
+Tarih: 24-04-2025, Fiyat: 74
+Tarih: 25-04-2025, Fiyat: 74
+Tarih: 26-04-2025, Fiyat: 74
+Tarih: 27-04-2025, Fiyat: 74
+Tarih: 28-04-2025, Fiyat: 74
+Tarih: 29-04-2025, Fiyat: 74
+Tarih: 30-04-2025, Fiyat: 74
+Elite World Grand Istanbul Kucukyali için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Grand Istanbul Kucukyali).
+Otel araması yapıldı: Elite World Grand Istanbul Kucukyali
+Önerilen otel seçildi: Elite World Grand Istanbul Kucukyali
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Grand Istanbul Kucukyali
+Yeni sekmeye geçildi: Elite World Grand Istanbul Kucukyali
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 78
+Tarih: 17-03-2025, Fiyat: 78
+Tarih: 18-03-2025, Fiyat: 78
+Tarih: 19-03-2025, Fiyat: 78
+Tarih: 20-03-2025, Fiyat: 97
+Tarih: 21-03-2025, Fiyat: 97
+Tarih: 22-03-2025, Fiyat: 78
+Tarih: 23-03-2025, Fiyat: 78
+Tarih: 24-03-2025, Fiyat: 78
+Tarih: 25-03-2025, Fiyat: 78
+Tarih: 26-03-2025, Fiyat: 78
+Tarih: 27-03-2025, Fiyat: 78
+Tarih: 28-03-2025, Fiyat: 78
+Tarih: 29-03-2025, Fiyat: 78
+Tarih: 30-03-2025, Fiyat: 78
+Tarih: 31-03-2025, Fiyat: 78
+Tarih: 01-04-2025, Fiyat: 78
+Tarih: 02-04-2025, Fiyat: 78
+Tarih: 03-04-2025, Fiyat: 78
+Tarih: 04-04-2025, Fiyat: 78
+Tarih: 05-04-2025, Fiyat: 78
+Tarih: 06-04-2025, Fiyat: 78
+Tarih: 07-04-2025, Fiyat: 78
+Tarih: 08-04-2025, Fiyat: 78
+Tarih: 09-04-2025, Fiyat: 78
+Tarih: 10-04-2025, Fiyat: 78
+Tarih: 11-04-2025, Fiyat: 78
+Tarih: 12-04-2025, Fiyat: 78
+Tarih: 13-04-2025, Fiyat: 78
+Tarih: 14-04-2025, Fiyat: 78
+Tarih: 15-04-2025, Fiyat: 78
+Tarih: 16-04-2025, Fiyat: 89
+Tarih: 17-04-2025, Fiyat: 89
+Tarih: 18-04-2025, Fiyat: 89
+Tarih: 19-04-2025, Fiyat: 89
+Tarih: 20-04-2025, Fiyat: 89
+Tarih: 21-04-2025, Fiyat: 89
+Tarih: 22-04-2025, Fiyat: 89
+Tarih: 23-04-2025, Fiyat: 89
+Tarih: 24-04-2025, Fiyat: 89
+Tarih: 25-04-2025, Fiyat: 89
+Tarih: 26-04-2025, Fiyat: 89
+Tarih: 27-04-2025, Fiyat: 89
+Tarih: 28-04-2025, Fiyat: 89
+Tarih: 29-04-2025, Fiyat: 89
+Tarih: 30-04-2025, Fiyat: 89
+Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd. için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.).
+Otel araması yapıldı: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Önerilen otel seçildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Yeni sekmeye geçildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 98
+Tarih: 17-03-2025, Fiyat: 98
+Tarih: 18-03-2025, Fiyat: 88
+Tarih: 19-03-2025, Fiyat: 88
+Tarih: 20-03-2025, Fiyat: 88
+Tarih: 21-03-2025, Fiyat: 99
+Tarih: 22-03-2025, Fiyat: 88
+Tarih: 23-03-2025, Fiyat: 88
+Tarih: 24-03-2025, Fiyat: 88
+Tarih: 25-03-2025, Fiyat: 88
+Tarih: 26-03-2025, Fiyat: 88
+Tarih: 27-03-2025, Fiyat: 88
+Tarih: 28-03-2025, Fiyat: 94
+Tarih: 29-03-2025, Fiyat: 110
+Tarih: 30-03-2025, Fiyat: 110
+Tarih: 31-03-2025, Fiyat: 94
+Tarih: 01-04-2025, Fiyat: 132
+Tarih: 02-04-2025, Fiyat: 154
+Tarih: 03-04-2025, Fiyat: 154
+Tarih: 04-04-2025, Fiyat: 154
+Tarih: 05-04-2025, Fiyat: 154
+Tarih: 06-04-2025, Fiyat: 132
+Tarih: 07-04-2025, Fiyat: 132
+Tarih: 08-04-2025, Fiyat: 132
+Tarih: 09-04-2025, Fiyat: 132
+Tarih: 10-04-2025, Fiyat: 132
+Tarih: 11-04-2025, Fiyat: 166
+Tarih: 12-04-2025, Fiyat: 132
+Tarih: 13-04-2025, Fiyat: 132
+Tarih: 14-04-2025, Fiyat: 166
+Tarih: 15-04-2025, Fiyat: 166
+Tarih: 16-04-2025, Fiyat: 177
+Tarih: 17-04-2025, Fiyat: -
+Tarih: 18-04-2025, Fiyat: 166
+Tarih: 19-04-2025, Fiyat: 166
+Tarih: 20-04-2025, Fiyat: 166
+Tarih: 21-04-2025, Fiyat: 154
+Tarih: 22-04-2025, Fiyat: 154
+Tarih: 23-04-2025, Fiyat: 154
+Tarih: 24-04-2025, Fiyat: 143

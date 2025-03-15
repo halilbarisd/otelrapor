@@ -10,8 +10,52 @@ from datetime import datetime
 import os
 import glob
 import subprocess  # Git işlemleri için ekledik
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
 # Klasörü sabitle (değiştirmezsen hep sorun çıkar)
 os.chdir('/Users/halilbarisduman/Desktop/otelrapor')
+
+def mail_gonder(konu, mesaj):
+    # SMTP Ayarları ➔ Bunları kendine göre doldur!
+    smtp_server = 'mail.kurumsaleposta.com'     # SMTP sunucun
+    smtp_port = 587                        # Genelde 587 (TLS), 465 (SSL)
+    gonderici_email = 'admin@hifourstravel.com' # Gönderen mail
+    gonderici_sifre = 'V_NWK-CbqMd:47s'        # Mail şifresi
+
+    # Alıcı ➔ Liste şeklinde yazabilirsin
+    alici_email = ['contract@hifourstravel.com']
+
+    # Mail içeriği ➔ HTML Gönderiyoruz
+    msg = MIMEMultipart()
+    msg['From'] = gonderici_email
+    msg['To'] = ", ".join(alici_email)
+    msg['Subject'] = konu
+
+    icerik = f"""
+    <html>
+    <body>
+        <p>Merhaba,</p>
+        <p><strong>Stop Sale Botu çalıştı.</strong> 5 dakika sonra kontrol edebilirsiniz.</p>
+        <p>Uygulama Linki: <a href="https://otelrapor-hifourstravel.streamlit.app">Otel Dashboard'a Git</a></p>
+        <br>
+        <p>İyi çalışmalar.</p>
+    </body>
+    </html>
+    """
+
+    msg.attach(MIMEText(icerik, 'html'))
+
+    try:
+        server = smtplib.SMTP(smtp_server, smtp_port)
+        server.starttls()
+        server.login(gonderici_email, gonderici_sifre)
+        server.sendmail(gonderici_email, alici_email, msg.as_string())
+        server.quit()
+        print("✅ Mail başarıyla gönderildi!")
+    except Exception as e:
+        print(f"❌ Mail gönderim hatası: {e}")
 
 # İnsan benzeri davranış için rastgele bekleme fonksiyonu
 def human_like_wait(min_time=0.5, max_time=2):
@@ -181,6 +225,11 @@ def temizle_max_kayit(limit=10):
             
 # Ana işlem
 def main(hotel_list_file):
+        # Bot başladığında bildirim gönder
+    mail_gonder(
+        "🚀 Stop Sale Botu Çalıştı!",
+        "Stop Sale Botu az önce çalıştı, 5 dakika sonra Streamlit Dashboard kontrol edebilirsiniz.\n\nUygulama Linki: https://otelrapor-hifourstravel.streamlit.app"
+    )
 
     now = datetime.now().strftime('%Y-%m-%d_%H-%M')
     output_file = f"sonuc_{now}.csv"

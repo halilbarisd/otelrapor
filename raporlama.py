@@ -99,8 +99,31 @@ try:
                         st.write(row['Fırsat Tarihler'])
 
         with tab3:
-            st.subheader(f"Tüm Oteller Genel Raporu ({selected_datetime})")
-            st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
+    st.subheader(f"Tüm Oteller Genel Raporu ({selected_datetime})")
+    st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
+
+    st.divider()  # Görsel ayırıcı
+
+    st.subheader("📝 Detaylı Otel Raporları")
+
+    # Tüm otelleri sırayla listeliyoruz
+    for index, row in rapor_df.iterrows():
+        otel_adi = row['Otel Adı']
+
+        with st.expander(f"🔍 {otel_adi} Detaylı Rapor"):
+            st.write(f"**Stop Sale Günleri ({len(row['Stop Sale Tarihler'])} gün):**")
+            st.write(row['Stop Sale Tarihler'])
+
+            st.write(f"**Fırsat Günleri ({len(row['Fırsat Tarihler'])} gün):**")
+            st.write(row['Fırsat Tarihler'])
+
+            # Detaylı fiyat listesi
+            st.write("**Günlük Fiyat Listesi:**")
+            otel_fiyat_df = df_numeric[df_numeric['Hotel Adı'] == otel_adi][['Tarih', 'Fiyat']].sort_values(by='Tarih')
+            st.dataframe(otel_fiyat_df)
+
+            # (Opsiyonel) Fiyat grafiği
+            st.line_chart(otel_fiyat_df.set_index('Tarih'))
 
 except Exception as e:
     st.error(f"Hata oluştu: {e}")

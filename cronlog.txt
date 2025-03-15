@@ -1,0 +1,163 @@
+[main 048b39b] Otomatik CSV güncellemesi
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cronlog.txt
+fatal: could not read Username for 'https://github.com': Device not configured
+Address Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Address Hotel Istanbul).
+Hata oluştu (Address Hotel Istanbul): Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+0   chromedriver                        0x0000000102a39804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102a31ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102585ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x000000010256efa0 chromedriver + 192416
+4   chromedriver                        0x0000000102592820 cxxbridge1$string$len + 144504
+5   chromedriver                        0x00000001025f55d8 cxxbridge1$string$len + 549424
+6   chromedriver                        0x000000010260e178 cxxbridge1$string$len + 650704
+7   chromedriver                        0x00000001025c135c cxxbridge1$string$len + 335796
+8   chromedriver                        0x00000001029fecd4 cxxbridge1$str$ptr + 2545532
+9   chromedriver                        0x0000000102a01fa0 cxxbridge1$str$ptr + 2558536
+10  chromedriver                        0x00000001029ded04 cxxbridge1$str$ptr + 2414508
+11  chromedriver                        0x0000000102a02800 cxxbridge1$str$ptr + 2560680
+12  chromedriver                        0x00000001029cfba0 cxxbridge1$str$ptr + 2352712
+13  chromedriver                        0x0000000102a2245c cxxbridge1$str$ptr + 2690820
+14  chromedriver                        0x0000000102a225e4 cxxbridge1$str$ptr + 2691212
+15  chromedriver                        0x0000000102a31a50 cxxbridge1$str$ptr + 2753784
+16  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Genel bir hata oluştu: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000102a39804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102a31ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102585d1c cxxbridge1$string$len + 92532
+3   chromedriver                        0x00000001025c06d4 cxxbridge1$string$len + 332588
+4   chromedriver                        0x00000001025e8f50 cxxbridge1$string$len + 498600
+5   chromedriver                        0x00000001025e8250 cxxbridge1$string$len + 495272
+6   chromedriver                        0x0000000102555cd8 chromedriver + 89304
+7   chromedriver                        0x00000001029fecd4 cxxbridge1$str$ptr + 2545532
+8   chromedriver                        0x0000000102a01fa0 cxxbridge1$str$ptr + 2558536
+9   chromedriver                        0x00000001029ded04 cxxbridge1$str$ptr + 2414508
+10  chromedriver                        0x0000000102a02800 cxxbridge1$str$ptr + 2560680
+11  chromedriver                        0x00000001029cfba0 cxxbridge1$str$ptr + 2352712
+12  chromedriver                        0x00000001025546d4 chromedriver + 83668
+13  dyld                                0x000000019dc2c274 start + 2840
+
+Tarayıcı kapatıldı.
+❌ Git push sırasında hata oluştu: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 233, in <module>
+    main(hotel_list_file)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 197, in main
+    driver = webdriver.Chrome(options=options)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+0   chromedriver                        0x0000000105309804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000105301ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104e55ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104e88ed4 cxxbridge1$string$len + 301868
+4   chromedriver                        0x0000000104e855a0 cxxbridge1$string$len + 287224
+5   chromedriver                        0x0000000104eca870 cxxbridge1$string$len + 570568
+6   chromedriver                        0x0000000104eca0e4 cxxbridge1$string$len + 568636
+7   chromedriver                        0x0000000104e9135c cxxbridge1$string$len + 335796
+8   chromedriver                        0x00000001052cecd4 cxxbridge1$str$ptr + 2545532
+9   chromedriver                        0x00000001052d1fa0 cxxbridge1$str$ptr + 2558536
+10  chromedriver                        0x00000001052aed04 cxxbridge1$str$ptr + 2414508
+11  chromedriver                        0x00000001052d2800 cxxbridge1$str$ptr + 2560680
+12  chromedriver                        0x000000010529fba0 cxxbridge1$str$ptr + 2352712
+13  chromedriver                        0x00000001052f245c cxxbridge1$str$ptr + 2690820
+14  chromedriver                        0x00000001052f25e4 cxxbridge1$str$ptr + 2691212
+15  chromedriver                        0x0000000105301a50 cxxbridge1$str$ptr + 2753784
+16  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 233, in <module>
+    main(hotel_list_file)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 197, in main
+    driver = webdriver.Chrome(options=options)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+0   chromedriver                        0x0000000104fb9804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000104fb1ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104b05ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104b38ed4 cxxbridge1$string$len + 301868
+4   chromedriver                        0x0000000104b355a0 cxxbridge1$string$len + 287224
+5   chromedriver                        0x0000000104b7a870 cxxbridge1$string$len + 570568
+6   chromedriver                        0x0000000104b7a0e4 cxxbridge1$string$len + 568636
+7   chromedriver                        0x0000000104b4135c cxxbridge1$string$len + 335796
+8   chromedriver                        0x0000000104f7ecd4 cxxbridge1$str$ptr + 2545532
+9   chromedriver                        0x0000000104f81fa0 cxxbridge1$str$ptr + 2558536
+10  chromedriver                        0x0000000104f5ed04 cxxbridge1$str$ptr + 2414508
+11  chromedriver                        0x0000000104f82800 cxxbridge1$str$ptr + 2560680
+12  chromedriver                        0x0000000104f4fba0 cxxbridge1$str$ptr + 2352712
+13  chromedriver                        0x0000000104fa245c cxxbridge1$str$ptr + 2690820
+14  chromedriver                        0x0000000104fa25e4 cxxbridge1$str$ptr + 2691212
+15  chromedriver                        0x0000000104fb1a50 cxxbridge1$str$ptr + 2753784
+16  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+

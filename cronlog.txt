@@ -161,3 +161,115 @@ Stacktrace:
 16  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
 17  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
 
+[main d444e22] Otomatik CSV güncellemesi
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 199 insertions(+)
+ create mode 100644 sonuc_2025-03-15_21-08.csv
+fatal: could not read Username for 'https://github.com': Device not configured
+Address Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Address Hotel Istanbul).
+Otel araması yapıldı: Address Hotel Istanbul
+Önerilen otel seçildi: Address Hotel Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Address Hotel Istanbul
+Yeni sekmeye geçildi: Address Hotel Istanbul
+Otel detaylarında takvim açıldı.
+Beethoven Premium Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Premium Hotel).
+Otel araması yapıldı: Beethoven Premium Hotel
+Önerilen otel seçildi: Beethoven Premium Hotel
+Arama yapıldı.
+Otel detay sayfasına gidildi: Beethoven Premium Hotel
+Yeni sekmeye geçildi: Beethoven Premium Hotel
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+Tarih: 16-03-2025, Fiyat: 120
+Tarih: 17-03-2025, Fiyat: 100
+Tarih: 18-03-2025, Fiyat: 100
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 107
+Tarih: 21-03-2025, Fiyat: 107
+Tarih: 22-03-2025, Fiyat: 107
+Tarih: 23-03-2025, Fiyat: 101
+Tarih: 24-03-2025, Fiyat: 123
+Tarih: 25-03-2025, Fiyat: 93
+Tarih: 26-03-2025, Fiyat: 123
+Tarih: 27-03-2025, Fiyat: 123
+Tarih: 28-03-2025, Fiyat: 122
+Tarih: 29-03-2025, Fiyat: 91
+Tarih: 30-03-2025, Fiyat: 91
+Tarih: 31-03-2025, Fiyat: 91
+Tarih: 01-04-2025, Fiyat: 151
+Tarih: 02-04-2025, Fiyat: 151
+Tarih: 03-04-2025, Fiyat: 151
+Tarih: 04-04-2025, Fiyat: 150
+Tarih: 05-04-2025, Fiyat: 150
+Tarih: 06-04-2025, Fiyat: 150
+Tarih: 07-04-2025, Fiyat: 151
+Tarih: 08-04-2025, Fiyat: 151
+Tarih: 09-04-2025, Fiyat: 151
+Tarih: 10-04-2025, Fiyat: 151
+Tarih: 11-04-2025, Fiyat: 150
+Tarih: 12-04-2025, Fiyat: 136
+Tarih: 13-04-2025, Fiyat: 150
+Tarih: 14-04-2025, Fiyat: 151
+Tarih: 15-04-2025, Fiyat: 151
+Tarih: 16-04-2025, Fiyat: 151
+Tarih: 17-04-2025, Fiyat: 151
+Tarih: 18-04-2025, Fiyat: 136
+Tarih: 19-04-2025, Fiyat: 160
+Beethoven Senfoni Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Senfoni Hotel Istanbul).
+Otel araması yapıldı: Beethoven Senfoni Hotel Istanbul
+Önerilen otel seçildi: Beethoven Senfoni Hotel Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Beethoven Senfoni Hotel Istanbul
+Yeni sekmeye geçildi: Beethoven Senfoni Hotel Istanbul
+Hata oluştu (Beethoven Senfoni Hotel Istanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100b69804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000100b61ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001006b5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001006fd1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010073e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001006f135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000100b2ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000100b31fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000100b0ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000100b32800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000100affba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000100b5245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000100b525e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000100b61a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Tüm sonuçlar sonuc_2025-03-15_21-08.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+❌ Git push sırasında hata oluştu: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.

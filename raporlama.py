@@ -73,11 +73,16 @@ try:
         # Veriyi DataFrame'e dönüştür
         rapor_df = pd.DataFrame(rapor_listesi)
 
-        # Dashboard Sekmeleri
-        tab1, tab2, tab3 = st.tabs(["🚫 Stop Sale Olan Oteller", "💸 Fırsat Günleri Olan Oteller", "📋 Tüm Oteller Raporu"])
+        # TABLAR
+        tab1, tab2, tab3 = st.tabs([
+            "🚫 Stop Sale Olan Oteller",
+            "💸 Fırsat Günleri Olan Oteller",
+            "📋 Tüm Oteller Genel Rapor + Detaylar"
+        ])
 
+        # TAB 1 - STOP SALE OLAN OTELLER
         with tab1:
-            st.subheader(f"Stop Sale Olan Oteller ({selected_datetime})")
+            st.subheader(f"🚫 Stop Sale Olan Oteller ({selected_datetime})")
             stop_sale_olanlar = rapor_df[rapor_df['Stop Sale Gün Sayısı'] > 0]
 
             if stop_sale_olanlar.empty:
@@ -87,8 +92,9 @@ try:
                     with st.expander(f"🛎️ {row['Otel Adı']} ({row['Stop Sale Gün Sayısı']} gün)"):
                         st.write(row['Stop Sale Tarihler'])
 
+        # TAB 2 - FIRSAT GÜNLERİ OLAN OTELLER
         with tab2:
-            st.subheader(f"Fırsat Günleri Olan Oteller ({selected_datetime})")
+            st.subheader(f"💸 Fırsat Günleri Olan Oteller ({selected_datetime})")
             firsat_olanlar = rapor_df[rapor_df['Fırsat Gün Sayısı'] > 0]
 
             if firsat_olanlar.empty:
@@ -98,32 +104,33 @@ try:
                     with st.expander(f"💰 {row['Otel Adı']} ({row['Fırsat Gün Sayısı']} gün)"):
                         st.write(row['Fırsat Tarihler'])
 
+        # TAB 3 - TÜM OTELLER VE DETAYLI RAPOR
         with tab3:
-    st.subheader(f"Tüm Oteller Genel Raporu ({selected_datetime})")
-    st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
+            st.subheader(f"📋 Tüm Oteller Genel Raporu ({selected_datetime})")
+            st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
 
-    st.divider()  # Görsel ayırıcı
+            st.divider()  # Görsel ayırıcı
 
-    st.subheader("📝 Detaylı Otel Raporları")
+            st.subheader("📝 Detaylı Otel Raporları")
 
-    # Tüm otelleri sırayla listeliyoruz
-    for index, row in rapor_df.iterrows():
-        otel_adi = row['Otel Adı']
+            # Her otelin detayları
+            for index, row in rapor_df.iterrows():
+                otel_adi = row['Otel Adı']
 
-        with st.expander(f"🔍 {otel_adi} Detaylı Rapor"):
-            st.write(f"**Stop Sale Günleri ({len(row['Stop Sale Tarihler'])} gün):**")
-            st.write(row['Stop Sale Tarihler'])
+                with st.expander(f"🔍 {otel_adi} Detaylı Rapor"):
+                    st.write(f"**Stop Sale Günleri ({len(row['Stop Sale Tarihler'])}):**")
+                    st.write(row['Stop Sale Tarihler'])
 
-            st.write(f"**Fırsat Günleri ({len(row['Fırsat Tarihler'])} gün):**")
-            st.write(row['Fırsat Tarihler'])
+                    st.write(f"**Fırsat Günleri ({len(row['Fırsat Tarihler'])}):**")
+                    st.write(row['Fırsat Tarihler'])
 
-            # Detaylı fiyat listesi
-            st.write("**Günlük Fiyat Listesi:**")
-            otel_fiyat_df = df_numeric[df_numeric['Hotel Adı'] == otel_adi][['Tarih', 'Fiyat']].sort_values(by='Tarih')
-            st.dataframe(otel_fiyat_df)
+                    # Detaylı fiyat listesi
+                    st.write("**Günlük Fiyat Listesi:**")
+                    otel_fiyat_df = df_numeric[df_numeric['Hotel Adı'] == otel_adi][['Tarih', 'Fiyat']].sort_values(by='Tarih')
+                    st.dataframe(otel_fiyat_df)
 
-            # (Opsiyonel) Fiyat grafiği
-            st.line_chart(otel_fiyat_df.set_index('Tarih'))
+                    # (Opsiyonel) Fiyat grafiği
+                    st.line_chart(otel_fiyat_df.set_index('Tarih'))
 
 except Exception as e:
     st.error(f"Hata oluştu: {e}")

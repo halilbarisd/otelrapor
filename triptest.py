@@ -7,6 +7,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 import random
 from datetime import datetime
+import os
+import glob
+import subprocess  # Git işlemleri için ekledik
 
 # İnsan benzeri davranış için rastgele bekleme fonksiyonu
 def human_like_wait(min_time=0.5, max_time=2):
@@ -155,8 +158,30 @@ def scrape_hotel_data(driver, hotel_name):
             driver.switch_to.window(driver.window_handles[0])
 
     return results
+# Git push fonksiyonu eklendi!
+def git_push():
+    try:
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "Otomatik CSV güncellemesi"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("✅ Git push başarılı!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git push sırasında hata oluştu: {e}")
+
+# En fazla X dosya tut, eski dosyaları sil
+def temizle_max_kayit(limit=10):
+    dosyalar = sorted(glob.glob("sonuc_*.csv"))
+    if len(dosyalar) > limit:
+        silinecekler = dosyalar[:len(dosyalar) - limit]
+        for dosya in silinecekler:
+            os.remove(dosya)
+            print(f"{dosya} silindi (limit aşıldı).")
+            
 # Ana işlem
-def main(hotel_list_file, output_file):
+def main(hotel_list_file):
+
+    now = datetime.now().strftime('%Y-%m-%d_%H-%M')
+    output_file = f"sonuc_{now}.csv"
     # Chrome Profilini Kullanarak Tarayıcı Başlatma
     options = webdriver.ChromeOptions()
     options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")  # Profil yolu
@@ -194,10 +219,14 @@ def main(hotel_list_file, output_file):
     finally:
         driver.quit()
         print("Tarayıcı kapatıldı.")
+        # Maksimum kayıt kontrolü, eski dosyaları siler
+        temizle_max_kayit(limit=10)
 
 # Dosya yolları
 hotel_list_file = "otel_listesi.csv"  # Otel isimlerinin olduğu CSV dosyası
-output_file = "sonuc.csv"  # Sonuçların kaydedileceği CSV dosyası
 
-# Ana işlemi başlat
-main(hotel_list_file, output_file)
+
+# Ana işlemi başlat + otomatik push ekle!
+if __name__ == "__main__":
+    main(hotel_list_file)
+    git_push()

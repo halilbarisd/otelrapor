@@ -10,6 +10,8 @@ from datetime import datetime
 import os
 import glob
 import subprocess  # Git işlemleri için ekledik
+# Klasörü sabitle (değiştirmezsen hep sorun çıkar)
+os.chdir('/Users/halilbarisduman/Desktop/otelrapor')
 
 # İnsan benzeri davranış için rastgele bekleme fonksiyonu
 def human_like_wait(min_time=0.5, max_time=2):

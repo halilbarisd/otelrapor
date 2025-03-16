@@ -209,25 +209,36 @@ def git_push():
     try:
         print("🔄 Git işlemi başlıyor...")
 
-        # Adım 1 - Değişiklikleri ekle
-        subprocess.run(['git', 'add', '.'], check=True)
+        env = os.environ.copy()
+
+        # 0 - Genel durum
+        print("🔍 [Durum] Çalışılan dizin:", os.getcwd())
+        subprocess.run(['git', 'status'], check=False, env=env)
+        subprocess.run(['git', 'log', '-1', '--oneline'], check=False, env=env)
+
+        # 1 - Değişiklikleri ekle
+        print("🔧 Adım 1: git add .")
+        subprocess.run(['git', 'add', '.'], check=True, env=env)
         print("✅ Değişiklikler eklendi.")
 
-        # Adım 2 - Commit oluştur
+        # 2 - Commit oluştur
         commit_message = "Otomatik veri güncellemesi ve rapor push"
-        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        print(f"🔧 Adım 2: git commit -m \"{commit_message}\"")
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True, env=env)
         print("✅ Commit işlemi tamamlandı.")
 
-        # Adım 3 - Remote ile rebase
-        subprocess.run(['git', 'pull', '--rebase', 'origin', 'main'], check=True)
-        print("✅ Uzak repo ile rebase tamamlandı.")
+        # 3 - (Opsiyonel Rebase - kaldırdık!)
+        # print("🔧 Adım 3: git pull --rebase origin main")
+        # subprocess.run(['git', 'pull', '--rebase', 'origin', 'main'], check=True, env=env)
+        # print("✅ Rebase tamamlandı.")
 
-        # Adım 4 - Push işlemi
-        subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+        # 4 - Push işlemi
+        print("🔧 Adım 4: git push origin main")
+        subprocess.run(['git', 'push', 'origin', 'main'], check=True, env=env)
         print("🚀 Push işlemi başarılı!")
 
     except subprocess.CalledProcessError as e:
-        print(f"❌ Git push sırasında hata oluştu: {e}")
+        print(f"❌ Git işlemi sırasında hata oluştu!\n⛔️ Komut: {e.cmd}\n⚠️ Hata Kodu: {e.returncode}")
 
 # En fazla X dosya tut, eski dosyaları sil
 def temizle_max_kayit(limit=10):

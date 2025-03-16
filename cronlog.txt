@@ -8718,4 +8718,81 @@ Tarih: 13-04-2025, Fiyat: 214
 Tarih: 14-04-2025, Fiyat: 215
 Tarih: 15-04-2025, Fiyat: 215
 Tarih: 16-04-2025, Fiyat: 214
-Tarih: 17-04-2025, Fiyat: 217
+Tarih: 17-04-2025, Fiyat: 217[main 68556b8] Otomatik veri güncellemesi ve rapor push
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 3614 insertions(+), 139 deletions(-)
+ delete mode 100644 sonuc_2025-03-15_19-21.csv
+ create mode 100644 sonuc_2025-03-16_15-17.csv
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+
+Tarih: 18-04-2025, Fiyat: 249
+Tarih: 19-04-2025, Fiyat: 217
+Tarih: 20-04-2025, Fiyat: 214
+Tarih: 21-04-2025, Fiyat: 214
+Tarih: 22-04-2025, Fiyat: 214
+Tarih: 23-04-2025, Fiyat: 244
+Tarih: 24-04-2025, Fiyat: 222
+Tarih: 25-04-2025, Fiyat: 214
+Tarih: 26-04-2025, Fiyat: 214
+Tarih: 27-04-2025, Fiyat: 214
+Tarih: 28-04-2025, Fiyat: 214
+Tarih: 29-04-2025, Fiyat: 214
+Tarih: 30-04-2025, Fiyat: 214
+Elite World İstanbul Florya için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World İstanbul Florya).
+Otel araması yapıldı: Elite World İstanbul Florya
+Hata oluştu (Elite World İstanbul Florya): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104aad804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000104aa5ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001045f9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001046411d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104682678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010463535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000104a72cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000104a75fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000104a52d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000104a76800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000104a43ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000104a9645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000104a965e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000104aa5a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Tüm sonuçlar sonuc_2025-03-16_15-17.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+sonuc_2025-03-15_19-21.csv silindi (limit aşıldı).
+🔄 Git işlemi başlıyor...
+✅ Değişiklikler eklendi.
+✅ Commit işlemi tamamlandı.
+❌ Git push sırasında hata oluştu: Command '['git', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+	modified:   cronlog.txt
+	modified:   otel_listesi.csv
+	deleted:    sonuc_2025-03-15_19-54.csv
+	modified:   triptest.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	sonuc_2025-03-16_15-57.csv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+68556b8 Otomatik veri güncellemesi ve rapor push

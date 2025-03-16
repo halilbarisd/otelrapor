@@ -207,10 +207,25 @@ def scrape_hotel_data(driver, hotel_name):
 # Git push fonksiyonu eklendi!
 def git_push():
     try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "Otomatik CSV güncellemesi"], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print("✅ Git push başarılı!")
+        print("🔄 Git işlemi başlıyor...")
+
+        # Adım 1 - Değişiklikleri ekle
+        subprocess.run(['git', 'add', '.'], check=True)
+        print("✅ Değişiklikler eklendi.")
+
+        # Adım 2 - Commit oluştur
+        commit_message = "Otomatik veri güncellemesi ve rapor push"
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        print("✅ Commit işlemi tamamlandı.")
+
+        # Adım 3 - Remote ile rebase
+        subprocess.run(['git', 'pull', '--rebase', 'origin', 'main'], check=True)
+        print("✅ Uzak repo ile rebase tamamlandı.")
+
+        # Adım 4 - Push işlemi
+        subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+        print("🚀 Push işlemi başarılı!")
+
     except subprocess.CalledProcessError as e:
         print(f"❌ Git push sırasında hata oluştu: {e}")
 

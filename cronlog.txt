@@ -6351,3 +6351,243 @@ Stacktrace:
 13  chromedriver                        0x0000000102d31a50 cxxbridge1$str$ptr + 2753784
 14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
 15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+[main 724d0ce] Otomatik CSV güncellemesi
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3396 insertions(+), 1 deletion(-)
+ create mode 100644 sonuc_2025-03-16_12-00.csv
+fatal: could not read Username for 'https://github.com': Device not configured
+
+Elite World Grand Istanbul Kucukyali için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Grand Istanbul Kucukyali).
+Otel araması yapıldı: Elite World Grand Istanbul Kucukyali
+Önerilen otel seçildi: Elite World Grand Istanbul Kucukyali
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Grand Istanbul Kucukyali
+Yeni sekmeye geçildi: Elite World Grand Istanbul Kucukyali
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+16-03-2025 bugünden önce, atlanıyor.
+Tarih: 17-03-2025, Fiyat: 78
+Tarih: 18-03-2025, Fiyat: 78
+Tarih: 19-03-2025, Fiyat: 78
+Tarih: 20-03-2025, Fiyat: 97
+Tarih: 21-03-2025, Fiyat: 97
+Tarih: 22-03-2025, Fiyat: 78
+Tarih: 23-03-2025, Fiyat: 78
+Tarih: 24-03-2025, Fiyat: 78
+Tarih: 25-03-2025, Fiyat: 78
+Tarih: 26-03-2025, Fiyat: 78
+Tarih: 27-03-2025, Fiyat: 78
+Tarih: 28-03-2025, Fiyat: 78
+Tarih: 29-03-2025, Fiyat: 78
+Tarih: 30-03-2025, Fiyat: 78
+Tarih: 31-03-2025, Fiyat: 78
+Tarih: 01-04-2025, Fiyat: 78
+Tarih: 02-04-2025, Fiyat: 78
+Tarih: 03-04-2025, Fiyat: 78
+Tarih: 04-04-2025, Fiyat: 78
+Tarih: 05-04-2025, Fiyat: 78
+Tarih: 06-04-2025, Fiyat: 78
+Tarih: 07-04-2025, Fiyat: 78
+Tarih: 08-04-2025, Fiyat: 78
+Tarih: 09-04-2025, Fiyat: 78
+Tarih: 10-04-2025, Fiyat: 78
+Tarih: 11-04-2025, Fiyat: 78
+Tarih: 12-04-2025, Fiyat: 78
+Tarih: 13-04-2025, Fiyat: 78
+Tarih: 14-04-2025, Fiyat: 78
+Tarih: 15-04-2025, Fiyat: 78
+Tarih: 16-04-2025, Fiyat: 89
+Tarih: 17-04-2025, Fiyat: 89
+Tarih: 18-04-2025, Fiyat: 89
+Tarih: 19-04-2025, Fiyat: 89
+Tarih: 20-04-2025, Fiyat: 89
+Tarih: 21-04-2025, Fiyat: 89
+Tarih: 22-04-2025, Fiyat: 89
+Tarih: 23-04-2025, Fiyat: 89
+Tarih: 24-04-2025, Fiyat: 89
+Tarih: 25-04-2025, Fiyat: 89
+Tarih: 26-04-2025, Fiyat: 89
+Tarih: 27-04-2025, Fiyat: 89
+Tarih: 28-04-2025, Fiyat: 89
+Tarih: 29-04-2025, Fiyat: 89
+Tarih: 30-04-2025, Fiyat: 89
+Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd. için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.).
+Otel araması yapıldı: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Önerilen otel seçildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Yeni sekmeye geçildi: Elite World Istanbul Taksim
+Müslümanlara uygun
+Şehit Muhtar, Şht. Muhtar Bey Cd.
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+16-03-2025 bugünden önce, atlanıyor.
+Tarih: 17-03-2025, Fiyat: 130
+Tarih: 18-03-2025, Fiyat: 130
+Tarih: 19-03-2025, Fiyat: 104
+Tarih: 20-03-2025, Fiyat: 132
+Tarih: 21-03-2025, Fiyat: 132
+Tarih: 22-03-2025, Fiyat: 132
+Tarih: 23-03-2025, Fiyat: 172
+Tarih: 24-03-2025, Fiyat: 172
+Tarih: 25-03-2025, Fiyat: 172
+Tarih: 26-03-2025, Fiyat: 172
+Tarih: 27-03-2025, Fiyat: 188
+Tarih: 28-03-2025, Fiyat: 188
+Tarih: 29-03-2025, Fiyat: 188
+Tarih: 30-03-2025, Fiyat: 188
+Tarih: 31-03-2025, Fiyat: 188
+Tarih: 01-04-2025, Fiyat: 188
+Tarih: 02-04-2025, Fiyat: 160
+Tarih: 03-04-2025, Fiyat: 152
+Tarih: 04-04-2025, Fiyat: 152
+Tarih: 05-04-2025, Fiyat: 152
+Tarih: 06-04-2025, Fiyat: 140
+Tarih: 07-04-2025, Fiyat: 140
+Tarih: 08-04-2025, Fiyat: 140
+Tarih: 09-04-2025, Fiyat: 140
+Tarih: 10-04-2025, Fiyat: 176
+Tarih: 11-04-2025, Fiyat: 156
+Tarih: 12-04-2025, Fiyat: 156
+Tarih: 13-04-2025, Fiyat: 156
+Tarih: 14-04-2025, Fiyat: 156
+Tarih: 15-04-2025, Fiyat: 160
+Tarih: 16-04-2025, Fiyat: 160
+Tarih: 17-04-2025, Fiyat: 196
+Tarih: 18-04-2025, Fiyat: 196
+Tarih: 19-04-2025, Fiyat: 196
+Tarih: 20-04-2025, Fiyat: 184
+Tarih: 21-04-2025, Fiyat: 184
+Tarih: 22-04-2025, Fiyat: 184
+Tarih: 23-04-2025, Fiyat: 184
+Tarih: 24-04-2025, Fiyat: 184
+Tarih: 25-04-2025, Fiyat: 156
+Tarih: 26-04-2025, Fiyat: 156
+Tarih: 27-04-2025, Fiyat: 156
+Tarih: 28-04-2025, Fiyat: 156
+Tarih: 29-04-2025, Fiyat: 160
+Tarih: 30-04-2025, Fiyat: 160
+Elite World İstanbul Florya için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World İstanbul Florya).
+Otel araması yapıldı: Elite World İstanbul Florya
+Önerilen otel seçildi: Elite World İstanbul Florya
+Arama yapıldı.
+Otel detay sayfasına gidildi: Elite World İstanbul Florya
+Yeni sekmeye geçildi: Elite World İstanbul Florya
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+16-03-2025 bugünden önce, atlanıyor.
+Tarih: 17-03-2025, Fiyat: 68
+Tarih: 18-03-2025, Fiyat: 68
+Tarih: 19-03-2025, Fiyat: 68
+Tarih: 20-03-2025, Fiyat: 68
+Tarih: 21-03-2025, Fiyat: 68
+Tarih: 22-03-2025, Fiyat: 68
+Tarih: 23-03-2025, Fiyat: 68
+Tarih: 24-03-2025, Fiyat: 68
+Tarih: 25-03-2025, Fiyat: 68
+Tarih: 26-03-2025, Fiyat: 68
+Tarih: 27-03-2025, Fiyat: 68
+Tarih: 28-03-2025, Fiyat: 68
+Tarih: 29-03-2025, Fiyat: 68
+Tarih: 30-03-2025, Fiyat: 69
+Tarih: 31-03-2025, Fiyat: 66
+Tarih: 01-04-2025, Fiyat: 73
+Tarih: 02-04-2025, Fiyat: 73
+Tarih: 03-04-2025, Fiyat: 73
+Tarih: 04-04-2025, Fiyat: 73
+Tarih: 05-04-2025, Fiyat: 73
+Tarih: 06-04-2025, Fiyat: 73
+Tarih: 07-04-2025, Fiyat: 73
+Tarih: 08-04-2025, Fiyat: 73
+Tarih: 09-04-2025, Fiyat: 82
+Tarih: 10-04-2025, Fiyat: 82
+Tarih: 11-04-2025, Fiyat: 82
+Tarih: 12-04-2025, Fiyat: 82
+Tarih: 13-04-2025, Fiyat: 73
+Tarih: 14-04-2025, Fiyat: 73
+Tarih: 15-04-2025, Fiyat: 86
+Tarih: 16-04-2025, Fiyat: 103
+Tarih: 17-04-2025, Fiyat: 103
+Tarih: 18-04-2025, Fiyat: 103
+Tarih: 19-04-2025, Fiyat: 103
+Tarih: 20-04-2025, Fiyat: 73
+Tarih: 21-04-2025, Fiyat: 73
+Tarih: 22-04-2025, Fiyat: 73
+Tarih: 23-04-2025, Fiyat: 86
+Tarih: 24-04-2025, Fiyat: 98
+Tarih: 25-04-2025, Fiyat: 97
+Tarih: 26-04-2025, Fiyat: 90
+Tarih: 27-04-2025, Fiyat: 73
+Tarih: 28-04-2025, Fiyat: 73
+Tarih: 29-04-2025, Fiyat: 84
+Tarih: 30-04-2025, Fiyat: 84
+Tüm sonuçlar sonuc_2025-03-16_12-00.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+❌ Git push sırasında hata oluştu: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.

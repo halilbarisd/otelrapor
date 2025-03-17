@@ -8979,3 +8979,127 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 4cb67e9 Otomatik veri güncellemesi ve rapor push
+[main 07a4582] Otomatik veri güncellemesi ve rapor push
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 229 insertions(+), 139 deletions(-)
+ delete mode 100644 sonuc_2025-03-15_20-38.csv
+ create mode 100644 sonuc_2025-03-16_16-07.csv
+To https://github.com/halilbarisd/otelrapor.git
+   f9c6426..07a4582  main -> main
+✅ Mail başarıyla gönderildi!
+Address Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Address Hotel Istanbul).
+Otel araması yapıldı: Address Hotel Istanbul
+Önerilen otel seçildi: Address Hotel Istanbul
+Arama yapıldı.
+Otel detay sayfasına gidildi: Address Hotel Istanbul
+Yeni sekmeye geçildi: Address Hotel Istanbul
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+16-03-2025 bugünden önce, atlanıyor.
+Tarih: 17-03-2025, Fiyat: 162
+Tarih: 18-03-2025, Fiyat: 162
+Tarih: 19-03-2025, Fiyat: 162
+Tarih: 20-03-2025, Fiyat: 162
+Tarih: 21-03-2025, Fiyat: 162
+Tarih: 22-03-2025, Fiyat: 162
+Tarih: 23-03-2025, Fiyat: 162
+Tarih: 24-03-2025, Fiyat: 162
+Tarih: 25-03-2025, Fiyat: 162
+Tarih: 26-03-2025, Fiyat: 162
+Tarih: 27-03-2025, Fiyat: 162
+Tarih: 28-03-2025, Fiyat: 162
+Tarih: 29-03-2025, Fiyat: 142
+Tarih: 30-03-2025, Fiyat: 169
+Tarih: 31-03-2025, Fiyat: 219
+Tarih: 01-04-2025, Fiyat: 219
+Tarih: 02-04-2025, Fiyat: 211
+Tarih: 03-04-2025, Fiyat: 211
+Tarih: 04-04-2025, Fiyat: 211
+Tarih: 05-04-2025, Fiyat: 192
+Tarih: 06-04-2025, Fiyat: 192
+Tarih: 07-04-2025, Fiyat: 192
+Tarih: 08-04-2025, Fiyat: 192
+Tarih: 09-04-2025, Fiyat: 192
+Tarih: 10-04-2025, Fiyat: 192
+Tarih: 11-04-2025, Fiyat: 192
+Tarih: 12-04-2025, Fiyat: 192
+Tarih: 13-04-2025, Fiyat: 192
+Tarih: 14-04-2025, Fiyat: 192
+Tarih: 15-04-2025, Fiyat: 192
+Tarih: 16-04-2025, Fiyat: 192
+Tarih: 17-04-2025, Fiyat: 192
+Tarih: 18-04-2025, Fiyat: 192
+Tarih: 19-04-2025, Fiyat: 192
+Tarih: 20-04-2025, Fiyat: 192
+Tarih: 21-04-2025, Fiyat: 192
+Tarih: 22-04-2025, Fiyat: 192
+Tarih: 23-04-2025, Fiyat: 192
+Tarih: 24-04-2025, Fiyat: 192
+Tarih: 25-04-2025, Fiyat: 192
+Tarih: 26-04-2025, Fiyat: 192
+Tarih: 27-04-2025, Fiyat: 192
+Tarih: 28-04-2025, Fiyat: 192
+Tarih: 29-04-2025, Fiyat: 192
+Tarih: 30-04-2025, Fiyat: 192
+Beethoven Premium Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Premium Hotel).
+Otel araması yapıldı: Beethoven Premium Hotel
+Önerilen otel seçildi: Beethoven Premium Hotel
+Arama yapıldı.
+Hata oluştu (Beethoven Premium Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102a2d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102a25ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102579ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001025c11d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102602678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001025b535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001029f2cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001029f5fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001029d2d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001029f6800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001029c3ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102a1645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102a165e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102a25a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000019dfaf2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019dfaa0fc thread_start + 8
+
+Tüm sonuçlar sonuc_2025-03-16_16-07.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+sonuc_2025-03-15_20-38.csv silindi (limit aşıldı).
+🔄 Git işlemi başlıyor...
+🔍 [Durum] Çalışılan dizin: /Users/halilbarisduman/Desktop/otelrapor
+🔧 Adım 1: git add .
+✅ Değişiklikler eklendi.
+🔧 Adım 2: git commit -m "Otomatik veri güncellemesi ve rapor push"
+✅ Commit işlemi tamamlandı.
+🔧 Adım 4: git push origin main
+🚀 Push işlemi başarılı!

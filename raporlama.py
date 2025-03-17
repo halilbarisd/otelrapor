@@ -2,6 +2,22 @@ import pandas as pd
 import streamlit as st
 import glob
 
+# ➤ Fiyat dönüştürücü fonksiyon
+def convert_price_to_float(price_str):
+    price_str = str(price_str).replace('€', '').strip().lower()
+
+    try:
+        if price_str.endswith('k'):
+            return float(price_str[:-1]) * 1_000
+        elif price_str.endswith('m'):
+            return float(price_str[:-1]) * 1_000_000
+        elif price_str.endswith('b'):
+            return float(price_str[:-1]) * 1_000_000_000
+        else:
+            return float(price_str)
+    except ValueError:
+        return None
+
 # Sayfa yapılandırması
 st.set_page_config(page_title="Otel Raporlama Dashboard", layout="wide")
 
@@ -43,8 +59,8 @@ try:
         # 🔧 Dolu olmayan verileri işle ➔ Fiyatı olanlar
         df_numeric = df[df['Fiyat'].notna()].copy()
 
-        # Eğer fiyat değerlerinde € sembolü varsa temizle (Varsa kalabilir!)
-        df_numeric['Fiyat'] = df_numeric['Fiyat'].replace('[€]', '', regex=True).astype(float)
+        # ➤ Burada dönüşüm fonksiyonunu kullanıyoruz!
+        df_numeric['Fiyat'] = df_numeric['Fiyat'].apply(convert_price_to_float)
 
         # Rapor listesi başlat
         rapor_listesi = []
@@ -162,8 +178,8 @@ try:
             df1 = pd.read_csv(file1, na_values=['-', 'DOLU'])
             df2 = pd.read_csv(file2, na_values=['-', 'DOLU'])
 
-            df1['Fiyat'] = pd.to_numeric(df1['Fiyat'], errors='coerce')
-            df2['Fiyat'] = pd.to_numeric(df2['Fiyat'], errors='coerce')
+            df1['Fiyat'] = df1['Fiyat'].apply(convert_price_to_float)
+            df2['Fiyat'] = df2['Fiyat'].apply(convert_price_to_float)
 
             df1['Tarih'] = pd.to_datetime(df1['Tarih'], format='%d-%m-%Y')
             df2['Tarih'] = pd.to_datetime(df2['Tarih'], format='%d-%m-%Y')

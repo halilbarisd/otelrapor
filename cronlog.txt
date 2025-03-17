@@ -14204,3 +14204,80 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 156d04a Otomatik veri güncellemesi ve rapor push
+[main 5e20193] Otomatik veri güncellemesi ve rapor push
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 5685 insertions(+), 36 deletions(-)
+ delete mode 100644 sonuc_2025-03-15_21-08.csv
+ create mode 100644 sonuc_2025-03-17_22-00.csv
+To https://github.com/halilbarisd/otelrapor.git
+   156d04a..5e20193  main -> main
+
+16-03-2025 bugünden önce, atlanıyor.
+17-03-2025 bugünden önce, atlanıyor.
+Tarih: 18-03-2025, Fiyat: 73
+Tarih: 19-03-2025, Fiyat: 73
+Tarih: 20-03-2025, Fiyat: 73
+Tarih: 21-03-2025, Fiyat: 73
+Tarih: 22-03-2025, Fiyat: 73
+Tarih: 23-03-2025, Fiyat: 83
+Tarih: 24-03-2025, Fiyat: 73
+Tarih: 25-03-2025, Fiyat: 73
+Tarih: 26-03-2025, Fiyat: 73
+Tarih: 27-03-2025, Fiyat: 73
+Tarih: 28-03-2025, Fiyat: 73
+Tarih: 29-03-2025, Fiyat: 78
+Tarih: 30-03-2025, Fiyat: 78
+Tarih: 31-03-2025, Fiyat: 78
+Tarih: 01-04-2025, Fiyat: 105
+Tarih: 02-04-2025, Fiyat: 105
+Tarih: 03-04-2025, Fiyat: 104
+Tarih: 04-04-2025, Fiyat: 105
+Tarih: 05-04-2025, Fiyat: 105
+Tarih: 06-04-2025, Fiyat: 104
+Tarih: 07-04-2025, Fiyat: 105
+Tarih: 08-04-2025, Fiyat: 105
+Tarih: 09-04-2025, Fiyat: 105
+Tarih: 10-04-2025, Fiyat: 105
+Tarih: 11-04-2025, Fiyat: 105
+Tarih: 12-04-2025, Fiyat: 105
+Tarih: 13-04-2025, Fiyat: 105
+Tarih: 14-04-2025, Fiyat: 105
+Tarih: 15-04-2025, Fiyat: 105
+Tarih: 16-04-2025, Fiyat: 105
+Tarih: 17-04-2025, Fiyat: 105
+Tarih: 18-04-2025, Fiyat: 105
+Tarih: 19-04-2025, Fiyat: 104
+Tarih: 20-04-2025, Fiyat: 105
+Tarih: 21-04-2025, Fiyat: 105
+Tarih: 22-04-2025, Fiyat: 105
+Tarih: 23-04-2025, Fiyat: 104
+Tarih: 24-04-2025, Fiyat: 105
+Tarih: 25-04-2025, Fiyat: 105
+Tarih: 26-04-2025, Fiyat: 105
+Tarih: 27-04-2025, Fiyat: 105
+Tarih: 28-04-2025, Fiyat: 105
+Tarih: 29-04-2025, Fiyat: 105
+Tarih: 30-04-2025, Fiyat: 105
+Tüm sonuçlar sonuc_2025-03-17_22-00.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+sonuc_2025-03-15_21-08.csv silindi (limit aşıldı).
+🔄 Git işlemi başlıyor...
+🔍 [Durum] Çalışılan dizin: /Users/halilbarisduman/Desktop/otelrapor
+🔧 Adım 1: git add .
+✅ Değişiklikler eklendi.
+🔧 Adım 2: git commit -m "Otomatik veri güncellemesi ve rapor push"
+✅ Commit işlemi tamamlandı.
+🔧 Adım 4: git push origin main
+🚀 Push işlemi başarılı!

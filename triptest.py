@@ -269,8 +269,8 @@ def main(hotel_list_file):
     options = webdriver.ChromeOptions()
 
     # Kullanıcı profili ➔ Bunu bırakabilirsin ama bazen headless ile çakışır, test et!
-    options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")
-    options.add_argument("--profile-directory=Default")
+    #options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")
+    #options.add_argument("--profile-directory=Default")
 
     # Başlangıç ayarları
     options.add_argument("--start-maximized")

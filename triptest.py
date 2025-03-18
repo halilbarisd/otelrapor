@@ -268,7 +268,7 @@ def main(hotel_list_file):
     options.add_argument("--disable-infobars")  # "Controlled by automation" uyarısını gizle
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
-    options.add_argument("--headless=new")
+    #options.add_argument("--headless=new")
     options.add_argument("--window-size=1920,1080")
 
     driver = webdriver.Chrome(options=options)

@@ -267,15 +267,28 @@ def main(hotel_list_file):
     output_file = f"sonuc_{now}.csv"
     # Chrome Profilini Kullanarak Tarayıcı Başlatma
     options = webdriver.ChromeOptions()
-    options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")  # Profil yolu
-    options.add_argument("--profile-directory=Default")  # Profil adı
-    options.add_argument("--start-maximized")  # Tarayıcıyı tam ekran başlat
-    options.add_argument("--disable-blink-features=AutomationControlled")  # WebDriver izlerini gizle
-    options.add_argument("--disable-infobars")  # "Controlled by automation" uyarısını gizle
-    options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    options.add_experimental_option("useAutomationExtension", False)
-    #options.add_argument("--headless=new")
+
+    # Kullanıcı profili ➔ Bunu bırakabilirsin ama bazen headless ile çakışır, test et!
+    options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")
+    options.add_argument("--profile-directory=Default")
+
+    # Başlangıç ayarları
+    options.add_argument("--start-maximized")
     options.add_argument("--window-size=1920,1080")
+
+    # Headless mod
+    options.add_argument("--headless")  # "new" yerine klasik kullanıyoruz
+    # options.add_argument("--headless=chrome")  # Alternatif test edilebilir
+
+    # Stealth ayarlar
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("--disable-infobars")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+    options.add_experimental_option("useAutomationExtension", False)
+
 
     driver = webdriver.Chrome(options=options)
 

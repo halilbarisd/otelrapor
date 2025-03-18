@@ -132,11 +132,17 @@ def scrape_hotel_data(driver, hotel_name):
         human_like_wait()
 
         # Yeni sekmeye geçiş yap
-        WebDriverWait(driver, 20).until(
-            lambda d: len(d.window_handles) > 1
-        )
+        WebDriverWait(driver, 20).until(lambda d: len(d.window_handles) > 1)
         driver.switch_to.window(driver.window_handles[-1])
         print(f"Yeni sekmeye geçildi: {hotel_name}")
+        human_like_wait()
+
+        # Gerçek otel adını detay sayfasından çekiyoruz
+        otel_adi_element = WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "h1.headInit_headInit-title_nameA__EE_LB"))
+        )
+        gercek_otel_adi = otel_adi_element.text.strip()
+        print(f"✅ Gerçek otel adı bulundu: {gercek_otel_adi}")
         human_like_wait()
 
         # Takvimi aç
@@ -188,7 +194,7 @@ def scrape_hotel_data(driver, hotel_name):
                 if price == "":
                     price = "DOLU"
 
-                results.append([hotel_name, full_date.strftime('%d-%m-%Y'), price])
+                results.append([gercek_otel_adi, full_date.strftime('%d-%m-%Y'), price])
                 print(f"Tarih: {full_date.strftime('%d-%m-%Y')}, Fiyat: {price}")
 
             except Exception as e:

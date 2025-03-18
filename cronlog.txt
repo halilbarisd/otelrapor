@@ -14281,3 +14281,1140 @@ sonuc_2025-03-15_21-08.csv silindi (limit aşıldı).
 ✅ Commit işlemi tamamlandı.
 🔧 Adım 4: git push origin main
 🚀 Push işlemi başarılı!
+✅ Mail başarıyla gönderildi!
+Address Istanbul Ünalan, Libadiye Cd. için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Address Istanbul Ünalan, Libadiye Cd.).
+Otel araması yapıldı: Address Istanbul Ünalan, Libadiye Cd.
+Önerilen otel seçildi: Address Istanbul Ünalan, Libadiye Cd.
+Arama yapıldı.
+Otel detay sayfasına gidildi: Address Istanbul Ünalan, Libadiye Cd.
+Yeni sekmeye geçildi: Address Istanbul Ünalan, Libadiye Cd.
+Otel detaylarında takvim açıldı.
+01-03-2025 bugünden önce, atlanıyor.
+02-03-2025 bugünden önce, atlanıyor.
+03-03-2025 bugünden önce, atlanıyor.
+04-03-2025 bugünden önce, atlanıyor.
+05-03-2025 bugünden önce, atlanıyor.
+06-03-2025 bugünden önce, atlanıyor.
+07-03-2025 bugünden önce, atlanıyor.
+08-03-2025 bugünden önce, atlanıyor.
+09-03-2025 bugünden önce, atlanıyor.
+10-03-2025 bugünden önce, atlanıyor.
+11-03-2025 bugünden önce, atlanıyor.
+12-03-2025 bugünden önce, atlanıyor.
+13-03-2025 bugünden önce, atlanıyor.
+14-03-2025 bugünden önce, atlanıyor.
+15-03-2025 bugünden önce, atlanıyor.
+16-03-2025 bugünden önce, atlanıyor.
+17-03-2025 bugünden önce, atlanıyor.
+18-03-2025 bugünden önce, atlanıyor.
+Tarih: 19-03-2025, Fiyat: 98
+Tarih: 20-03-2025, Fiyat: 98
+Tarih: 21-03-2025, Fiyat: 99
+Tarih: 22-03-2025, Fiyat: 88
+Tarih: 23-03-2025, Fiyat: 88
+Tarih: 24-03-2025, Fiyat: 88
+Tarih: 25-03-2025, Fiyat: 88
+Tarih: 26-03-2025, Fiyat: 88
+Tarih: 27-03-2025, Fiyat: 88
+Tarih: 28-03-2025, Fiyat: 94
+Tarih: 29-03-2025, Fiyat: 110
+Tarih: 30-03-2025, Fiyat: 110
+Tarih: 31-03-2025, Fiyat: 94
+Tarih: 01-04-2025, Fiyat: 132
+Tarih: 02-04-2025, Fiyat: 154
+Tarih: 03-04-2025, Fiyat: 154
+Tarih: 04-04-2025, Fiyat: 154
+Tarih: 05-04-2025, Fiyat: 154
+Tarih: 06-04-2025, Fiyat: 132
+Tarih: 07-04-2025, Fiyat: 132
+Tarih: 08-04-2025, Fiyat: 132
+Tarih: 09-04-2025, Fiyat: 132
+Tarih: 10-04-2025, Fiyat: 132
+Tarih: 11-04-2025, Fiyat: 166
+Tarih: 12-04-2025, Fiyat: 132
+Tarih: 13-04-2025, Fiyat: 132
+Tarih: 14-04-2025, Fiyat: 166
+Tarih: 15-04-2025, Fiyat: 166
+Tarih: 16-04-2025, Fiyat: 177
+Tarih: 17-04-2025, Fiyat: -
+Tarih: 18-04-2025, Fiyat: 166
+Tarih: 19-04-2025, Fiyat: 166
+Tarih: 20-04-2025, Fiyat: 166
+Tarih: 21-04-2025, Fiyat: 154
+Tarih: 22-04-2025, Fiyat: 154
+Tarih: 23-04-2025, Fiyat: 154
+Tarih: 24-04-2025, Fiyat: 143
+Tarih: 25-04-2025, Fiyat: 154
+Tarih: 26-04-2025, Fiyat: 154
+Tarih: 27-04-2025, Fiyat: 143
+Tarih: 28-04-2025, Fiyat: 143
+Tarih: 29-04-2025, Fiyat: 143
+Tarih: 30-04-2025, Fiyat: 143
+Best Western Hotel Empire Palace - Özel Sınıf Hocapaşa Mahallesi Hüdavendigar Caddesi için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Best Western Hotel Empire Palace - Özel Sınıf Hocapaşa Mahallesi Hüdavendigar Caddesi).
+Otel araması yapıldı: Best Western Hotel Empire Palace - Özel Sınıf Hocapaşa Mahallesi Hüdavendigar Caddesi
+Önerilen otel seçildi: Best Western Hotel Empire Palace - Özel Sınıf Hocapaşa Mahallesi Hüdavendigar Caddesi
+Arama yapıldı.
+Hata oluştu (Best Western Hotel Empire Palace - Özel Sınıf Hocapaşa Mahallesi Hüdavendigar Caddesi): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Birbey Otel Kemalpaşa Mahallesi Mektep, Sokak için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Birbey Otel Kemalpaşa Mahallesi Mektep, Sokak).
+Hata oluştu (Birbey Otel Kemalpaşa Mahallesi Mektep, Sokak): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Beethoven Premium Hotel Gençtürk Caddesi Ağa Yokuşu Sokak için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Premium Hotel Gençtürk Caddesi Ağa Yokuşu Sokak).
+Hata oluştu (Beethoven Premium Hotel Gençtürk Caddesi Ağa Yokuşu Sokak): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Beethoven Senfoni Hotel İstanbul Gençtürk Caddesi Ağa Yokuşu Sokak için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Beethoven Senfoni Hotel İstanbul Gençtürk Caddesi Ağa Yokuşu Sokak).
+Hata oluştu (Beethoven Senfoni Hotel İstanbul Gençtürk Caddesi Ağa Yokuşu Sokak): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Bomonti Arjaan By Rotana için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Bomonti Arjaan By Rotana).
+Hata oluştu (Bomonti Arjaan By Rotana): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Burdock Hotel Istanbul, Autograph Collection için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Burdock Hotel Istanbul, Autograph Collection).
+Hata oluştu (Burdock Hotel Istanbul, Autograph Collection): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+The Byzantium Suites Hotel & Spa Cankurtaran, Akbıyık Cd. için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Byzantium Suites Hotel & Spa Cankurtaran, Akbıyık Cd.).
+Hata oluştu (The Byzantium Suites Hotel & Spa Cankurtaran, Akbıyık Cd.): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Celal Sultan Hotel Special Class için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Celal Sultan Hotel Special Class).
+Hata oluştu (Celal Sultan Hotel Special Class): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Crowne Plaza Istanbul - Old City için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Crowne Plaza Istanbul - Old City).
+Hata oluştu (Crowne Plaza Istanbul - Old City): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Delta Hotels Istanbul Levent için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Delta Hotels Istanbul Levent).
+Hata oluştu (Delta Hotels Istanbul Levent): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+DoubleTree by Hilton Istanbul - Piyalepasa için veri çekiliyor...
+Trip.com ana sayfasına gidildi (DoubleTree by Hilton Istanbul - Piyalepasa).
+Hata oluştu (DoubleTree by Hilton Istanbul - Piyalepasa): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Endican Beyazit Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Endican Beyazit Hotel).
+Hata oluştu (Endican Beyazit Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Endican Sultanahmet Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Endican Sultanahmet Hotel).
+Hata oluştu (Endican Sultanahmet Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Elite World Comfy İstanbul Taksim Kocatepe, Şht. Muhtar Bey Cd. No: 40, 34435 Beyoğlu/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Comfy İstanbul Taksim Kocatepe, Şht. Muhtar Bey Cd. No: 40, 34435 Beyoğlu/İstanbul).
+Hata oluştu (Elite World Comfy İstanbul Taksim Kocatepe, Şht. Muhtar Bey Cd. No: 40, 34435 Beyoğlu/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Elite World İstanbul Florya Şehit Zafer Kızıltaş Sok., Küçükçekmece, E5 üzeri, 34295 Küçükçekmece/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World İstanbul Florya Şehit Zafer Kızıltaş Sok., Küçükçekmece, E5 üzeri, 34295 Küçükçekmece/İstanbul).
+Hata oluştu (Elite World İstanbul Florya Şehit Zafer Kızıltaş Sok., Küçükçekmece, E5 üzeri, 34295 Küçükçekmece/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Elite World Grand İstanbul Basın Ekspres Halkalı Merkez, Halkalı, Basın Ekspres Cd. No: 4, 34303 Küçükçekmece/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Grand İstanbul Basın Ekspres Halkalı Merkez, Halkalı, Basın Ekspres Cd. No: 4, 34303 Küçükçekmece/İstanbul).
+Hata oluştu (Elite World Grand İstanbul Basın Ekspres Halkalı Merkez, Halkalı, Basın Ekspres Cd. No: 4, 34303 Küçükçekmece/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Elite World Grand İstanbul Küçükyalı Aydınevler, İnönü Cd. No: 22, 34854 Maltepe/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Grand İstanbul Küçükyalı Aydınevler, İnönü Cd. No: 22, 34854 Maltepe/İstanbul).
+Hata oluştu (Elite World Grand İstanbul Küçükyalı Aydınevler, İnönü Cd. No: 22, 34854 Maltepe/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Elite World Istanbul Taksim Şehit Muhtar, Şht. Muhtar Bey Cd. No: 42, 34435 Beyoğlu/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Elite World Istanbul Taksim Şehit Muhtar, Şht. Muhtar Bey Cd. No: 42, 34435 Beyoğlu/İstanbul).
+Hata oluştu (Elite World Istanbul Taksim Şehit Muhtar, Şht. Muhtar Bey Cd. No: 42, 34435 Beyoğlu/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Laleli Emin Hotel Mesih Paşa, Mesihpaşa Cd. No: 21, 34130 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Laleli Emin Hotel Mesih Paşa, Mesihpaşa Cd. No: 21, 34130 Fatih/İstanbul).
+Hata oluştu (Laleli Emin Hotel Mesih Paşa, Mesihpaşa Cd. No: 21, 34130 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Fairmont Quasar Istanbul Büyükdere Caddesi No.: 76, 34394 Şişli/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Fairmont Quasar Istanbul Büyükdere Caddesi No.: 76, 34394 Şişli/İstanbul).
+Hata oluştu (Fairmont Quasar Istanbul Büyükdere Caddesi No.: 76, 34394 Şişli/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Four Points by Sheraton Istanbul Kagithane için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Four Points by Sheraton Istanbul Kagithane).
+Hata oluştu (Four Points by Sheraton Istanbul Kagithane): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Gezi Hotel Bosphorus için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Gezi Hotel Bosphorus).
+Hata oluştu (Gezi Hotel Bosphorus): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Gleam Collection Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Gleam Collection Hotel).
+Hata oluştu (Gleam Collection Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Glens Palas İstanbul Nişantaşı Abdi Ipekci Caddesi No 12, 34367 Şişli/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Glens Palas İstanbul Nişantaşı Abdi Ipekci Caddesi No 12, 34367 Şişli/İstanbul).
+Hata oluştu (Glens Palas İstanbul Nişantaşı Abdi Ipekci Caddesi No 12, 34367 Şişli/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Grand Best Nobel Hotel 2 Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Best Nobel Hotel 2 Istanbul).
+Hata oluştu (Grand Best Nobel Hotel 2 Istanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Grand Durmaz Hotel Aksaray, Kemal Paşa Mah, Atatürk Blv. No: 4, 34096, 34080 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Durmaz Hotel Aksaray, Kemal Paşa Mah, Atatürk Blv. No: 4, 34096, 34080 Fatih/İstanbul).
+Hata oluştu (Grand Durmaz Hotel Aksaray, Kemal Paşa Mah, Atatürk Blv. No: 4, 34096, 34080 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Grand Emin Otel Katip Kasım, Fabrika Sk. No: 13, 34130 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Emin Otel Katip Kasım, Fabrika Sk. No: 13, 34130 Fatih/İstanbul).
+Hata oluştu (Grand Emin Otel Katip Kasım, Fabrika Sk. No: 13, 34130 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Grand Naki Hotel Piyer Loti Cad. No.: 12-14 Çemberlitaş, 34490 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Grand Naki Hotel Piyer Loti Cad. No.: 12-14 Çemberlitaş, 34490 Fatih/İstanbul).
+Hata oluştu (Grand Naki Hotel Piyer Loti Cad. No.: 12-14 Çemberlitaş, 34490 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Hilton Istanbul Maslak için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hilton Istanbul Maslak).
+Hata oluştu (Hilton Istanbul Maslak): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Hotel Grand Mark Saraç İshak, Çifte Gelinler Cd. No: 10, 34130 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hotel Grand Mark Saraç İshak, Çifte Gelinler Cd. No: 10, 34130 Fatih/İstanbul).
+Hata oluştu (Hotel Grand Mark Saraç İshak, Çifte Gelinler Cd. No: 10, 34130 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Hyatt Centric Levent Istanbul Büyükdere Caddesi No 136, 34330 Beşiktaş/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hyatt Centric Levent Istanbul Büyükdere Caddesi No 136, 34330 Beşiktaş/İstanbul).
+Hata oluştu (Hyatt Centric Levent Istanbul Büyükdere Caddesi No 136, 34330 Beşiktaş/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Hôtel Le Mirage için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Hôtel Le Mirage).
+Hata oluştu (Hôtel Le Mirage): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Lasagrada Hotel Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Lasagrada Hotel Istanbul).
+Hata oluştu (Lasagrada Hotel Istanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Legacy Ottoman Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Legacy Ottoman Hotel).
+Hata oluştu (Legacy Ottoman Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Metropolitan Hotels Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Metropolitan Hotels Taksim).
+Hata oluştu (Metropolitan Hotels Taksim): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Istanbul Marriott Hotel Sisli Abide-i Hürriyet Caddesi No.: 142, 34381 Şişli/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Istanbul Marriott Hotel Sisli Abide-i Hürriyet Caddesi No.: 142, 34381 Şişli/İstanbul).
+Hata oluştu (Istanbul Marriott Hotel Sisli Abide-i Hürriyet Caddesi No.: 142, 34381 Şişli/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Martinenz Hotel Laleli, Koska Cad. No: 6/1, 34130 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Martinenz Hotel Laleli, Koska Cad. No: 6/1, 34130 Fatih/İstanbul).
+Hata oluştu (Martinenz Hotel Laleli, Koska Cad. No: 6/1, 34130 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Mövenpick Living Istanbul Camlivadi Hamidiye, İhlas Sokağı C Blok No.13, 34408 Kâğıthane/, 34408 Kâğıthane/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Mövenpick Living Istanbul Camlivadi Hamidiye, İhlas Sokağı C Blok No.13, 34408 Kâğıthane/, 34408 Kâğıthane/İstanbul).
+Hata oluştu (Mövenpick Living Istanbul Camlivadi Hamidiye, İhlas Sokağı C Blok No.13, 34408 Kâğıthane/, 34408 Kâğıthane/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Mövenpick Living Istanbul Saklivadi için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Mövenpick Living Istanbul Saklivadi).
+Hata oluştu (Mövenpick Living Istanbul Saklivadi): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Nidya Hotel Galataport için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Nidya Hotel Galataport).
+Hata oluştu (Nidya Hotel Galataport): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Nippon Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Nippon Hotel).
+Hata oluştu (Nippon Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Point Hotel Barbaros için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Point Hotel Barbaros).
+Hata oluştu (Point Hotel Barbaros): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Ramada by Wyndham Istanbul Pera Meşrutiyet Caddesi Oteller Sokak No.: 1/, 34430 Beyoğlu/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Ramada by Wyndham Istanbul Pera Meşrutiyet Caddesi Oteller Sokak No.: 1/, 34430 Beyoğlu/İstanbul).
+Hata oluştu (Ramada by Wyndham Istanbul Pera Meşrutiyet Caddesi Oteller Sokak No.: 1/, 34430 Beyoğlu/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Riva Hotel Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Riva Hotel Taksim).
+Hata oluştu (Riva Hotel Taksim): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Sultan Hamit Hotel Cankurtaran Mah., Yeni Saraçhane Sok., No.: 3, Sultanahmet, 34122 Fatih/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sultan Hamit Hotel Cankurtaran Mah., Yeni Saraçhane Sok., No.: 3, Sultanahmet, 34122 Fatih/İstanbul).
+Hata oluştu (Sultan Hamit Hotel Cankurtaran Mah., Yeni Saraçhane Sok., No.: 3, Sultanahmet, 34122 Fatih/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Sheraton Istanbul Atakoy Hotel Müslümanlara uygun Rauf Orbay Caddesi, Sahilyolu No: 10, 34158 Bakırköy/İstanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sheraton Istanbul Atakoy Hotel Müslümanlara uygun Rauf Orbay Caddesi, Sahilyolu No: 10, 34158 Bakırköy/İstanbul).
+Hata oluştu (Sheraton Istanbul Atakoy Hotel Müslümanlara uygun Rauf Orbay Caddesi, Sahilyolu No: 10, 34158 Bakırköy/İstanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Sheraton Istanbul City Center için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sheraton Istanbul City Center).
+Hata oluştu (Sheraton Istanbul City Center): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Sim Hotel Istanbul Old City için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sim Hotel Istanbul Old City).
+Hata oluştu (Sim Hotel Istanbul Old City): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Sura Hagia Sophia Hotel için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Sura Hagia Sophia Hotel).
+Hata oluştu (Sura Hagia Sophia Hotel): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+The Cettia Istanbul için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Cettia Istanbul).
+Hata oluştu (The Cettia Istanbul): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e89804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102e81ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x00000001029d5ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102a1d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102a5e678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102a1135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102e4ecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102e51fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102e2ed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102e52800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102e1fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102e7245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102e725e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102e81a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+The Elysium Istanbul Taksim için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Elysium Istanbul Taksim).On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cronlog.txt
+	deleted:    sonuc_2025-03-15_21-13.csv
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	sonuc_2025-03-18_15-00.csv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+763836d Dashboard fiyat dönüşüm fix: 1.2k ve 1.5m fiyatlar çözüldü

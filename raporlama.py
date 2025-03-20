@@ -18,29 +18,20 @@ def convert_price_to_float(price_str):
     except ValueError:
         return None
 
-# ➤ Alış fiyatı hesaplayıcı (%4 düşerek)
-def calculate_alim_fiyati(satis_fiyati):
-    try:
-        return round(satis_fiyati * 0.96, 2)
-    except:
-        return None
-
 # Sayfa yapılandırması
 st.set_page_config(page_title="Otel Raporlama Dashboard", layout="wide")
 
-# Ana başlık
+# Başlık
 st.title("📊 Otel Stop Sale ve Fırsat Günleri Dashboard")
 
-# ➤ SEKMELER ➤
-sekme_b2c, sekme_b2b = st.tabs(["🛒 B2C (Trip.com)", "🏨 B2B (Bedsopia)"])
+tab_b2c, tab_b2b = st.tabs(["🟢 B2C Trip.com", "🔵 B2B Bedsopia"])
 
-######################################################################################
-###################################### B2C TAB #######################################
-######################################################################################
-with sekme_b2c:
+# =============================
+# 🔹 B2C TRIP.COM TARAFI
+# =============================
+with tab_b2c:
+
     try:
-        st.header("🛒 B2C Trip.com Verileri")
-
         # CSV dosyalarını bul ve sıralı liste yap
         csv_files = sorted(glob.glob("sonuc_*.csv"))
 
@@ -153,63 +144,134 @@ with sekme_b2c:
                 st.subheader(f"📋 Tüm Oteller Genel Raporu ({selected_datetime})")
                 st.dataframe(rapor_df[['Otel Adı', 'Stop Sale Gün Sayısı', 'Fırsat Gün Sayısı']])
 
-    except Exception as e:
-        st.error(f"Hata oluştu (B2C): {e}")
+                st.divider()
 
-######################################################################################
-###################################### B2B TAB #######################################
-######################################################################################
-with sekme_b2b:
+                st.subheader("📝 Detaylı Otel Raporları")
+
+                for index, row in rapor_df.iterrows():
+                    otel_adi = row['Otel Adı']
+
+                    with st.expander(f"🔍 {otel_adi} Detaylı Rapor"):
+                        st.write(f"**Stop Sale Günleri ({len(row['Stop Sale Tarihler'])}):**")
+                        st.write(row['Stop Sale Tarihler'])
+
+                        st.write(f"**Fırsat Günleri ({len(row['Fırsat Tarihler'])}):**")
+                        st.write(row['Fırsat Tarihler'])
+
+                        # Detaylı fiyat listesi
+                        st.write("**Günlük Fiyat Listesi:**")
+                        otel_fiyat_df = df_numeric[df_numeric['Hotel Adı'] == otel_adi][['Tarih', 'Fiyat']].sort_values(by='Tarih')
+                        st.dataframe(otel_fiyat_df)
+
+                        # Fiyat grafiği
+                        st.line_chart(otel_fiyat_df.set_index('Tarih'))
+
+            # KARŞILAŞTIRMALI ANALİZ
+            st.divider()
+            st.subheader("🔄 İki Zaman Dilimi Arasında Karşılaştırmalı Analiz")
+
+            compare_datetimes = st.multiselect(
+                "Karşılaştırmak istediğin iki tarih/saat kaydını seç (ilk → önceki, ikinci → yeni):",
+                dates_available,
+                max_selections=2
+            )
+
+            if len(compare_datetimes) == 2:
+                file1 = f"sonuc_{compare_datetimes[0].replace(' ', '_')}.csv"
+                file2 = f"sonuc_{compare_datetimes[1].replace(' ', '_')}.csv"
+
+                st.info(f"Karşılaştırılıyor:\n➡️ {compare_datetimes[0]}\n➡️ {compare_datetimes[1]}")
+
+                df1 = pd.read_csv(file1, na_values=['-', 'DOLU'])
+                df2 = pd.read_csv(file2, na_values=['-', 'DOLU'])
+
+                df1['Fiyat'] = df1['Fiyat'].apply(convert_price_to_float)
+                df2['Fiyat'] = df2['Fiyat'].apply(convert_price_to_float)
+
+                df1['Tarih'] = pd.to_datetime(df1['Tarih'], format='%d-%m-%Y')
+                df2['Tarih'] = pd.to_datetime(df2['Tarih'], format='%d-%m-%Y')
+
+                merged = pd.merge(
+                    df1,
+                    df2,
+                    on=['Hotel Adı', 'Tarih'],
+                    suffixes=('_ilk', '_son')
+                )
+
+                merged['Fiyat Farkı'] = merged['Fiyat_son'] - merged['Fiyat_ilk']
+
+                fiyat_artanlar = merged[merged['Fiyat Farkı'] > 0]
+                fiyat_azalanlar = merged[merged['Fiyat Farkı'] < 0]
+
+                st.subheader("📈 Fiyat Artışları")
+                st.dataframe(fiyat_artanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
+
+                st.subheader("📉 Fiyat Düşüşleri (Fırsat Olabilir!)")
+                st.dataframe(fiyat_azalanlar[['Hotel Adı', 'Tarih', 'Fiyat_ilk', 'Fiyat_son', 'Fiyat Farkı']])
+
+                # Yeni Stop Sale Günleri
+                df1_dolu = df1[df1['Fiyat'].isna()][['Hotel Adı', 'Tarih']]
+                df2_dolu = df2[df2['Fiyat'].isna()][['Hotel Adı', 'Tarih']]
+
+                yeni_stop_sale = pd.merge(
+                    df2_dolu,
+                    df1_dolu,
+                    how='left',
+                    indicator=True
+                ).query('_merge == "left_only"').drop(columns=['_merge'])
+
+                st.warning("Yeni dolmuş (stop sale) günler:")
+                st.dataframe(yeni_stop_sale)
+
+                # Stop Sale Kalkmış Günler
+                stop_sale_kalkmis = pd.merge(
+                    df1_dolu,
+                    df2_dolu,
+                    how='left',
+                    indicator=True
+                ).query('_merge == "left_only"').drop(columns=['_merge'])
+
+                st.info("Stop sale kalkmış (boşalmış) günler:")
+                st.dataframe(stop_sale_kalkmis)
+
+    except Exception as e:
+        st.error(f"Hata oluştu: {e}")
+
+# =============================
+# 🔹 B2B BEDSOPIA TARAFI
+# =============================
+with tab_b2b:
     try:
-        st.header("🏨 B2B Bedsopia Verileri")
+        st.subheader("🔵 B2B Bedsopia Verileri")
+        bedsopia_df = pd.read_csv("bedsopia_prices.csv")
 
-        # B2B CSV dosyasını oku
-        df_b2b = pd.read_csv("bedsopia_prices.csv")
+        otel_listesi = bedsopia_df['hotel_name'].unique()
+        secilen_otel = st.selectbox("🏨 Bir otel seçin:", otel_listesi)
 
-        # ➤ Fiyatları float'a çevir
-        df_b2b['Fiyat'] = df_b2b['Fiyat'].apply(convert_price_to_float)
+        otel_df = bedsopia_df[bedsopia_df['hotel_name'] == secilen_otel].copy()
 
-        # ➤ Alış fiyatını hesapla
-        df_b2b['Alış Fiyatı'] = df_b2b['Fiyat'].apply(calculate_alim_fiyati)
+        # Alış fiyatını hesapla (%4 düşük)
+        otel_df['alış_fiyatı'] = otel_df['total'] * 0.96
 
-        # ➤ Tarihleri datetime formatına çevir
-        df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
+        # Filtre seçenekleri
+        oda_tipi = st.multiselect("🛏️ Oda Tipi Seç:", sorted(otel_df['room_name'].unique()))
+        board = st.multiselect("🍽️ Board Tipi Seç:", sorted(otel_df['board'].unique()))
+        iptal_politika = st.multiselect("❌ İptal Poliçesi Seç:", otel_df['cancellation_policy'].unique())
 
-        # ➤ Otel isimleri listesi
-        oteller = sorted(df_b2b['Otel Adı'].unique().tolist())
+        filtrelenmis_df = otel_df.copy()
 
-        # Otel seçimi
-        selected_hotel = st.selectbox("🏨 Bir Otel Seçin", oteller)
+        if oda_tipi:
+            filtrelenmis_df = filtrelenmis_df[filtrelenmis_df['room_name'].isin(oda_tipi)]
 
-        if selected_hotel:
-            hotel_df = df_b2b[df_b2b['Otel Adı'] == selected_hotel].copy()
+        if board:
+            filtrelenmis_df = filtrelenmis_df[filtrelenmis_df['board'].isin(board)]
 
-            # ➤ Filtreler
-            st.markdown("### 🔎 Filtreleme Seçenekleri")
+        if iptal_politika:
+            filtrelenmis_df = filtrelenmis_df[filtrelenmis_df['cancellation_policy'].isin(iptal_politika)]
 
-            oda_tipleri = sorted(hotel_df['Oda Tipi'].unique().tolist())
-            board_types = sorted(hotel_df['Board Type'].unique().tolist())
-            iptal_politikalari = sorted(hotel_df['İptal Poliçesi'].unique().tolist())
+        filtrelenmis_df = filtrelenmis_df.sort_values(by='checkin_date')
 
-            selected_oda = st.multiselect("🏷️ Oda Tipi", oda_tipleri, default=oda_tipleri)
-            selected_board = st.multiselect("🍽️ Board Type", board_types, default=board_types)
-            selected_politika = st.multiselect("⚖️ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
-
-            # ➤ Filtre uygula
-            filtered_df = hotel_df[
-                (hotel_df['Oda Tipi'].isin(selected_oda)) &
-                (hotel_df['Board Type'].isin(selected_board)) &
-                (hotel_df['İptal Poliçesi'].isin(selected_politika))
-            ]
-
-            # ➤ Tarihe göre sırala
-            filtered_df = filtered_df.sort_values(by='Tarih')
-
-            st.markdown(f"### 🗓️ {selected_hotel} Günlük Fiyatlar ve Alış Fiyatları")
-            st.dataframe(filtered_df[['Tarih', 'Oda Tipi', 'Board Type', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet']])
-
-            # ➤ Grafik
-            st.line_chart(filtered_df.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
+        st.dataframe(filtrelenmis_df[['checkin_date', 'room_name', 'board', 'cancellation_policy', 'total', 'alış_fiyatı']])
 
     except Exception as e:
-        st.error(f"Hata oluştu (B2B): {e}")
+        st.error(f"B2B sekmesinde hata oluştu: {e}")

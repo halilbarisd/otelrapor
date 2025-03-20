@@ -24,7 +24,7 @@ st.set_page_config(page_title="Otel Raporlama Dashboard", layout="wide")
 # Başlık
 st.title("📊 Otel Stop Sale ve Fırsat Günleri Dashboard")
 
-tab_b2c, tab_b2b = st.tabs(["🟢 B2C Trip.com", "🔵 B2B Bedsopia"])
+tab_b2c, tab_b2b = st.tabs(["🟢 B2C", "🔵 B2B"])
 
 # =============================
 # 🔹 B2C TRIP.COM TARAFI
@@ -242,61 +242,55 @@ with tab_b2c:
 # =============================
 with tab_b2b:
     try:
-        st.header("🏨 B2B Bedsopia Verileri")
+        st.header("🏨 B2B Verileri")
 
-        # ➤ B2B CSV dosyasını oku
+        # B2B CSV dosyasını oku
         df_b2b = pd.read_csv("bedsopia_prices.csv")
 
-        # ➤ Tarihleri datetime formatına çevir
-        df_b2b['checkin_date'] = pd.to_datetime(df_b2b['checkin_date'])
+        # ➤ Fiyatları float'a çevir
+        df_b2b['Fiyat'] = df_b2b['Fiyat'].apply(convert_price_to_float)
 
-        # ➤ Alış fiyatını hesapla (%4 indirim)
-        df_b2b['alış_fiyatı'] = df_b2b['total'] * 0.96
+        # ➤ Alış fiyatını hesapla (%4 düşeceğiz)
+        df_b2b['Alış Fiyatı'] = df_b2b['Fiyat'] * 0.96
+
+        # ➤ Tarihleri datetime formatına çevir
+        df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
 
         # ➤ Otel isimleri listesi
-        oteller = sorted(df_b2b['hotel_name'].unique().tolist())
+        oteller = sorted(df_b2b['Otel Adı'].unique().tolist())
 
         # Otel seçimi
         selected_hotel = st.selectbox("🏨 Bir Otel Seçin", oteller)
 
         if selected_hotel:
-            hotel_df = df_b2b[df_b2b['hotel_name'] == selected_hotel].copy()
+            hotel_df = df_b2b[df_b2b['Otel Adı'] == selected_hotel].copy()
 
             # ➤ Filtreler
             st.markdown("### 🔎 Filtreleme Seçenekleri")
 
-            oda_tipleri = sorted(hotel_df['room_name'].unique().tolist())
-            board_types = sorted(hotel_df['board'].unique().tolist())
-            iptal_politikalari = sorted(hotel_df['cancellation_policy'].unique().tolist())
+            oda_tipleri = sorted(hotel_df['Oda Tipi'].unique().tolist())
+            board_types = sorted(hotel_df['Board Type'].unique().tolist())
+            iptal_politikalari = sorted(hotel_df['İptal Poliçesi'].unique().tolist())
 
-            selected_oda = st.multiselect("🛏️ Oda Tipi", oda_tipleri, default=oda_tipleri)
-            selected_board = st.multiselect("🍽️ Board", board_types, default=board_types)
-            selected_politika = st.multiselect("❌ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
+            selected_oda = st.multiselect("🏷️ Oda Tipi", oda_tipleri, default=oda_tipleri)
+            selected_board = st.multiselect("🍽️ Board Type", board_types, default=board_types)
+            selected_politika = st.multiselect("⚖️ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
 
             # ➤ Filtre uygula
             filtered_df = hotel_df[
-                (hotel_df['room_name'].isin(selected_oda)) &
-                (hotel_df['board'].isin(selected_board)) &
-                (hotel_df['cancellation_policy'].isin(selected_politika))
+                (hotel_df['Oda Tipi'].isin(selected_oda)) &
+                (hotel_df['Board Type'].isin(selected_board)) &
+                (hotel_df['İptal Poliçesi'].isin(selected_politika))
             ]
 
             # ➤ Tarihe göre sırala
-            filtered_df = filtered_df.sort_values(by='checkin_date')
+            filtered_df = filtered_df.sort_values(by='Tarih')
 
-            # ➤ Sonuçları göster
             st.markdown(f"### 🗓️ {selected_hotel} Günlük Fiyatlar ve Alış Fiyatları")
-
-            st.dataframe(filtered_df[[
-                'checkin_date',
-                'room_name',
-                'board',
-                'cancellation_policy',
-                'total',
-                'alış_fiyatı'
-            ]])
+            st.dataframe(filtered_df[['Tarih', 'Oda Tipi', 'Board Type', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet']])
 
             # ➤ Grafik
-            st.line_chart(filtered_df.set_index('checkin_date')[['total', 'alış_fiyatı']])
+            st.line_chart(filtered_df.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
 
     except Exception as e:
         st.error(f"Hata oluştu (B2B): {e}")

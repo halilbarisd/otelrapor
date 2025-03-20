@@ -23045,3 +23045,116 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 af83b41 Otomatik veri güncellemesi ve rapor push
+[main 37fdfef] Otomatik veri güncellemesi ve rapor push
+ Committer: Halil Barış Duman <halilbarisduman@Halil-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 1242 insertions(+), 1486 deletions(-)
+ delete mode 100644 sonuc_2025-03-16_15-17.csv
+ create mode 100644 sonuc_2025-03-19_22-02.csv
+To https://github.com/halilbarisd/otelrapor.git
+   af83b41..37fdfef  main -> main
+
+Hata oluştu (The Elysium Istanbul Taksim): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e09804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000100e01ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000100955ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x000000010099d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001009de678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010099135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000100dcecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000100dd1fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000100daed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000100dd2800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000100d9fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000100df245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000100df25e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000100e01a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+The Westin Istanbul Nisantasi için veri çekiliyor...
+Trip.com ana sayfasına gidildi (The Westin Istanbul Nisantasi).
+Hata oluştu (The Westin Istanbul Nisantasi): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e09804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000100e01ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000100955ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x000000010099d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001009de678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010099135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000100dcecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000100dd1fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000100daed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000100dd2800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000100d9fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000100df245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000100df25e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000100e01a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Wyndham Istanbul Oldcity için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Wyndham Istanbul Oldcity).
+Hata oluştu (Wyndham Istanbul Oldcity): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e09804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000100e01ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000100955ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x000000010099d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001009de678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010099135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000100dcecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000100dd1fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000100daed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000100dd2800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000100d9fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000100df245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000100df25e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000100e01a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Zimmer Hotels Bosphorus için veri çekiliyor...
+Trip.com ana sayfasına gidildi (Zimmer Hotels Bosphorus).
+Hata oluştu (Zimmer Hotels Bosphorus): Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100e09804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000100e01ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000100955ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x000000010099d1d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x00000001009de678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010099135c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000100dcecd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000100dd1fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000100daed04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000100dd2800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000100d9fba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000100df245c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000100df25e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000100e01a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x00000001808d72e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001808d20fc thread_start + 8
+
+Tüm sonuçlar sonuc_2025-03-19_22-02.csv dosyasına kaydedildi.
+Tarayıcı kapatıldı.
+sonuc_2025-03-16_15-17.csv silindi (limit aşıldı).
+🔄 Git işlemi başlıyor...
+🔍 [Durum] Çalışılan dizin: /Users/halilbarisduman/Desktop/otelrapor
+🔧 Adım 1: git add .
+✅ Değişiklikler eklendi.
+🔧 Adım 2: git commit -m "Otomatik veri güncellemesi ve rapor push"
+✅ Commit işlemi tamamlandı.
+🔧 Adım 4: git push origin main
+🚀 Push işlemi başarılı!

@@ -1,0 +1,2456 @@
+{
+    "availability": {
+        "startDate": "2025-03-23T00:00:00",
+        "endDate": "2025-04-07T00:00:00",
+        "offerDescription": "",
+        "isOffer": false,
+        "bestDeal": false,
+        "available": true,
+        "options": [
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFM1YzbHZueWxwME9lenNmUmZrWFYrUjFKQW9PWFJMTEhnQ0hyRnR0bjFVR043YW1xai9KeHhvdmFYc0ROQzFqeTF5ekFwUmxUZlRiODBMZGZkVXB3OTlFajRLUDR6K1hyZ01FSTNLWjdBeGVIK3FzME1BbENITmkyUHdyS0kreTFna0I1ZW0xSi9pMy9jcDU0ZUtQUkdPZU5xcUdxbmV1ZmFUSTllRS9XYmxTTVQ2T3NEYkROeThIYUZlamMxMlZKMStUYVphVGljL1NOSExsSDFGRmhoVU5aTFNWY3IwZ1Y2RGpEVG9uUnlwY0U4U3VSNGNDc0hwRjJCVXVESkRhY2VLYXFKTThTdDRMRHFJS29lVnZKRmNNSnlGRHRRREpHK0xGWVFBbmZsc21oWWFmMUpQZHZqVTFzY2FOYS9GUDMwNDlnZHIyNnNTeURxQW1UMHRSWkFyLzgwU1lheDlUZWl6dUgrV3M1aHg0dEJ3aWhnbUE2ZjBNQm11a1ZVeFk2c1cxejQxbzJBU200RmZiOG91QW5kaFA5c3pVakw5clc2V1l1YzJqUENzaUtRUTF2TUJvMjV4aXJCRmNycTZsY0k9",
+                "providerId": 69,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "ROOM ONLY",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1683.27,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DBL.KG",
+                        "name": "DOUBLE KING SIZE BED",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "DOUBLE KING SIZE BED",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 112.22
+                        }
+                    }
+                ],
+                "selected": true,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1683.27,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1683.27,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1683.27,
+                    "basePriceWithoutPackagedSupplements": 1683.27,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1683.27,
+                                            "dailyPrice": 1683.27,
+                                            "totalPrice": 1683.27,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1683.27,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "DOUBLE KING SIZE BED",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1616.55,
+                    "costCurrency": "EUR",
+                    "saleRate": 1683.27,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 1,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$19927540616250932",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFM1YzbHZueWxwME9lenNmUmZrWFYrUjFKQW9PWFJMTEhnQ0hyRnR0bjFVR043YW1xai9KeHhvdmFYc0ROQzFqeTF5ekFwUmxUZlRiODBMZGZkVXB3OTlFajRLUDR6K1hyZ01FSTNLWjdBeGVIK3FzME1BbENITmkyUHdyS0kreTFna0I1ZW0xSi9pMy9jcDU0ZUtQUkdPZU5xcUdxbmV1ZmFUSTllRS9XYmxTTVQ2T3NEYkROeThIYUZlamMxMlZKMStUYVphVGljL1NOSExsSDFGRmhoVWpPRzhzM1hUL2pWYlhLUEFZV2NKOG9TMi9LVVZETTIyMy9nWGw0M3lXNW1GNnJveGJ0NnZjeElVM1Y4eTRTQUg1QWhyMHQxYkhYbng3OTI1YTIrNXlpV3h0MHg4QnU0NlBGdHgwMGM1bnFJRUN2SnpGK295RTRiUzJqZXYyY3gxM3k0dnZOekxxKytLNUl6WGl1ck9DMWhZNS9UeVVnQkxrMW15TGJRWU5BNDV6V3dqejFTSHJ1NWhrbVIyQzB4SXRkVDEyemx4M1FURUhUK3lqZGRqWWpoWnVRaVRzVDJuMEkybDhqMlRYNjA9",
+                "providerId": 69,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "ROOM ONLY",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1683.27,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "TWN.2B",
+                        "name": "TWIN TWO BEDS",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000171",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "TWIN TWO BEDS",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 112.22,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 112.22
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1683.27,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1683.27,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1683.27,
+                    "basePriceWithoutPackagedSupplements": 1683.27,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1683.27,
+                                            "dailyPrice": 1683.27,
+                                            "totalPrice": 1683.27,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1683.27,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "TWIN TWO BEDS",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1616.55,
+                    "costCurrency": "EUR",
+                    "saleRate": 1683.27,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 2,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$5936541354528828823",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFM0J4eWgwY3pNOFZmdU1wc3JkNEpMZVNMay9yeUtkZG5Pamd0Z2dQMkwyWUhFY3RLOVhYTEx4Ynh1bm5yODRsZGNERUQ4cFNiQk53YmtCUDgxTThoSkpaeVQrcEdoVUExSmdRN2h3dEhJb2k3UzB0LzhFcnQ0R2pIa01TOURhTm00bC9JMndoUVYrd1UvY2FLZDExUE9JWlNsVGFTZ3hQcnY3MnNpd2FsejB4aG9MbDBGTXFJYUJQNlprWC9sL2VIS0NPVVV5Wm55aFpXR1kzZTZwd2phQWVHMVEvRHBqdmFVNjJyZDdKVDhzS0RYY21YQ1JIQXp6eXJ6dGZaaE93MEpzbHhFZ1ZyZTZmTGhHUjhnMkQyRm1lNjdSMDlFcm1GV2Vhd01na0dFdmFQWlRnU2ZiVmtYc2s2T2pGSGx2NEE5Ni9YMDhMc2dkTklwZ3VVY3lmYUxoc0VhZXpsSGprWVN5eVJDSEFlVDVLR1U4Kzl2SElsU3FxNmlHcDBrM1VZNFBzOVljRDVZeFFHQTR5VjJNUmtqZUdNY0ZCeG5Vb0llN1FPRnhQNzJHNFBPRlp4M0lJSXI4cjVjUVpJZFF0Yms9",
+                "providerId": 69,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "ROOM ONLY",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1870.32,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DBL.KG",
+                        "name": "DOUBLE KING SIZE BED",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "DOUBLE KING SIZE BED",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 124.69
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1870.32,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1870.32,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1870.32,
+                    "basePriceWithoutPackagedSupplements": 1870.32,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1870.32,
+                                            "dailyPrice": 1870.32,
+                                            "totalPrice": 1870.32,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1870.32,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "DOUBLE KING SIZE BED",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1796.18,
+                    "costCurrency": "EUR",
+                    "saleRate": 1870.32,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 3,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$1094378930288516189",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFM0J4eWgwY3pNOFZmdU1wc3JkNEpMZVNMay9yeUtkZG5Pamd0Z2dQMkwyWUhFY3RLOVhYTEx4Ynh1bm5yODRsZGNERUQ4cFNiQk53YmtCUDgxTThoSkpaeVQrcEdoVUExSmdRN2h3dEhJb2k3UzB0LzhFcnQ0R2pIa01TOURhTm00bC9JMndoUVYrd1UvY2FLZDExUE9JWlNsVGFTZ3hQcnY3MnNpd2FsejB4aG9MbDBGTXFJYUJQNlprWC9sL2VIS0NPVVV5Wm55aFpXR1kzZTZwd2phQXhHa2VBcE5QSEQ0aVY5L3VIMncwYXEraDJxKzdpZmc0NmRrOStnbmlmQmdpa2hlUkRCMndZd2E2cmJJajdCRUpycmpGNEthOHlxYTNKemVXUXhEallrRkwwQ3ZHL1piSnZzLzgwOUtZNm1VTmNqUUFuT3RsNXdoU1c3TzRjNUxmcm1YWTJzRktMZmpScjBXRWcvQW9QaGdSREtvQmdmNWxIYlRLWUdHbDhLZ1ExYlJkbmRXMTIvYm5NbUdMZnMzOHpIU0VYbHNyMGZMVWVxK29ZVS9Vb010T1czeFBLc2E2MGVza1BiTENaUWM9",
+                "providerId": 69,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "ROOM ONLY",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1870.32,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "TWN.2B",
+                        "name": "TWIN TWO BEDS",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000171",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "TWIN TWO BEDS",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 124.69,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 124.69
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1870.32,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1870.32,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1870.32,
+                    "basePriceWithoutPackagedSupplements": 1870.32,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1870.32,
+                                            "dailyPrice": 1870.32,
+                                            "totalPrice": 1870.32,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1870.32,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "TWIN TWO BEDS",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1796.18,
+                    "costCurrency": "EUR",
+                    "saleRate": 1870.32,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 4,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$14136461370188648097",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFMWZTMEZEVXV4d002UEx2bWNTT0poaUh0Q1NKRytaQmZPVkt2VDJ6Z1lvWDhYWVE0TjMzTHJHVmJCZGx6V2xhUGNRcVd0OXNMWTJsUFVSUCthRnN0bWt4dVlEWkVzYTNSUW5CV1NWTGNxN0toMXFLcDdYN0pGek5OUWdzNmRpWmxHYUVETkZqWndnRlBFOVUwMXk2TFB0STF1NWdwNURob0RkSmgrMzlQbTRyUHFldmhONW4wQXpIL3ZuK05McTN4OW9mbit0NllKZmtJSlVUNC9NRjR0N2FDZjVjREhwbEFrbnRySlVySXoyR083bGx4TEhuK2h4UTlxQ2FpQW5kWkgrNUhhejMvd1BvMkF1WFBGTXd5NENtUzEyWllTb0psakpKVWprdVdYTWg4ZGZJU0EvcmVYY28rV0hwZzlmRU9iQ0JwRDBvSUVzODVOMVpySGNyZHE0SU9BeXJwalB1S0YzUG5DdFB0dkp0UDA4UGNvUEowUDZUWjhBQmJ2ZXdGU2h3b0RnaEE5aUppaExiL3hjeVpPa0FaOUFUNkRkYUhZTEhSTUxtNjd0alJ4dHlxNXp2Ui9EOURHMHd5Snhyak5jYy93Zi9LeGdlMWRzRXZvNTNDOEM=",
+                "providerId": 69,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "BED AND BREAKFAST",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 2026.97,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DBL.KG",
+                        "name": "DOUBLE KING SIZE BED",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "DOUBLE KING SIZE BED",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 135.13
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 2026.97,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 2026.97,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 2026.97,
+                    "basePriceWithoutPackagedSupplements": 2026.97,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 2026.97,
+                                            "dailyPrice": 2026.97,
+                                            "totalPrice": 2026.97,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 2026.97,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "DOUBLE KING SIZE BED",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1946.62,
+                    "costCurrency": "EUR",
+                    "saleRate": 2026.97,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 5,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$1140295926110579573",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFMWZTMEZEVXV4d002UEx2bWNTT0poaUh0Q1NKRytaQmZPVkt2VDJ6Z1lvWDhYWVE0TjMzTHJHVmJCZGx6V2xhUGNRcVd0OXNMWTJsUFVSUCthRnN0bWt4dVlEWkVzYTNSUW5CV1NWTGNxN0toMXFLcDdYN0pGek5OUWdzNmRpWmxHYUVETkZqWndnRlBFOVUwMXk2TFB0STF1NWdwNURob0RkSmgrMzlQbTRyUHFldmhONW4wQXpIL3ZuK05McTN4OW9mbit0NllKZmtJSlVUNC9NRjR0N1BMS2pMV28xSmVpb1BUZHV3TTBTTVlLbUpyREFkekhhb1RPZExRNWtvLzNqTkVPb3lhNmdJNnFPSHRmTmQ1QTJoUzh4SklkVDhMT3VENkdsQW5kcit0b0doSENsZjQxeTNQSXVNdEFyYmZSVnk3Ykhqb21mZk1OV2NGQVZKQlFrUk4wUmZqRFJXTW5DcEpGS1FlT0xIZC9IZVY0b3FNaGg0T0h2Y0JyZmJrcm9Vck5jSEx0cFVJMzRXNEo1c1h4NGx4Y2Q5MjlzZm1wYUNFSmdDdHQzbGE5Tnk5dEw3MDdRenJsNHA1NzFGcWs9",
+                "providerId": 69,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "BED AND BREAKFAST",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 2026.97,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "TWN.2B",
+                        "name": "TWIN TWO BEDS",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000171",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "TWIN TWO BEDS",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 135.13,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 135.13
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 2026.97,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 2026.97,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 2026.97,
+                    "basePriceWithoutPackagedSupplements": 2026.97,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 2026.97,
+                                            "dailyPrice": 2026.97,
+                                            "totalPrice": 2026.97,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 2026.97,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "TWIN TWO BEDS",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1946.62,
+                    "costCurrency": "EUR",
+                    "saleRate": 2026.97,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 6,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$8214895827507192124",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFMXhnK2Z3bEhsd0ZDNnVwZFFQNzFWTmU1TkowSkt5cHVWNUUrbDhjNTNDYlBJMTBzaGt4UmtHNktSOVpScXViK1ROSiswZ21IVHhFVFVENGtwckNsR3VsSU84SmZoQTk4MzhjUEE0WXMvRHNWclJRd28yb2s5azg2ajdLbllhV3lLeEZxWnZMeGJLV1h6RWpVbjBxMEZTdHJRTjJFNDNJMmVGT3RkSUZwQW5pTDdQLzV5OHdVVWFJdnhiN211M2U0YkUwL2h4YmprV09CNWpGQ0tHd2Rwdzdwa0cxZ2VsZmZQZ29SYzUreXZLZVV2aXRzc2FzeW1US08wWXdqQUtDTG1GMVlRWXpacStabCs0MVI2eFRhd3lJSzJqMEIxbDBiN2JhbDAveHNSS2t4QzROYU1GeFZlRTVPWHU1K0VIdWk4Y1I2RmtmY09JYk9kOWN1UmRqLzdGa3Vsa0M1cnNLL3YzcVRhS0xhRnRDcjMvdkFKYW1OS040ZWt5SFJlRFB6cHBXeThUd1BBOGZ1blhkZ3JxWVRtWldSSnJidW5PYWc2ckhkTGpGcEptdXJWWVo4b3hGUHg5OTVEOWt2Z3dKOUk9",
+                "providerId": 69,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "BED AND BREAKFAST",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 2214.0,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DBL.KG",
+                        "name": "DOUBLE KING SIZE BED",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "DOUBLE KING SIZE BED",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 147.6
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 2214.0,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 2214.0,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 2214.0,
+                    "basePriceWithoutPackagedSupplements": 2214.0,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 2214.0,
+                                            "dailyPrice": 2214.0,
+                                            "totalPrice": 2214.0,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 2214.0,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "DOUBLE KING SIZE BED",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 2126.24,
+                    "costCurrency": "EUR",
+                    "saleRate": 2214.0,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 7,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$5788210024124584238",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "MFlWZS9vaFRVSnFYbmJ0aGxMTnJyOHVsMEZZWFFVQXdFYkdrelQ1WVBFMXhnK2Z3bEhsd0ZDNnVwZFFQNzFWTmU1TkowSkt5cHVWNUUrbDhjNTNDYlBJMTBzaGt4UmtHNktSOVpScXViK1ROSiswZ21IVHhFVFVENGtwckNsR3VsSU84SmZoQTk4MzhjUEE0WXMvRHNWclJRd28yb2s5azg2ajdLbllhV3lLeEZxWnZMeGJLV1h6RWpVbjBxMEZTdHJRTjJFNDNJMmVGT3RkSUZwQW5pTDdQLzV5OHdVVWFJdnhiN211M2U0YkUwL2h4YmprV09CNWpGQ0tHd2RwdzVBWi93R2dsc3pDemxQa0JabWtmMEhaOS9mdXc5RWpTVEltcnhsdXlKYTlXa0pXdW4wVGJCOUxqU0VUVW82ZktVUElOQ29aT25ZcHV6Mll0SE95OHB4aFVMNFhCYU9oOGJTMk5mZDJDUUxMWnl0THY3ZDZjVStUUDdGRDlBK3RoNXErak52K2NTN2huVmp5Lzk3SGozaHdOVWhGVmVpbU4rTCt0ODgyeXBJdFVJOUpkUDNvaWhQdURGK3lFSFNZNUp2QmFoalBaL2hrTmRCcDNVTXNFSG5LR0gyeUk0R2JtZm5VdUs2T29sc1E9",
+                "providerId": 69,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "BED AND BREAKFAST",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 2214.0,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "TWN.2B",
+                        "name": "TWIN TWO BEDS",
+                        "units": 1,
+                        "availableRooms": 10,
+                        "minAge": 0,
+                        "mapping": "JR000171",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "TWIN TWO BEDS",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 147.6,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 147.6
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 2214.0,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 2214.0,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 2214.0,
+                    "basePriceWithoutPackagedSupplements": 2214.0,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 2214.0,
+                                            "dailyPrice": 2214.0,
+                                            "totalPrice": 2214.0,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 2214.0,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "TWIN TWO BEDS",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 2126.24,
+                    "costCurrency": "EUR",
+                    "saleRate": 2214.0,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "427019",
+                "combinationId": 8,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$3261053287206155433",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "Z0cyR1BEZElTdlBQaVZzd2tHaUNaVnQzNlN0NjgycXB5VHpSTTRBS2Vta0RhcnV4bGtyTit1WC9BWlZmQ2xZK3hGQ21uMTdDR01HNVVERFFaTTFtWXVxeHYxaHZZWkhYT29aQVdyUzBMZTU0YWJHL05rMHcyNTljY01ZUStVQ1ByNUh1dEFoVHdCSFlzRTc5SjdtWWVoekFHRXBrcWtKc3pKeVFwYWM5NUgzM1Jyam5xN3d1TEI2SDVDdGEydFcvdE5peEFtUVlHWnFZSzVJYjh4dU53MG8xZllRd3FvRCtLOUVGSFIxV3hoY29GUmljUFhzYVJmV0RQbUZlL3RmZWFlQkpmcHdOTzhFMWFjN1diUU56UHZKZ3VXTDdkQ3pVZXFzQVM5ZWM2UmJ2UkhlMkdOSFcxbDFaSG5pamdlWURwd3o5L2k4TzFOYzlkQnVwRGdyS3V6dlc5UTBzQ1c2TnAxRGs3c2tscTBvYXVUcWtsOEpWREg1YmxpclBKSXUzQU51VXVSTFF0dXJHN0Ixb05iMUFna3lkS1ZhakVrVTJLRnVaQmQvYituaDlpTWlDMEx0bCszYmFNTUpPUGJjaw==",
+                "providerId": 519,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "Room Only",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 2731.34,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DB",
+                        "name": "One Bedroom Suite Double Room",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000095",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "One Bedroom Suite Double Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 182.09,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 182.09
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 2731.34,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 2731.34,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 2731.34,
+                    "basePriceWithoutPackagedSupplements": 2731.34,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 2731.34,
+                                            "dailyPrice": 2731.34,
+                                            "totalPrice": 2731.34,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 2731.34,
+                                    "costRate": 2731.34,
+                                    "saleRate": 2622.09
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 2622.09,
+                    "saleRate": 2731.34,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "19efa5",
+                "combinationId": 9,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$15592670382175653607",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "Z0cyR1BEZElTdlBQaVZzd2tHaUNaVnQzNlN0NjgycXB5VHpSTTRBS2VtbnhDYkhBcjRDSUorNGJHM24zc2YxbnRQMUU3TlpmQjRuaXFGR1RlcXU2U3JNcjM1eTMveThkUGE3aFMwWVJJOU1TSVV5QTg4ZkMvcXFWR0pVV21IVTBaUWdQRW5zZnVNZXBqZWljQlBodEo4RzhhS3JMajRodHZxTDlzc1MyMW1FYktNb2lodHc4OStINXpNUndRUG5rL3lGdnRYemwvaStQS2dKOE5vNUlZODN6dCtkNDV5V2IzKzJWVmFXTk5mT1hubmc2WU9JN1VaMGp4TkpCRGtjQ01nQmM3Ly9YdE1CRFRneENJQTljZlBEci9YQkhXVDRJYmE4N0J4QWdNWXFucFFNdVBhR0doSHRLM1BTWDFTdk54b2w1RUFCSmhHU2huTHVhek84NFVQRUR6MzJhZDZMRnJSMTBoeDB0V1BqRGthcDl3a0Y4dUtDeHpvdE81bG9XcXovZXpCTktMSGZwdUZ3cFpUR0tWK1JPdHdUUk9GeWkxcVZhSGxMS0ZFOVlQeGxUTzIrcjl1NnZhYXpaK2o2Zw==",
+                "providerId": 519,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "Room Only",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 3034.84,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DB",
+                        "name": "One Bedroom Suite Double Room",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000095",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "One Bedroom Suite Double Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 202.32,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 202.32
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 3034.84,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 3034.84,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 3034.84,
+                    "basePriceWithoutPackagedSupplements": 3034.84,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 3034.84,
+                                            "dailyPrice": 3034.84,
+                                            "totalPrice": 3034.84,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 3034.84,
+                                    "costRate": 3034.84,
+                                    "saleRate": 2913.45
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 2913.45,
+                    "saleRate": 3034.84,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "19efa5",
+                "combinationId": 10,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$14058076686227245223",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "Z0cyR1BEZElTdlBQaVZzd2tHaUNaVnQzNlN0NjgycXB5VHpSTTRBS2Vta1NzUjdyN1VBYVJ5NEZMcnJxSUNzVExLWUordFhYdEp5aEN5SlQrWTdsL2EvbmIrOW1Ibk5NekRnaVlYRGQvdVBhL0czckR2V0hlTktqZldzZnlPRFNOcnZoMlBRSDZqSVRJRlk5elFFQnk1SmNSTk1pZ3RmQ2hVbFVnZlI0Vzh3RnY4Undob0lONXk1VnFOd2tTblBjb3lzbG1aUlpOdXhQVEM1SngzZjZFemszbU5VVndCdGpTZWZzZnl4dzhkazY3OFlLT1M5SFBZRHNhS1JYdVlvbHZjNVY2ZEhqOTFvZjg4SnljSzBWMUNlY2g2Umw3UUF6NE1pOFNQY1I4cXZ5ZGRLT1V0N080VHJQbmFCUExucnptNjBkVlZwdFR6azgveXpBSm1vU09NSklPYUZLQ3pGaFZFWE15a1R6M3FaTW5XVExWR21WblArUUxuRk1Yd0NtdUdJTnFqQVNKMEkzZW94ck1UcURrOU9lK2RpK28vV3JxSUt0S0xEdktNNnBPeVFjQ2JjVkNCTTkwQnNMaCt1Zg==",
+                "providerId": 519,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast (Non-Alcoholic)",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 3138.98,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DB",
+                        "name": "One Bedroom Suite Double Room",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000095",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "One Bedroom Suite Double Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 209.27,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 209.27
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 3138.98,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 3138.98,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 3138.98,
+                    "basePriceWithoutPackagedSupplements": 3138.98,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 3138.98,
+                                            "dailyPrice": 3138.98,
+                                            "totalPrice": 3138.98,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 3138.98,
+                                    "costRate": 3138.98,
+                                    "saleRate": 3013.42
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 3013.42,
+                    "saleRate": 3138.98,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "19efa5",
+                "combinationId": 11,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$4990220508425825843",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "Z0cyR1BEZElTdlBQaVZzd2tHaUNaVnQzNlN0NjgycXB5VHpSTTRBS2Vtbis2b3d2aCtFVzQxNEhLN2E3eTlvdmJsdm1DcUtxVkZTUjY0aHRXYjArK0s3eUkwUW1makxQc29xVmg2KzVucDVZS1A5OE1TOGFZRmQ4b2JPZ3Y5NnNRdUJudzZTZWxxMGFGcDhaS29pSDRyTlZBOTVHMUxtWEF3eFFWbEQxcjB5TCtNa05ZRG41UUxLNHRVZ2xVVUJrejJxTGhLaFRseVV5YmlBK3RDUWdmUnhNWFRLN25RaitsMXhSTkpnNVora3BONWdnd2pueXpZQ1NQcEVqT3NUdVdvZlVON2pnQWxUY2xMM0s0a3dRZTFHVUZ0cUN4UG5ZQ2x5YjM3aGZDZHZvaGpOaTBzUGMySnJpNFd6NXlLYWhGaUlTMWNpVXlUaCtYU2NVUldCMjNiTGNHT1hWaDh6eXp2ZFQrdzJsS2NGQ1pGakgrdUdESDFHMnVJaU9IVnVQNUVoSVdiQkZOaDFmYzRId1RzalRqRXhkMHJzd1dxeng3ZUQ3azE1TmNQdnB1dlkxN1dTUDIwWU10amh3N0Ftcg==",
+                "providerId": 519,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast (Non-Alcoholic)",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 3442.47,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "DB",
+                        "name": "One Bedroom Suite Double Room",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000095",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "One Bedroom Suite Double Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 229.5,
+                                        "onRequest": false
+                                    }
+                                ]
+                            ],
+                            "average": 229.5
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 3442.47,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 3442.47,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 3442.47,
+                    "basePriceWithoutPackagedSupplements": 3442.47,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 3442.47,
+                                            "dailyPrice": 3442.47,
+                                            "totalPrice": 3442.47,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 3442.47,
+                                    "costRate": 3442.47,
+                                    "saleRate": 3304.77
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-03-23T00:00:00",
+                    "endDate": "2025-04-07T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 3304.77,
+                    "saleRate": 3442.47,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "19efa5",
+                "combinationId": 12,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$14248711186718416842",
+                "isFromIntegrationAtProvider": false
+            }
+        ],
+        "moreOptions": false,
+        "distribution": {
+            "rooms": 1,
+            "adults": 2,
+            "children": 0,
+            "babies": 0
+        },
+        "price": 1683.27,
+        "currency": "EUR",
+        "priceDetail": {
+            "currency": "EUR",
+            "base": 0.0,
+            "taxes": 0.0,
+            "hFees": 0.0,
+            "total": 1683.27,
+            "commision": 0.0,
+            "commisionPercentage": 0.0,
+            "commisionTaxes": 0.0,
+            "netPrice": 0.0,
+            "basePriceWithoutPackagedSupplements": 0.0,
+            "commissionTaxesPercentage": 0.0,
+            "discounts": 0.0,
+            "days": 0,
+            "product": "hotels",
+            "simulatedMarginPercentage": 0.0,
+            "LoyaltyRules": {},
+            "costRate": 0.0,
+            "saleRate": 0.0
+        },
+        "nights": 15,
+        "hasPayAtHotel": false,
+        "UID": "__474855404a50313131393136"
+    }
+}

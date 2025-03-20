@@ -244,53 +244,59 @@ with tab_b2b:
     try:
         st.header("🏨 B2B Bedsopia Verileri")
 
-        # B2B CSV dosyasını oku
+        # ➤ B2B CSV dosyasını oku
         df_b2b = pd.read_csv("bedsopia_prices.csv")
 
-        # ➤ Fiyatları float'a çevir
-        df_b2b['Fiyat'] = df_b2b['Fiyat'].apply(convert_price_to_float)
-
-        # ➤ Alış fiyatını hesapla
-        df_b2b['Alış Fiyatı'] = df_b2b['Fiyat'].apply(calculate_alim_fiyati)
-
         # ➤ Tarihleri datetime formatına çevir
-        df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
+        df_b2b['checkin_date'] = pd.to_datetime(df_b2b['checkin_date'])
+
+        # ➤ Alış fiyatını hesapla (%4 indirim)
+        df_b2b['alış_fiyatı'] = df_b2b['total'] * 0.96
 
         # ➤ Otel isimleri listesi
-        oteller = sorted(df_b2b['Otel Adı'].unique().tolist())
+        oteller = sorted(df_b2b['hotel_name'].unique().tolist())
 
         # Otel seçimi
         selected_hotel = st.selectbox("🏨 Bir Otel Seçin", oteller)
 
         if selected_hotel:
-            hotel_df = df_b2b[df_b2b['Otel Adı'] == selected_hotel].copy()
+            hotel_df = df_b2b[df_b2b['hotel_name'] == selected_hotel].copy()
 
             # ➤ Filtreler
             st.markdown("### 🔎 Filtreleme Seçenekleri")
 
-            oda_tipleri = sorted(hotel_df['Oda Tipi'].unique().tolist())
-            board_types = sorted(hotel_df['Board Type'].unique().tolist())
-            iptal_politikalari = sorted(hotel_df['İptal Poliçesi'].unique().tolist())
+            oda_tipleri = sorted(hotel_df['room_name'].unique().tolist())
+            board_types = sorted(hotel_df['board'].unique().tolist())
+            iptal_politikalari = sorted(hotel_df['cancellation_policy'].unique().tolist())
 
-            selected_oda = st.multiselect("🏷️ Oda Tipi", oda_tipleri, default=oda_tipleri)
-            selected_board = st.multiselect("🍽️ Board Type", board_types, default=board_types)
-            selected_politika = st.multiselect("⚖️ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
+            selected_oda = st.multiselect("🛏️ Oda Tipi", oda_tipleri, default=oda_tipleri)
+            selected_board = st.multiselect("🍽️ Board", board_types, default=board_types)
+            selected_politika = st.multiselect("❌ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
 
             # ➤ Filtre uygula
             filtered_df = hotel_df[
-                (hotel_df['Oda Tipi'].isin(selected_oda)) &
-                (hotel_df['Board Type'].isin(selected_board)) &
-                (hotel_df['İptal Poliçesi'].isin(selected_politika))
+                (hotel_df['room_name'].isin(selected_oda)) &
+                (hotel_df['board'].isin(selected_board)) &
+                (hotel_df['cancellation_policy'].isin(selected_politika))
             ]
 
             # ➤ Tarihe göre sırala
-            filtered_df = filtered_df.sort_values(by='Tarih')
+            filtered_df = filtered_df.sort_values(by='checkin_date')
 
+            # ➤ Sonuçları göster
             st.markdown(f"### 🗓️ {selected_hotel} Günlük Fiyatlar ve Alış Fiyatları")
-            st.dataframe(filtered_df[['Tarih', 'Oda Tipi', 'Board Type', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet']])
+
+            st.dataframe(filtered_df[[
+                'checkin_date',
+                'room_name',
+                'board',
+                'cancellation_policy',
+                'total',
+                'alış_fiyatı'
+            ]])
 
             # ➤ Grafik
-            st.line_chart(filtered_df.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
+            st.line_chart(filtered_df.set_index('checkin_date')[['total', 'alış_fiyatı']])
 
     except Exception as e:
         st.error(f"Hata oluştu (B2B): {e}")

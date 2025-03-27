@@ -23158,3 +23158,43 @@ sonuc_2025-03-16_15-17.csv silindi (limit aşıldı).
 ✅ Commit işlemi tamamlandı.
 🔧 Adım 4: git push origin main
 🚀 Push işlemi başarılı!
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 3, in <module>
+    import undetected_chromedriver as uc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/__init__.py", line 44, in <module>
+    from .patcher import IS_POSIX
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
+    from distutils.version import LooseVersion
+ModuleNotFoundError: No module named 'distutils'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 3, in <module>
+    import undetected_chromedriver as uc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/__init__.py", line 44, in <module>
+    from .patcher import IS_POSIX
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
+    from distutils.version import LooseVersion
+ModuleNotFoundError: No module named 'distutils'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 3, in <module>
+    import undetected_chromedriver as uc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/__init__.py", line 44, in <module>
+    from .patcher import IS_POSIX
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
+    from distutils.version import LooseVersion
+ModuleNotFoundError: No module named 'distutils'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 3, in <module>
+    import undetected_chromedriver as uc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/__init__.py", line 44, in <module>
+    from .patcher import IS_POSIX
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
+    from distutils.version import LooseVersion
+ModuleNotFoundError: No module named 'distutils'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 3, in <module>
+    import undetected_chromedriver as uc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/__init__.py", line 44, in <module>
+    from .patcher import IS_POSIX
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
+    from distutils.version import LooseVersion
+ModuleNotFoundError: No module named 'distutils'

@@ -122,8 +122,8 @@ try:
 
     # ➡️ Tarih Seçimi
     today = datetime.today()
-    checkin_date = today + timedelta(days=33)
-    checkout_date = today + timedelta(days=48)
+    checkin_date = today + timedelta(days=18)
+    checkout_date = today + timedelta(days=33)
 
     # Check-in tarihi seçimi
     checkin_input = wait.until(EC.element_to_be_clickable((By.ID, "hotels-searcher-_ctl1__ctl1__ctl1_pageBody_pageBody_searcher_ctlMultiSearcher__ctl1_ctlDateSelector-start-date-input")))

@@ -1,5 +1,8 @@
 import csv
-from selenium import webdriver
+#from selenium import webdriver
+import undetected_chromedriver as uc
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -13,6 +16,7 @@ import subprocess  # Git işlemleri için ekledik
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+
 
 # Klasörü sabitle (değiştirmezsen hep sorun çıkar)
 os.chdir('/Users/halilbarisduman/Desktop/otelrapor')
@@ -123,9 +127,11 @@ def scrape_hotel_data(driver, hotel_name):
         human_like_wait()
 
         # Otel detay bağlantısını bul ve tıkla
+        # Otel detay bağlantısını bul ve tıkla
         hotel_link = WebDriverWait(driver, 20).until(
-            EC.element_to_be_clickable((By.XPATH, "//*[@id='room-panel-rtundefined']/div/div[2]/button/div/span[1]"))
+        EC.element_to_be_clickable((By.XPATH, "/html/body/div[3]/section/article/div/section/ul/li[2]/div/div/div/div/div[2]/div[1]/div[1]/div[1]/div/a"))
         )
+
         simulate_mouse_movement(driver, hotel_link)
         hotel_link.click()
         print(f"Otel detay sayfasına gidildi: {hotel_name}")
@@ -258,46 +264,86 @@ def temizle_max_kayit(limit=10):
 # Ana işlem
 def main(hotel_list_file):
         # Bot başladığında bildirim gönder
-    mail_gonder(
-        "🚀 Stop Sale Botu Çalıştı!",
-        "Stop Sale Botu az önce çalıştı, 5 dakika sonra Streamlit Dashboard kontrol edebilirsiniz.\n\nUygulama Linki: https://otelrapor-hifourstravel.streamlit.app"
-    )
+    #mail_gonder(
+    #    "🚀 Stop Sale Botu Çalıştı!",
+    #    "Stop Sale Botu az önce çalıştı, 5 dakika sonra Streamlit Dashboard kontrol edebilirsiniz.\n\nUygulama Linki: https://otelrapor-hifourstravel.streamlit.app"
+    #)
 
     now = datetime.now().strftime('%Y-%m-%d_%H-%M')
     output_file = f"sonuc_{now}.csv"
-    # Chrome Profilini Kullanarak Tarayıcı Başlatma
-    options = webdriver.ChromeOptions()
+    
+    #options = uc.ChromeOptions()
+    #options.add_argument("--start-maximized")
+    #options.add_argument("--window-size=1920,1080")
+    # Headless istersen aç/kapat ➔ şimdilik kapatalım çünkü test ediyoruz!
+    #options.add_argument("--headless=new")
+    #driver = uc.Chrome(options=options)
+    # ChromeOptions ile özelleştirme (isteğe bağlı)
+  
+
+    options = uc.ChromeOptions()
+    options.add_argument('--disable-extensions')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--disable-software-rasterizer')
+    options.add_argument('--disable-plugins')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--no-sandbox')
+    options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
+
+    options.binary_location = "/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
+    service = Service('/usr/local/bin/chromedriver/chromedriver')
+
+    # GUI açık çalıştırıyoruz → headless=False
+    driver = uc.Chrome(service=service, options=options, headless=False)
+
+    # (İsteğe bağlı) Stealth destek olsun diye bir de user-agent dışında şu tanımı da yapabilirsin:
+    driver.execute_script("""
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        });
+    """)
+
+
+
+    # Başlangıçta Google aç ➔ ısındırma
+    print("🌐 Tarayıcı ısınıyor...")
+    driver.get("https://www.google.com")
+    time.sleep(5)
+
+
+    #burdan başlar Chrome Profilini Kullanarak Tarayıcı Başlatma
+    #options = webdriver.ChromeOptions()
 
     # Kullanıcı profili ➔ Bunu bırakabilirsin ama bazen headless ile çakışır, test et!
     #options.add_argument("--user-data-dir=/Users/halilbarisduman/Library/Application Support/Google/Chrome/User Data")
     #options.add_argument("--profile-directory=Default")
 
     # Başlangıç ayarları
-    options.add_argument("--start-maximized")
-    options.add_argument("--window-size=1920,1080")
+    #options.add_argument("--start-maximized")
+    #options.add_argument("--window-size=1920,1080")
 
     # Headless mod
-    options.add_argument("--headless")  # "new" yerine klasik kullanıyoruz
+    #options.add_argument("--headless")  # "new" yerine klasik kullanıyoruz
     # options.add_argument("--headless=chrome")  # Alternatif test edilebilir
 
     # Stealth ayarlar
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
-    options.add_experimental_option("useAutomationExtension", False)
+    #options.add_argument("--disable-blink-features=AutomationControlled")
+    #options.add_argument("--disable-infobars")
+    #options.add_argument("--disable-gpu")
+    #options.add_argument("--no-sandbox")
+    #options.add_argument("--disable-dev-shm-usage")
+    #options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+    #options.add_experimental_option("useAutomationExtension", False)
 
 
-    driver = webdriver.Chrome(options=options)
+    #driver = webdriver.Chrome(options=options)
 
     # `navigator.webdriver` özelliğini gizle
-    driver.execute_script("""
-        Object.defineProperty(navigator, 'webdriver', {
-            get: () => undefined
-        })
-    """)
+    #driver.execute_script("""
+        #Object.defineProperty(navigator, 'webdriver', {
+            #get: () => undefined
+        #})
+    #""") burda biter denemeler
 
     try:
         hotel_list = read_hotel_list(hotel_list_file)

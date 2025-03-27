@@ -1,0 +1,2437 @@
+{
+    "availability": {
+        "startDate": "2025-04-29T00:00:00",
+        "endDate": "2025-05-14T00:00:00",
+        "offerDescription": "",
+        "isOffer": false,
+        "bestDeal": false,
+        "available": true,
+        "options": [
+            {
+                "ID": "aW5DUFczVm9WREs2NFdrazB3UW1tREt0Rml4T1RPMEMrUE5mS3A2VjZuZElHaGhIcjd0S0RtTlJDVkFvVXhIZkxqbjY2YzA3REhaVS9NKzRRRWthd1pXdlZvQU5Ud1FWRkdpeHovUW1Xa0pHN1lLdGhzeFpGaVhkUHZLM0RxMWVhVHl1M0VZRnlZM1VVUjA4K0Q5TG02d3lmK3hZaWkvNHlzeXN4UVEzYncwVE1kK1pQanV1S3E0cjZBcksxTnFrcmZWeFJaMVlMUDNFQ1IwTVNnRnV5NDV0K2tQUHVHK01iOE1jaHhsSnZrb3hhU3ArMlZnYkpJQU1lcHlRZUhoZTlQK055MWhOajFSODl5SFY1RFBQRzlNWThzUmh2bzUwdGVuZjVSdHphazY2WWlkek1BblZ1NFFhdkFTRitnOWRkVTJlL1hBZzFQQnVNMGNxbDlIZE9hWEV6U2FhRXZVUS9tZTNNVVJjUGRFclJJemZoZERCaDR5R3M4UXl5M29lUmNTUGxHMnBBNHNySEFicWVvQjMvZmtWUmtnRFl0cjZaSk5ORUYrbEpaST0=",
+                "providerId": 1467,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 647.8,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "J592#J696#294",
+                        "name": "Standard Room",
+                        "description": "<p><strong>1 çift Kişilik Yatak veya 2 tek Kişilik Yatak</strong></p><p>20 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 5,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 3,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "Standard Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 43.19
+                        }
+                    }
+                ],
+                "selected": true,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 647.8,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 647.8,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 647.8,
+                    "basePriceWithoutPackagedSupplements": 647.8,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 647.8,
+                                            "dailyPrice": 647.8,
+                                            "totalPrice": 647.8,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 647.8,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "Standard Room",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 623.73,
+                    "costCurrency": "EUR",
+                    "saleRate": 647.8,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "ITRIP-JP863802",
+                "combinationId": 1,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$8214816482860808379",
+                "isFromIntegrationAtProvider": true
+            },
+            {
+                "ID": "aW5DUFczVm9WREs2NFdrazB3UW1tREt0Rml4T1RPMEMrUE5mS3A2VjZuZElHaGhIcjd0S0RtTlJDVkFvVXhIZkxqbjY2YzA3REhaVS9NKzRRRWthd1pXdlZvQU5Ud1FWRkdpeHovUW1Xa0pHN1lLdGhzeFpGaVhkUHZLM0RxMWVhVHl1M0VZRnlZM1VVUjA4K0Q5TG02d3lmK3hZaWkvNHlzeXN4UVEzYncwVE1kK1pQanV1S3E0cjZBcksxTnFrcmZWeFJaMVlMUDNFQ1IwTVNnRnV5NDV0K2tQUHVHK01iOE1jaHhsSnZrb3hhU3ArMlZnYkpJQU1lcHlRZUhoZTlQK055MWhOajFSODl5SFY1RFBQRzlNWThzUmh2bzUwdGVuZjVSdHphazY2WWlkek1BblZ1NFFhdkFTRitnOWRkVTJlL1hBZzFQQnVNMGNxbDlIZE9hWEV6U2FhRXZVUS9tZTNNVVJjUGRFclJJemZoZERCaDR5R3M4UXl5M29lNFhWZVVIOUNDWnhtcjRvUUpIRzVTNWxkRDM3VEVMY2VsVHdtZzJBOWpnWT0=",
+                "providerId": 1467,
+                "boardCode": "SA",
+                "boardID": "3",
+                "boardTypeName": "Room Only",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 647.8,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "J592#J696#294",
+                        "name": "Standard Room",
+                        "description": "<p><strong>1 çift Kişilik Yatak veya 2 tek Kişilik Yatak</strong></p><p>20 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 5,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 3,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "Standard Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 43.19,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 43.19
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 647.8,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 647.8,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 647.8,
+                    "basePriceWithoutPackagedSupplements": 647.8,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 647.8,
+                                            "dailyPrice": 647.8,
+                                            "totalPrice": 647.8,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 647.8,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "Standard Room",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 623.73,
+                    "costCurrency": "EUR",
+                    "saleRate": 647.8,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "ITRIP-JP863802",
+                "combinationId": 2,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$4029271807892845335",
+                "isFromIntegrationAtProvider": true
+            },
+            {
+                "ID": "WXdvL1dxaG9JeldFdGhHWlRBUXJyN2M4TW1vVVlkMDNna29VZVJ0bmRpSFhZNmZTM215bDJvc2Nsc0xDR1hPejB4Z1NkNm1Bb2pxajZqQ2VxUXZYUi9CYmFFRWlUdElrNlpadjl0Mks3ZnlaUDdjRlpKVjd4QUIwVk5WcngxL0Q4WUcxa2hGa2g3QW92amhwcG9HV2orRk1NRnpkUEFKMkJvV3VzK1d4dWg0Z25RM2hpTUVHM04xWWYvc1R1MzdCMkY1Mlgzd1hFOEVIYTBCMWlMend1UmEzckdPMGFwSGpnWjF1YUlkK2tYRmR2SFBKTWltV1ZXMDRRbXJYaTRGRUZiM1RyelMzR0ozaEVwNFFXV3UyUGxseUhseW9iQ2NIc2NIR0tyWkRzc3djQWhQbnMyNjNldXBPTFZDYnBxbDltN3E1QmNkTGN1ZHhOWUFSTE11S3N5RFdZeVFvODZoY2x5MldqZmRuTUZkN1BmVXlmSlBrbVJqcDZXY2dhMy9u",
+                "providerId": 61,
+                "boardCode": "AD",
+                "boardID": "2",
+                "boardTypeName": "Bed&Breakfast",
+                "contractName": "Y25 EUR",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 710.7,
+                "priceWithoutDiscount": 789.6,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "193",
+                        "name": "DOUBLE STANDARD ROOM",
+                        "description": "Accomodates eaither Two or Three Adults, ",
+                        "units": 1,
+                        "availableRooms": 5,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 3,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [
+                    {
+                        "Id": "550200",
+                        "name": "EB-480587/S25 EUR",
+                        "categoryCode": "GEN",
+                        "description": "",
+                        "included": true,
+                        "optional": false,
+                        "price": -78.9,
+                        "currency": "EUR",
+                        "isPromotionalNote": false,
+                        "priceDetail": {
+                            "currency": "EUR",
+                            "base": 0.0,
+                            "taxes": 0.0,
+                            "hFees": 0.0,
+                            "total": -78.9,
+                            "commision": 0.0,
+                            "commisionPercentage": 0.0,
+                            "commisionTaxes": 0.0,
+                            "netPrice": 0.0,
+                            "basePriceWithoutPackagedSupplements": 0.0,
+                            "commissionTaxesPercentage": 0.0,
+                            "discounts": 0.0,
+                            "days": 0,
+                            "product": "hotels",
+                            "simulatedMarginPercentage": 0.0,
+                            "LoyaltyRules": {},
+                            "costRate": 0.0,
+                            "saleRate": 0.0
+                        },
+                        "supplType": "generic"
+                    }
+                ],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "DOUBLE STANDARD ROOM",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 47.38,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 47.38
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 710.7,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 710.7,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 710.7,
+                    "basePriceWithoutPackagedSupplements": 789.6,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "paxType": "ADT",
+                                            "startDate": "2025-04-29T00:00:00",
+                                            "endDate": "2025-05-14T00:00:00",
+                                            "days": 15,
+                                            "units": 2,
+                                            "unitPrice": 26.32,
+                                            "dailyPrice": 52.64,
+                                            "totalPrice": 789.6,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 789.6,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                },
+                                {
+                                    "name": "EB-480587/S25 EUR",
+                                    "type": "offer",
+                                    "dailyPrices": [
+                                        {
+                                            "paxType": "ADT",
+                                            "startDate": "2025-04-29T00:00:00",
+                                            "endDate": "2025-05-14T00:00:00",
+                                            "days": 15,
+                                            "units": 2,
+                                            "unitPrice": -2.63,
+                                            "dailyPrice": -5.26,
+                                            "totalPrice": -78.9,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": -78.9,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "DOUBLE STANDARD ROOM",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 750.0,
+                    "saleRate": 710.7,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 5.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "16579",
+                "combinationId": 3,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$13568554684162809436",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "b1oycEdoemRJQlBFekpscG93SE5Hbjc1enlhSmlOSVFyZG44NVhZNXY2RzZOZGgyaG9Vb0x2Nm82TjJpaHRSMURYSEltemM3K1d5VUgyVGlEdWoyWjQ1QStYUjlzeFBWSzVCVEkyQ2YwcVRsblBFQkUyQWUvckFkNjlqK29ZQnc2TDAybnkybzZKTTBSdHMxYzUyVjl1dTZ3Q2dtZHYwWEZnbStCc0p4bEFFS0cwNTkvc2lycUd5aFZKQ29FUW82eHdsS1NoNlprT2hwSXVZMkdDekNTcVZ2bTdueDd5QVhmZ091ZklOMnFlUnRUWHBNQ3lET2dQdkV4eEdtR0VUTjVLZVk5Ri8xYXJCeXVUQU1STlFpdEdwUVRCMWZrVzY4ZHlSS0VvR0lTbE5qenQ5clpScU5HV2ZOMmFoNVlEa0ZKdzUvWElpVHp0Y2loYWE5TWlqd2h6MzhFVTFBK3pvbC9zNVZzQU1Gd1lHRjQ5U2kxOUVqM1ZVR1l2RHFLOWtyeDhqQTI5TkdRVWQvUnQ0UlBXVjRjckxEM29JNmtsZlB0TFFjYmwwMFVUMD0=",
+                "providerId": 62,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 726.11,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "J107#J562#213",
+                        "name": "Standard Double Room",
+                        "description": "<p><strong>1 çift Kişilik Yatak veya 2 tek Kişilik Yatak</strong></p><p>20 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 3,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 3,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "Standard Double Room",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 48.41,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 48.41
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": true,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 726.11,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 726.11,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 726.11,
+                    "basePriceWithoutPackagedSupplements": 726.11,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 726.11,
+                                            "dailyPrice": 726.11,
+                                            "totalPrice": 726.11,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 726.11,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "Standard Double Room",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 697.07,
+                    "saleRate": 726.11,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "NINCOMING-JP863802",
+                "combinationId": 4,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$6585508299165632517",
+                "isFromIntegrationAtProvider": true
+            },
+            {
+                "ID": "QjBxTnExNEw2eWRGRnVubGcvUTUvTXRYVGZmTmJCSEdjQzFEKzluQUxLZXZ0Q2RxRklhU3lMMnlSekNBUFgweTd2YWVGa3BTVHNSMWk4cEFxYWpjL2oxditUQW13L25RbFcwZ0RnRTVkaHlxTmZHZ1F6WXJkTFpiTXhCMW40RHJhQ0tHdzhnOXc1YUlQWmlSN2hwRHh5c0J5QUxoQjVqK3pDYTdpZUcwZVM5VnhzaERxc2tsRWtjaGNIeHpwYTJncGtkZVR3QkpwMWdWc0xtOGdZbHZKdS84cjVDaE1TcDU4cnhsbXM0RTdQRFNHcEQyUklHV0RjSkdLdmNOL3VRdVozdGtuckpEV29hZFdtcWZzUnFQNFh0SGR1RUJsdEphTFRUak5mV0EwZkoxNit2a290emNqVGRydU9xNVRXcFl4Z2dNa1hXZE8xQUVHYUJmeDZmcXA1Q3A4cUUrcnVLM3JHdkZZeHZERWFoQ3hNL3dkY2Y4V0JXdnZNZ0M4RkVKNlZNenlraGN6NlYrM3lTMUFMY2x6WjAyVXZRYW5lak9nK2VaSVJJTVBtTjRScDVINXpVUUlQTFdwZDI0NVUxa0VrK3dPN3g0UzRwUWVzVUpQc1BkZCt5YjV3WFZjR0kvRXgxRHUrZk5HSGtWYUN2cFg2RXd3Z3ZDVFo1SDVldTB3VzZXOGYrRzBPNEpiaDBrbC9MR0pBQmdQc3JkZWNTWDI3K3BHT3kweEZjPQ==",
+                "providerId": 234,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Breakfast included",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 778.8,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "name": "STANDARD ROOM - NON REFUNDABLE",
+                        "description": "<p><strong>1 çift Kişilik Yatak veya 2 tek Kişilik Yatak</strong></p><p>20 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [
+                    {
+                        "name": "",
+                        "description": "% 10 Discount  TR",
+                        "included": false,
+                        "optional": false,
+                        "isPromotionalNote": true,
+                        "supplType": "generic"
+                    }
+                ],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "STANDARD ROOM - NON REFUNDABLE",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 51.92,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 51.92
+                        }
+                    }
+                ],
+                "selected": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 778.8,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 778.8,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 778.8,
+                    "basePriceWithoutPackagedSupplements": 778.8,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "startDate": "2025-04-29T00:00:00",
+                                            "endDate": "2025-05-14T00:00:00",
+                                            "days": 15,
+                                            "units": 1,
+                                            "unitPrice": 51.92,
+                                            "dailyPrice": 51.92,
+                                            "totalPrice": 778.8,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 778.8,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "STANDARD ROOM - NON REFUNDABLE",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 708.75,
+                    "saleRate": 778.8,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 9.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "48891",
+                "combinationId": 5,
+                "specialNotes": "SCT: [STANDARD ROOM - NON REFUNDABLE]. STANDARD ROOM - NON REFUNDABLE",
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$13202491805375125137",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "b1oycEdoemRJQlBFekpscG93SE5Hbjc1enlhSmlOSVFyZG44NVhZNXY2RXIwUzMxaGV6b2I5bGczQzRUdWZLZkZoQmpNL3FBMlRVcThlUmlTUHpXWlRtSEVuY0hVSUJoTTNMT0xZdzlGWGlDWUxFbFJIWHMyTGtkcVhUb3FraGxXY0ovUm51UDA5bmt4eGt1UzgzVUduUzJucFZKaUdIU2FJTXpReWY2emNjWGw2SHFWRDJmNy9RVzVBOUhZMVJGK0tLOTNseEFZZ2tTeHVsSU5HTnBwZ2xjWlJGQUdmOWw5M2U1WWNvN282QlZCaGRzSkFoTUVFRFpnM1pSNXlvVDh2cXdOQVFBRFVzQVVYMjZxNzVEbXgreldZaUZ6azRVWk9TbHJPZUdDL0NoZERrdkZJR2tpZi9panB2RWpCL0NZZ3gvVFhYb1prZlVsOW8vYzdnRmhCbkxyK2NOd09qMGhLektUOGp5ZVRxajZsVVl6Ly9TTERRejY4TWtKTWI3dHZLYUw5Z3F0cmNUY1BYQVdKWDBHeHkzNXp3NFdSWVBFak8xbU1kQng4OD0=",
+                "providerId": 62,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 793.52,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "code": "J107#J562#259",
+                        "name": "STANDARD DOUBLE or TWIN ROOM",
+                        "description": "<p><strong>1 çift Kişilik Yatak veya 2 tek Kişilik Yatak</strong></p><p>20 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 3,
+                        "minAge": 0,
+                        "mapping": "JR000008",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                        "adults": 2,
+                        "children": 0,
+                        "maxOccupancy": 3,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/81bda012_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/d4a07bcc_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7c2d2319_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/7a9f7bc6_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/3335b80b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/e208d7dd_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/c1f1dea7_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [
+                    {
+                        "name": "EARLY BOOKING",
+                        "included": false,
+                        "optional": false,
+                        "isPromotionalNote": true,
+                        "supplType": "generic"
+                    }
+                ],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "STANDARD DOUBLE or TWIN ROOM",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 52.9,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 52.9
+                        }
+                    }
+                ],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 793.52,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 793.52,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 793.52,
+                    "basePriceWithoutPackagedSupplements": 793.52,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 793.52,
+                                            "dailyPrice": 793.52,
+                                            "totalPrice": 793.52,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 793.52,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "STANDARD DOUBLE or TWIN ROOM",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 761.78,
+                    "saleRate": 793.52,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "NINCOMING-JP863802",
+                "combinationId": 6,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$18031380424111198152",
+                "isFromIntegrationAtProvider": true
+            },
+            {
+                "ID": "M21rTkNtVUovZng3T3dnZkg5YUlPaHYvd294UkJCUWEzMHA3dmZRdzh2Rzk0YTJDemEvT0s3RGJlNWsvR2lOZWNNUTJXK21kS3FrU01xT2dBTXdERzZPNU9VMzloS0ZsT0tzNytNQ01JUlZtQmFCa1BLZms1OURFLzQ0dUpmeVB1cHhsaW9XVnJLOXFhckYxb0lnZENjcmdkTFlMeHllaXdibFdYdTZabUhQTy9WaSsyYWFNZWNlemlIMnVlSHFnWkNsN1FWMitNYTNUYW5iaC9uVGxzdGc5a253L3Q4QjViQi9VWkEyaEpGRXQxOXVweUlIUnEvWSs1VmgvVlZqQjhaYUUrRUJnUlVqS1FmMVV4SmhVbmI0SDY4V2dSVy83ZzN2ZEFXZDlUNWlST3BZcGIwZ1dyaUViTnkxY1RlLzI2eGR1ZFBiZ1RTdmtVcW5tRHplQWp2dkdUamE2UExPWndGODNZdUhLZmJkRVZDdDNSdlJ1ZjRNL25qTllOdC9FU2NjYzNqKzVCcHYzRWt3dTVlMkl0Z3AzaXpBSmhGdXhMSDd5ZTg0QktwTU9YZEhmQXRFa05aVk9mazJlbyt6Z0Z1VDBXaHBSbTI4RzEvRjYyS1E1Y3BocVA3bkplVzFDWW9XWHZxc3NDN2xoOUpHOHRvQ2Jpei96Qm9ubjdYM2xUZ1V3TDVRaW9aZkRwUGJKbU5nSWtRPT0=",
+                "providerId": 446,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Breakfast",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 898.08,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "name": "Standard, Triple",
+                        "description": "<p><strong>3 tek Kişilik Yatak</strong></p><p>25 metrekare büyüklüğünde </p><br/> <p><b>İnternet</b> - ücretsiz kablosuz İnternet erişimi </p> <p><b>Eğlence</b> - LCD TV ve uydu kanalları</p><p><b>Yemek ve İçecek</b> - Minibar</p><p><b>Yatak Özellikleri</b> - Çarşaf takımı </p><p><b>Banyo</b> - Özel banyo, duş, terlik ve ücretsiz banyo/kozmetik ürünleri</p> <p><b>Faydalı Bilgiler</b> - Emanet kasası, masa ve telefon</p><p><b>Konfor</b> - Klima, günlük kat hizmetleri ve ısıtma</p> <p><b>Bilmeniz Gerekenler</b> - Portatif/ilave yatak yoktur</p><p>Sigara İçilmez ve Sigara İçilebilir</p>",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000005",
+                        "thumb": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/efa3dff5_b.jpg",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/efa3dff5_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/efa3dff5_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/6536c897_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/6536c897_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/4504f375_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/92ebe2f4_b.jpg",
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "url": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "thumbUrl": "https://i.travelapi.com/lodging/13000000/12600000/12592000/12591947/0504131b_b.jpg",
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "Standard, Triple",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 59.87,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 59.87
+                        }
+                    }
+                ],
+                "selected": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 898.08,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 898.08,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 898.08,
+                    "basePriceWithoutPackagedSupplements": 898.08,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 898.08,
+                                            "dailyPrice": 898.08,
+                                            "totalPrice": 898.08,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 898.08,
+                                    "costRate": 898.08,
+                                    "saleRate": 928.8
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 864.7,
+                    "costCurrency": "EUR",
+                    "saleRate": 898.08,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "3333649",
+                "combinationId": 7,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$16697683179397328173",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "a2MrNnFkSUhtSGUzTHRzMzNKM1VsZFp1eXY1dkhRSnJZTkRoU2tzNW1UeDltS2Fid1VBeVBHV3pXblBTNTVuQUJPcmEvQnMzdXNlaWxUVXlvd2o4alRNT3l3V1VHZ0ptZzhIU2Jia013aGo4djNFNmFhL3dPbjJRc3EveFEyY00rNTQxaGJCYTJlRFhDRTBqWVUzYXNKb1huT1U0cjA3ME9WclFHVHkyckFpTVhlNFdTRGNOQU41dHlrY3pSbUZlaVE3cnJLWjJTSFFyTVdlMzB2Mk1yZk5VNDV5VzhrWm9pdWNwV0lKRHkvYUkrbVozTk5TbVV3RGtSVGd2WFllbnE0ZVlteDREQWpMLzE2L3VFZk5RcDh6aEU2RHdiSkJETzlHTzVVR0FsT2doUDcrc0tEbUtIWFF5TGFhbWdqeVpsRlhuL1h3SVdiMFEvaW5QcHRIRzFjc0lLZFAzdCtDN04rOHpaZVBoN0phYXhmMEtzN05heUYyYm5ZSVNTY1lPRUdReWU1OHovaUJkYWpHOE5DR2syTjRLaDZMc0oxZ05YTjU0TGhqQjloSzNuQjVwbmNUY1BzZXJ0Q2JiM3Zxem1Od1JDSVRDR3NBVVRBclQrYWxJdkE9PQ==",
+                "providerId": 854,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast (Non-Alcoholic)",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 937.0,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "name": "Standart Çift Kişilik veya İki Yataklı Oda - Ücretsiz iptal - Kahvaltı fiyata dahildir - Ücretsiz WiFi",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 937.0,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 937.0,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 937.0,
+                    "basePriceWithoutPackagedSupplements": 836.61,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 836.61,
+                                            "dailyPrice": 836.61,
+                                            "totalPrice": 836.61,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 836.61,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                },
+                                {
+                                    "name": "VAT",
+                                    "type": "other",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 83.66,
+                                            "dailyPrice": 83.66,
+                                            "totalPrice": 83.66,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 83.66,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                },
+                                {
+                                    "name": "government tax",
+                                    "type": "other",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 16.73,
+                                            "dailyPrice": 16.73,
+                                            "totalPrice": 16.73,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 16.73,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "Standart Çift Kişilik veya İki Yataklı Oda - Ücretsiz iptal - Kahvaltı fiyata dahildir - Ücretsiz WiFi",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 937.0,
+                    "saleRate": 937.0,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 0.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "275508",
+                "combinationId": 8,
+                "specialNotes": "",
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$7696179475031147522",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "M21rTkNtVUovZng3T3dnZkg5YUlPaHYvd294UkJCUWEzMHA3dmZRdzh2RWFRTWM5M1k0MTNuelhjaEMrTkptYktOM2hnbW03UXlOOHRoME8wMjFucUIvYUxBTUJ3VWZBWlBvUnZCSlB0cXkweWliM3g2Qi8vTG5Wci9oSnEvVUpncW04U2pQRHozZ0VnbFo1VDBnbG04UUI4M1JQampOT3RtOGRrQzZQa3lsOGppMWVtUWJaaFI5TUh2dzBBUmlIUEtiUDFHbGoyNmUvdjRvUUZoUkR6bCtaQUFyYzR5NFhHcFR4c2pZYnFSdWszZlhLaXFzY1RtVzlUZm1BTlBMNHBnZDBlL2hRejBNWjJzejZwSzY4VHRDMHhFdjdSN2dRWlNRMWwvQTFGR1RkOUFWOEdobTlORG9uVTBwZWFKdTZZMFE3eFNoRFVnRXdZcExidVN2MnVBRHN4ZjVReTFyWDd3TnBlMjVGVVh6QW55R09lUmt1V2ViVmQ1UjdDQkFod3Z3MVB0cmR2anhzMnJMMjQ4WHJlRGl1ME1xazRSTGNsd0pOVjJveEEwRlM2M3dNb01BeDl6dE5nNXlyN1o0L2pkNVlxNDBmUi8yRWUwSE8xaXI0aVMrUGdTSG5ZcXNjeCsyRkpCeThyelNPUk51a0JJSmxMdzdBclJOTzlySEFSUVNWZUErT0p0SzdMVkNwaSs5d2NoK1NQNVNLR0xINTMxNlU0cXVrSHdFPQ==",
+                "providerId": 446,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed and Breakfast",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1088.34,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "name": "Standard Triple Room (3 Twin Beds) - Package Rate",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "mapping": "JR000739",
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "rateDescription": "",
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [
+                    {
+                        "index": 0,
+                        "name": "Standard Triple Room (3 Twin Beds) - Package Rate",
+                        "breakdown": {
+                            "weeks": [
+                                [
+                                    null,
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    {
+                                        "price": 72.56,
+                                        "onRequest": false
+                                    },
+                                    null,
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ]
+                            ],
+                            "average": 72.56
+                        }
+                    }
+                ],
+                "selected": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1088.34,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1088.34,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1088.34,
+                    "basePriceWithoutPackagedSupplements": 1088.34,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1088.34,
+                                            "dailyPrice": 1088.34,
+                                            "totalPrice": 1088.34,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1088.34,
+                                    "costRate": 1088.34,
+                                    "saleRate": 1125.57
+                                }
+                            ],
+                            "type": "other",
+                            "id": 0
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1047.89,
+                    "costCurrency": "EUR",
+                    "saleRate": 1088.34,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 4.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "3333649",
+                "combinationId": 9,
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$4840680315348411582",
+                "isFromIntegrationAtProvider": false
+            },
+            {
+                "ID": "a2MrNnFkSUhtSGUzTHRzMzNKM1VsZFp1eXY1dkhRSnJZTkRoU2tzNW1Ud0ZJQU1WZ0s5OTI1RGYyZ1hsNSszSUtUTUVJYnVpQ255ck5qUE5WdlI4dE5ETXRpQU4rbTdHSmFxaUkxNXBYbFg5OTByYkcybHk5R2NpVjY0M0NFaEFoaTJ3RWJUSDJKTFJ0MGVxcVV1VnRJb0YycVdMSHJ5dStLZkZkR1oxZFNuYUMzbERLSE84enFMemhyVnYxUkVlYjBYcmVzOVRBMk1DZlZmRmhBRkQ1ZW1yUjhjZFg0YkJZR1M5NXVYdDg0azlRajdTbW9MREZCRitPbnRqb0Y2M3Z2RGxvQmJSN25aNlJ2Zk9lczBLVlNKN0FRUTVpanI4VTJINllCVVo4NnFKL01hVjhkT056SUJxWmN4dEdwTjJqVUYwTDg3a0N2MEVvOXdNTFE3SEJwMHpvdHVMSkFsOUhqdHU3bFJkVlVHdlBPb3o0azBjSlo1MktEdzVQSWNkQWZ5d1E2eUF1dS9XTCtaaXRpZU9zajFHUWU1T2FEbzFCMEw4MVVWVUxUN2REQXBYSU52cUNDUlVmSjlwclJBZXRlZWpuM0hZaHdXTWpoZUJZOXNPWnc9PQ==",
+                "providerId": 854,
+                "boardCode": "AD",
+                "boardID": "19",
+                "boardTypeName": "Bed&Breakfast (Non-Alcoholic)",
+                "contractName": "",
+                "isDDC": false,
+                "boardTypeDescription": "",
+                "bookable": true,
+                "requiresRepricing": false,
+                "onlyResidents": false,
+                "price": 1221.0,
+                "currency": "EUR",
+                "roomList": [
+                    {
+                        "name": "Standart Üç Kişilik Oda - Ücretsiz iptal - Kahvaltı fiyata dahildir - Ücretsiz WiFi",
+                        "units": 1,
+                        "availableRooms": 0,
+                        "minAge": 0,
+                        "adults": 0,
+                        "children": 0,
+                        "maxOccupancy": 0,
+                        "gallery": [],
+                        "available": false,
+                        "startDate": "0001-01-01T00:00:00"
+                    }
+                ],
+                "offers": [],
+                "restrictions": [],
+                "supplements": [],
+                "payType": "web",
+                "breakdownByRoom": [],
+                "selected": false,
+                "nonRefundable": false,
+                "priceDetail": {
+                    "currency": "EUR",
+                    "base": 1221.0,
+                    "taxes": 0.0,
+                    "hFees": 0.0,
+                    "total": 1221.0,
+                    "commision": 0.0,
+                    "commisionPercentage": 0.0,
+                    "commisionTaxes": 0.0,
+                    "netPrice": 1221.0,
+                    "basePriceWithoutPackagedSupplements": 1090.18,
+                    "commissionTaxesPercentage": 0.0,
+                    "breakdown": [
+                        {
+                            "items": [
+                                {
+                                    "name": "Base",
+                                    "type": "base",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 1090.18,
+                                            "dailyPrice": 1090.18,
+                                            "totalPrice": 1090.18,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 1090.18,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                },
+                                {
+                                    "name": "VAT",
+                                    "type": "other",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 109.02,
+                                            "dailyPrice": 109.02,
+                                            "totalPrice": 109.02,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 109.02,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                },
+                                {
+                                    "name": "government tax",
+                                    "type": "other",
+                                    "dailyPrices": [
+                                        {
+                                            "unitPrice": 21.8,
+                                            "dailyPrice": 21.8,
+                                            "totalPrice": 21.8,
+                                            "costRate": 0.0,
+                                            "saleRate": 0.0
+                                        }
+                                    ],
+                                    "totalPrice": 21.8,
+                                    "costRate": 0.0,
+                                    "saleRate": 0.0
+                                }
+                            ],
+                            "name": "Standart Üç Kişilik Oda - Ücretsiz iptal - Kahvaltı fiyata dahildir - Ücretsiz WiFi",
+                            "type": "room",
+                            "id": 1,
+                            "units": 1
+                        }
+                    ],
+                    "discounts": 0.0,
+                    "startDate": "2025-04-29T00:00:00",
+                    "endDate": "2025-05-14T00:00:00",
+                    "days": 0,
+                    "product": "hotels",
+                    "simulatedMarginPercentage": 0.0,
+                    "LoyaltyRules": {},
+                    "rewardRules": {
+                        "config": {
+                            "renderMode": "onlyCurrency",
+                            "paymentModes": [
+                                "onlyPoints"
+                            ]
+                        }
+                    },
+                    "costRate": 1221.0,
+                    "saleRate": 1221.0,
+                    "saleCurrency": "EUR",
+                    "markup": {
+                        "name": "",
+                        "total": 0.0
+                    }
+                },
+                "discountList": [],
+                "rateType": "hotel",
+                "hotelCode": "275508",
+                "combinationId": 10,
+                "specialNotes": "",
+                "cancellationPolicy": {
+                    "priceChanged": false,
+                    "price": 0.0,
+                    "noAvailable": false,
+                    "deadlineDate": "0001-01-01T00:00:00",
+                    "isValid": false,
+                    "validDeadline": false,
+                    "daysToDeadline": 0,
+                    "cancellationRules": []
+                },
+                "purchaseContractOptions": [],
+                "available": true,
+                "startDate": "0001-01-01T00:00:00",
+                "shortID": "$$14308864176059993760",
+                "isFromIntegrationAtProvider": false
+            }
+        ],
+        "moreOptions": false,
+        "distribution": {
+            "rooms": 1,
+            "adults": 2,
+            "children": 0,
+            "babies": 0
+        },
+        "price": 647.8,
+        "currency": "EUR",
+        "priceDetail": {
+            "currency": "EUR",
+            "base": 0.0,
+            "taxes": 0.0,
+            "hFees": 0.0,
+            "total": 647.8,
+            "commision": 0.0,
+            "commisionPercentage": 0.0,
+            "commisionTaxes": 0.0,
+            "netPrice": 0.0,
+            "basePriceWithoutPackagedSupplements": 0.0,
+            "commissionTaxesPercentage": 0.0,
+            "discounts": 0.0,
+            "days": 0,
+            "product": "hotels",
+            "simulatedMarginPercentage": 0.0,
+            "LoyaltyRules": {},
+            "costRate": 0.0,
+            "saleRate": 0.0
+        },
+        "nights": 15,
+        "hasPayAtHotel": false,
+        "UID": "__474855404a50383633383032"
+    }
+}

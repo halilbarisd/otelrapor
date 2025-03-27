@@ -1,121 +1,1201 @@
 Tarih,Otel Adı,Oda Tipi,Board Type,İptal Poliçesi,Fiyat,Para Birimi,Müsaitlik,Milliyet
-2025-03-23,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-24,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-25,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-26,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-27,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-28,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-29,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-30,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-31,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-01,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-02,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-03,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-04,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-05,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-04-06,Sheraton Istanbul City Center,Double Deluxe Room,Room Only,Non-refundable,89.68,EUR,Available,IE
-2025-03-23,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-24,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-25,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-26,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-27,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-28,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-29,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-30,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-03-31,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,107.38,EUR,Available,IE
-2025-04-01,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-04-02,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-04-03,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-04-04,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-04-05,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-04-06,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
-2025-03-23,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-24,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-25,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-26,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-27,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-28,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-29,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-30,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-31,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-01,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-02,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-03,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-04,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-05,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-04-06,Sheraton Istanbul City Center,Double Deluxe Room,Bed & Breakfast,Refundable,114.97,EUR,Available,IE
-2025-03-23,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-24,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-25,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-26,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-27,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-28,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-29,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-30,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-31,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-01,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-02,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-03,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-04,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-05,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-04-06,Sheraton Istanbul City Center,"PREMIUM, KING BED, SOFA",Room Only,Refundable,308.68,EUR,Available,IE
-2025-03-23,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-24,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-25,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-26,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-27,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-28,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-29,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-30,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-31,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-01,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-02,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-03,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-04,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-05,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-04-06,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Non-refundable,112.22,EUR,Available,IE
-2025-03-23,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-24,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-25,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-26,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-27,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-28,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-29,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-30,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-31,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-01,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-02,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-03,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-04,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-05,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-04-06,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Room Only,Refundable,124.69,EUR,Available,IE
-2025-03-23,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-24,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-25,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-26,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-27,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-28,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-29,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-30,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-31,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-01,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-02,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-03,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-04,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-05,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-04-06,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Non-refundable,135.13,EUR,Available,IE
-2025-03-23,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-24,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-25,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-26,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-27,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-28,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-29,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-30,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-03-31,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-01,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-02,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-03,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-04,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-05,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
-2025-04-06,Doubletree by Hilton Piyalepaşa,DOUBLE KING SIZE BED,Bed & Breakfast,Refundable,147.6,EUR,Available,IE
+2025-03-30,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-03-31,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-01,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-02,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-03,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-04,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-05,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-06,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-07,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-08,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-09,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-10,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-11,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-12,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-04-13,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,90.67,EUR,Available,IE
+2025-03-30,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-03-31,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-01,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-02,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-03,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-04,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-05,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-06,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-07,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-08,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-09,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-10,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-11,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-12,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-04-13,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,95.05,EUR,Available,IE
+2025-03-30,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-03-31,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-01,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-02,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-03,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-04,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-05,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-06,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-07,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-08,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-09,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-10,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-11,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-12,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-04-13,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,121.2,EUR,Available,IE
+2025-03-30,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-03-31,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-01,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-02,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-03,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-04,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-05,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-06,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-07,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-08,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-09,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-10,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-11,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-12,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-04-13,Sheraton Istanbul City Center,DeluxeRoom-Non-Refundable_Double,Bed & Breakfast,Non-refundable,121.65,EUR,Available,IE
+2025-03-30,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-03-31,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-01,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-02,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-03,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-04,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-05,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-06,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-07,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-08,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-09,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-10,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-11,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-12,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-04-13,Doubletree by Hilton Piyalepaşa,Twin (2 beds),Room Only,Non-refundable,110.71,EUR,Available,IE
+2025-03-30,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-03-31,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-01,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-02,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-03,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-04,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-05,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-06,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-07,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-08,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-09,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-10,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-11,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-12,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-04-13,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Room Only,Refundable,125.77,EUR,Available,IE
+2025-03-30,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-03-31,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-01,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-02,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-03,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-04,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-05,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-06,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-07,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-08,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-09,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-10,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-11,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-12,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-04-13,Doubletree by Hilton Piyalepaşa,Guest Double room (çift kişilik yatak) (büyük boy yatak),Bed & Breakfast,Non-refundable,145.49,EUR,Available,IE
+2025-03-30,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-03-31,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-01,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-02,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-03,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-04,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-05,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-06,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-07,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-08,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-09,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-10,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-11,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-12,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-04-13,Doubletree by Hilton Piyalepaşa, KING GUEST ROOM - WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV - 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR -,Bed & Breakfast,Refundable,155.02,EUR,Available,IE
+2025-03-30,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-03-31,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-01,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-02,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-03,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-04,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-05,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-06,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-07,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-08,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-09,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-10,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-11,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-12,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-04-13,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Non-refundable,140.73,EUR,Available,IE
+2025-03-30,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-03-31,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-01,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-02,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-03,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-04,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-05,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-06,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-07,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-08,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-09,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-10,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-11,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-12,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-04-13,Gleam Collection Hotel ,Standard Twin Room,Room Only,Non-refundable,142.75,EUR,Available,IE
+2025-03-30,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-03-31,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-01,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-02,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-03,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-04,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-05,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-06,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-07,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-08,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-09,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-10,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-11,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-12,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-04-13,Gleam Collection Hotel ,Habitación estándar con 2 camas individuales,Bed & Breakfast,Refundable,156.35,EUR,Available,IE
+2025-03-30,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-03-31,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-01,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-02,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-03,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-04,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-05,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-06,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-07,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-08,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-09,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-10,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-11,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-12,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-04-13,Address Istanbul,Double Deluxe City View,Room Only,Non-refundable,151.53,EUR,Available,IE
+2025-03-30,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-03-31,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-01,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-02,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-03,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-04,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-05,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-06,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-07,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-08,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-09,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-10,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-11,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-12,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-04-13,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,162.07,EUR,Available,IE
+2025-03-30,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-03-31,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-01,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-02,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-03,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-04,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-05,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-06,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-07,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-08,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-09,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-10,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-11,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-12,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-04-13,Address Istanbul,Deluxe Room	,Bed & Breakfast,Refundable,164.82,EUR,Available,IE
+2025-03-30,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-03-31,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-01,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-02,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-03,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-04,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-05,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-06,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-07,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-08,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-09,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-10,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-11,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-12,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-04-13,Address Istanbul,"PREMIER, KING BED, SQUARE VIEW",Room Only,Refundable,193.6,EUR,Available,IE
+2025-03-30,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-03-31,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-01,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-02,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-03,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-04,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-05,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-06,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-07,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-08,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-09,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-10,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-11,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-12,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-04-13,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,42.57,EUR,Available,IE
+2025-03-30,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-03-31,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-01,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-02,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-03,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-04,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-05,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-06,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-07,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-08,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-09,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-10,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-11,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-12,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-04-13,Birbey Hotel,Standard Room,Room Only,Refundable,42.57,EUR,Available,IE
+2025-03-30,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-03-31,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-01,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-02,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-03,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-04,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-05,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-06,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-07,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-08,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-09,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-10,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-11,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-12,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-04-13,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.15,EUR,Available,IE
+2025-03-30,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-03-31,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-01,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-02,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-03,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-04,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-05,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-06,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-07,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-08,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-09,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-10,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-11,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-12,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-04-13,Bomonti Arjaan by Rotana,One Bedroom Apartment,Room Only,Non-refundable,139.39,EUR,Available,IE
+2025-03-30,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-03-31,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-01,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-02,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-03,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-04,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-05,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-06,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-07,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-08,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-09,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-10,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-11,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-12,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-04-13,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,145.43,EUR,Available,IE
+2025-03-30,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-03-31,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-01,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-02,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-03,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-04,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-05,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-06,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-07,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-08,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-09,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-10,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-11,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-12,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-04-13,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,156.22,EUR,Available,IE
+2025-03-30,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-03-31,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-01,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-02,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-03,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-04,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-05,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-06,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-07,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-08,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-09,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-10,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-11,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-12,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-04-13,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,167.39,EUR,Available,IE
+2025-03-30,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-03-31,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-01,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-02,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-03,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-04,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-05,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-06,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-07,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-08,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-09,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-10,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-11,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-12,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-04-13,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Non-refundable,112.2,EUR,Available,IE
+2025-03-30,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-03-31,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-01,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-02,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-03,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-04,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-05,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-06,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-07,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-08,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-09,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-10,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-11,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-12,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-04-13,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,119.56,EUR,Available,IE
+2025-03-30,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-03-31,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-01,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-02,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-03,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-04,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-05,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-06,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-07,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-08,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-09,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-10,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-11,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-12,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-04-13,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Non-refundable,121.6,EUR,Available,IE
+2025-03-30,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-03-31,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-01,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-02,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-03,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-04,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-05,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-06,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-07,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-08,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-09,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-10,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-11,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-12,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-13,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Refundable,139.61,EUR,Available,IE
+2025-04-14,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-15,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-16,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-17,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-18,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-19,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-20,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-21,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-22,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-23,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-24,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-25,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-26,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-27,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-28,Sheraton Istanbul City Center,Deluxe Room- ,Room Only,Non-refundable,92.74,EUR,Available,IE
+2025-04-14,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-15,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-16,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-17,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-18,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-19,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-20,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-21,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-22,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-23,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-24,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-25,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-26,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-27,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-28,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Room Only,Refundable,93.06,EUR,Available,IE
+2025-04-14,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-15,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-16,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-17,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-18,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-19,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-20,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-21,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-22,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-23,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-24,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-25,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-26,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-27,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-28,Sheraton Istanbul City Center,Deluxe Room- ,Bed & Breakfast,Non-refundable,114.56,EUR,Available,IE
+2025-04-14,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-15,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-16,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-17,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-18,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-19,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-20,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-21,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-22,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-23,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-24,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-25,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-26,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-27,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-28,Sheraton Istanbul City Center,Deluxe Room - King or Twin,Bed & Breakfast,Refundable,114.95,EUR,Available,IE
+2025-04-14,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-15,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-16,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-17,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-18,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-19,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-20,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-21,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-22,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-23,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-24,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-25,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-26,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-27,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-28,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,111.99,EUR,Available,IE
+2025-04-14,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-15,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-16,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-17,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-18,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-19,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-20,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-21,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-22,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-23,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-24,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-25,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-26,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-27,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-28,Doubletree by Hilton Piyalepaşa,king size bed,Room Only,Non-refundable,112.26,EUR,Available,IE
+2025-04-14,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-15,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-16,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-17,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-18,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-19,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-20,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-21,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-22,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-23,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-24,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-25,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-26,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-27,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-28,Doubletree by Hilton Piyalepaşa,"KING GUEST ROOM, WIFI/COFFEE-TEA FACILITIES/40 INCH HDTV, 26 SQM/IRON AND BOARD/LAPTOP SAFE/MINIBAR",Bed & Breakfast,Non-refundable,133.32,EUR,Available,IE
+2025-04-14,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-15,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-16,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-17,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-18,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-19,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-20,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-21,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-22,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-23,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-24,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-25,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-26,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-27,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-28,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Bed & Breakfast,Refundable,150.83,EUR,Available,IE
+2025-04-14,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-15,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-16,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-17,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-18,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-19,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-20,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-21,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-22,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-23,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-24,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-25,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-26,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-27,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-28,Gleam Collection Hotel ,Double room,Room Only,Non-refundable,125.42,EUR,Available,IE
+2025-04-14,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-15,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-16,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-17,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-18,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-19,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-20,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-21,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-22,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-23,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-24,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-25,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-26,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-27,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-28,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Room Only,Refundable,139.54,EUR,Available,IE
+2025-04-14,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-15,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-16,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-17,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-18,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-19,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-20,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-21,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-22,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-23,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-24,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-25,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-26,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-27,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-28,Gleam Collection Hotel ,Double room,Bed & Breakfast,Non-refundable,146.07,EUR,Available,IE
+2025-04-14,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-15,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-16,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-17,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-18,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-19,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-20,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-21,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-22,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-23,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-24,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-25,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-26,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-27,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-28,Gleam Collection Hotel ,"Standard Double Room,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,161.9,EUR,Available,IE
+2025-04-14,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-15,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-16,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-17,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-18,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-19,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-20,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-21,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-22,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-23,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-24,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-25,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-26,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-27,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-28,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Room Only,Refundable,144.47,EUR,Available,IE
+2025-04-14,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-15,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-16,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-17,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-18,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-19,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-20,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-21,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-22,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-23,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-24,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-25,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-26,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-27,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-28,Address Istanbul,Deluxe City View Twin,Room Only,Non-refundable,151.28,EUR,Available,IE
+2025-04-14,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-15,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-16,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-17,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-18,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-19,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-20,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-21,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-22,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-23,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-24,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-25,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-26,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-27,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-28,Address Istanbul,"Deluxe City View King,1 King Bed,NonSmoking",Bed & Breakfast,Refundable,167.28,EUR,Available,IE
+2025-04-14,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-15,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-16,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-17,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-18,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-19,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-20,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-21,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-22,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-23,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-24,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-25,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-26,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-27,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-28,Address Istanbul,Deluxe Room King - Twin ,Bed & Breakfast,Non-refundable,173.89,EUR,Available,IE
+2025-04-14,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-15,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-16,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-17,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-18,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-19,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-20,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-21,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-22,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-23,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-24,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-25,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-26,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-27,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-28,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.26,EUR,Available,IE
+2025-04-14,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-15,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-16,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-17,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-18,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-19,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-20,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-21,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-22,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-23,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-24,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-25,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-26,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-27,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-28,Birbey Hotel,Standard Room,Room Only,Refundable,43.26,EUR,Available,IE
+2025-04-14,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-15,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-16,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-17,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-18,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-19,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-20,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-21,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-22,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-23,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-24,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-25,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-26,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-27,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-28,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-14,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-15,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-16,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-17,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-18,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-19,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-20,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-21,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-22,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-23,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-24,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-25,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-26,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-27,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-28,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,141.06,EUR,Available,IE
+2025-04-14,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-15,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-16,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-17,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-18,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-19,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-20,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-21,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-22,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-23,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-24,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-25,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-26,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-27,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-28,Bomonti Arjaan by Rotana,One Bedroom Apartment-,Room Only,Refundable,142.32,EUR,Available,IE
+2025-04-14,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-15,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-16,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-17,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-18,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-19,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-20,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-21,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-22,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-23,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-24,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-25,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-26,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-27,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-28,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,157.5,EUR,Available,IE
+2025-04-14,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-15,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-16,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-17,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-18,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-19,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-20,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-21,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-22,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-23,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-24,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-25,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-26,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-27,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-28,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,166.18,EUR,Available,IE
+2025-04-14,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-15,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-16,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-17,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-18,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-19,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-20,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-21,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-22,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-23,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-24,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-25,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-26,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-27,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-28,Crowne Plaza Istanbul Old City,STANDARD ROOM,Room Only,Refundable,128.86,EUR,Available,IE
+2025-04-14,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-15,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-16,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-17,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-18,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-19,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-20,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-21,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-22,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-23,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-24,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-25,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-26,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-27,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-28,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,143.83,EUR,Available,IE
+2025-04-14,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-15,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-16,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-17,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-18,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-19,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-20,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-21,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-22,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-23,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-24,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-25,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-26,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-27,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-28,Crowne Plaza Istanbul Old City,STANDARD ROOM,Bed & Breakfast,Refundable,150.34,EUR,Available,IE
+2025-04-14,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-15,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-16,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-17,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-18,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-19,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-20,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-21,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-22,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-23,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-24,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-25,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-26,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-27,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-28,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,166.85,EUR,Available,IE
+2025-04-29,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-04-30,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-01,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-02,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-03,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-04,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-05,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-06,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-07,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-08,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-09,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-10,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-11,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-12,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-05-13,Sheraton Istanbul City Center,Standard Double/Twin Room,Room Only,Non-refundable,93.05,EUR,Available,IE
+2025-04-29,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-04-30,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-01,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-02,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-03,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-04,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-05,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-06,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-07,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-08,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-09,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-10,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-11,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-12,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-05-13,Sheraton Istanbul City Center,DOUBLE DELUXE ROOM,Room Only,Refundable,107.02,EUR,Available,IE
+2025-04-29,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-04-30,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-01,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-02,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-03,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-04,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-05,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-06,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-07,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-08,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-09,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-10,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-11,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-12,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-05-13,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Non-refundable,117.67,EUR,Available,IE
+2025-04-29,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-04-30,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-01,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-02,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-03,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-04,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-05,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-06,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-07,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-08,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-09,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-10,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-11,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-12,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-05-13,Sheraton Istanbul City Center,DELUXE ROOM,Bed & Breakfast,Refundable,126.67,EUR,Available,IE
+2025-04-29,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-04-30,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-01,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-02,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-03,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-04,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-05,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-06,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-07,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-08,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-09,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-10,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-11,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-12,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-05-13,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Room Only,Non-refundable,109.17,EUR,Available,IE
+2025-04-29,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-04-30,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-01,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-02,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-03,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-04,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-05,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-06,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-07,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-08,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-09,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-10,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-11,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-12,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-05-13,Doubletree by Hilton Piyalepaşa,KING GUEST ROOM,Room Only,Refundable,118.15,EUR,Available,IE
+2025-04-29,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-04-30,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-01,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-02,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-03,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-04,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-05,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-06,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-07,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-08,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-09,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-10,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-11,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-12,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-05-13,Doubletree by Hilton Piyalepaşa,Standard Twin Room (NON-REF) ,Bed & Breakfast,Non-refundable,124.61,EUR,Available,IE
+2025-04-29,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-04-30,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-01,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-02,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-03,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-04,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-05,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-06,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-07,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-08,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-09,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-10,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-11,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-12,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-05-13,Doubletree by Hilton Piyalepaşa,Standard Room - King or Twin-,Bed & Breakfast,Refundable,128.97,EUR,Available,IE
+2025-04-29,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-04-30,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-01,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-02,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-03,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-04,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-05,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-06,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-07,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-08,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-09,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-10,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-11,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-12,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-05-13,Gleam Collection Hotel ,Suite Balcony,Room Only,Non-refundable,159.23,EUR,Available,IE
+2025-04-29,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-04-30,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-01,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-02,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-03,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-04,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-05,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-06,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-07,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-08,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-09,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-10,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-11,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-12,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-05-13,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Non-refundable,181.36,EUR,Available,IE
+2025-04-29,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-04-30,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-01,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-02,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-03,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-04,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-05,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-06,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-07,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-08,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-09,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-10,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-11,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-12,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-05-13,Gleam Collection Hotel ,"Suite, Balcony,1 King Bed,NonSmoking",Room Only,Refundable,181.54,EUR,Available,IE
+2025-04-29,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-04-30,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-01,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-02,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-03,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-04,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-05,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-06,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-07,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-08,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-09,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-10,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-11,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-12,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-05-13,Gleam Collection Hotel ,Suite Balcony,Bed & Breakfast,Refundable,201.51,EUR,Available,IE
+2025-04-29,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-04-30,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-01,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-02,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-03,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-04,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-05,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-06,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-07,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-08,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-09,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-10,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-11,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-12,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-05-13,Address Istanbul,Deluxe City View Twin Room,Room Only,Refundable,149.78,EUR,Available,IE
+2025-04-29,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-04-30,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-01,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-02,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-03,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-04,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-05,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-06,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-07,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-08,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-09,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-10,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-11,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-12,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-05-13,Address Istanbul,DOUBLE DELUXE CITY VIEW,Room Only,Non-refundable,151.01,EUR,Available,IE
+2025-04-29,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-04-30,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-01,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-02,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-03,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-04,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-05,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-06,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-07,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-08,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-09,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-10,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-11,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-12,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-05-13,Address Istanbul,Deluxe City View Twin Room,Bed & Breakfast,Refundable,172.22,EUR,Available,IE
+2025-04-29,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-04-30,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-01,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-02,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-03,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-04,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-05,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-06,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-07,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-08,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-09,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-10,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-11,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-12,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-05-13,Address Istanbul,DOUBLE DELUXE CITY VIEW,Bed & Breakfast,Non-refundable,173.38,EUR,Available,IE
+2025-04-29,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-04-30,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-01,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-02,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-03,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-04,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-05,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-06,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-07,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-08,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-09,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-10,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-11,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-12,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-05-13,Birbey Hotel,Standard Room,Bed & Breakfast,Refundable,43.19,EUR,Available,IE
+2025-04-29,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-04-30,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-01,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-02,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-03,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-04,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-05,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-06,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-07,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-08,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-09,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-10,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-11,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-12,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-05-13,Birbey Hotel,Standard Room,Room Only,Refundable,43.19,EUR,Available,IE
+2025-04-29,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-30,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-01,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-02,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-03,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-04,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-05,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-06,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-07,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-08,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-09,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-10,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-11,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-12,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-05-13,Birbey Hotel,Standard Double Room,Bed & Breakfast,Non-refundable,48.41,EUR,Available,IE
+2025-04-29,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-04-30,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-01,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-02,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-03,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-04,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-05,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-06,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-07,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-08,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-09,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-10,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-11,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-12,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-05-13,Bomonti Arjaan by Rotana,1 BEDROOM APARTMENT,Room Only,Non-refundable,145.76,EUR,Available,IE
+2025-04-29,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,151.56,EUR,Available,IE
+2025-04-30,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,151.56,EUR,Available,IE
+2025-05-01,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-02,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-03,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-04,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-05,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-06,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-07,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-08,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-09,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-10,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-11,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-12,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-05-13,Bomonti Arjaan by Rotana,ONE BEDROOM APARTMENT,Room Only,Refundable,157.29,EUR,Available,IE
+2025-04-29,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-04-30,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-01,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-02,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-03,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-04,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-05,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-06,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-07,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-08,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-09,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-10,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-11,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-12,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-05-13,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Non-refundable,161.87,EUR,Available,IE
+2025-04-29,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-04-30,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-01,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-02,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-03,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-04,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-05,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-06,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-07,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-08,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-09,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-10,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-11,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-12,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-05-13,Bomonti Arjaan by Rotana,One Bedroom Apartment,Bed & Breakfast,Refundable,170.98,EUR,Available,IE
+2025-04-29,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-04-30,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-01,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-02,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-03,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-04,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-05,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-06,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-07,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-08,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-09,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-10,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-11,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-12,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-05-13,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Non-refundable,124.57,EUR,Available,IE
+2025-04-29,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-04-30,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-01,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-02,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-03,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-04,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-05,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-06,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-07,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-08,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-09,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-10,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-11,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-12,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-05-13,Crowne Plaza Istanbul Old City,Standard Room,Room Only,Refundable,126.72,EUR,Available,IE
+2025-04-29,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-04-30,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-01,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-02,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-03,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-04,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-05,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-06,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-07,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-08,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-09,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-10,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-11,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-12,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-05-13,Crowne Plaza Istanbul Old City,Double Deluxe Room,Bed & Breakfast,Refundable,144.74,EUR,Available,IE
+2025-04-29,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-04-30,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-01,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-02,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-03,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-04,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-05,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-06,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-07,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-08,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-09,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-10,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-11,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-12,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE
+2025-05-13,Crowne Plaza Istanbul Old City,Standard Room,Bed & Breakfast,Non-refundable,146.05,EUR,Available,IE

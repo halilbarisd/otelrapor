@@ -1,5 +1,4 @@
 import csv
-#from selenium import webdriver
 import undetected_chromedriver as uc
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -19,7 +18,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 # Klasörü sabitle (değiştirmezsen hep sorun çıkar)
-os.chdir('/Users/halilbarisduman/Desktop/otelrapor')
+os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
 
 def mail_gonder(konu, mesaj):
     # SMTP Ayarları ➔ Bunları kendine göre doldur!
@@ -126,7 +125,6 @@ def scrape_hotel_data(driver, hotel_name):
         print("Arama yapıldı.")
         human_like_wait()
 
-        # Otel detay bağlantısını bul ve tıkla
         # Otel detay bağlantısını bul ve tıkla
         hotel_link = WebDriverWait(driver, 20).until(
         EC.element_to_be_clickable((By.XPATH, "/html/body/div[3]/section/article/div/section/ul/li[2]/div/div/div/div/div[2]/div[1]/div[1]/div[1]/div/a"))
@@ -280,7 +278,6 @@ def main(hotel_list_file):
     #driver = uc.Chrome(options=options)
     # ChromeOptions ile özelleştirme (isteğe bağlı)
   
-
     options = uc.ChromeOptions()
     options.add_argument('--disable-extensions')
     options.add_argument('--disable-gpu')
@@ -290,8 +287,9 @@ def main(hotel_list_file):
     options.add_argument('--no-sandbox')
     options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
 
-    options.binary_location = "/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
-    service = Service('/usr/local/bin/chromedriver/chromedriver')
+    options.binary_location = "C:\\chrome\\chrome.exe"  # Chrome'un yeri
+    service = Service('C:\\chromedriver\\chromedriver.exe')  # ChromeDriver'ın yeri
+
 
     # GUI açık çalıştırıyoruz → headless=False
     driver = uc.Chrome(service=service, options=options, headless=False)

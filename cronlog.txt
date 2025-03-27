@@ -23198,3 +23198,11 @@ Traceback (most recent call last):
   File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/undetected_chromedriver/patcher.py", line 4, in <module>
     from distutils.version import LooseVersion
 ModuleNotFoundError: No module named 'distutils'
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+b915eb9 Otomatik veri güncellemesi ve rapor push

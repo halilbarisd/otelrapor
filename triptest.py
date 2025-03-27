@@ -16,6 +16,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import logging
+
 logging.basicConfig(filename='C:\\Users\\Halil\\Desktop\\otelrapor\\logfile.txt', level=logging.DEBUG)
 logging.info('Script Başladı.')
 

@@ -286,12 +286,13 @@ def main(hotel_list_file):
   
     options = uc.ChromeOptions()
     options.add_argument('--disable-extensions')
+    
     options.add_argument('--disable-gpu')
     options.add_argument('--disable-software-rasterizer')
     options.add_argument('--disable-plugins')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--no-sandbox')
-    options.add_argument("--start-maximized")
+    
     options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
 
     options.binary_location = "C:\\chrome\\chrome.exe"  # Chrome'un yeri
@@ -300,6 +301,7 @@ def main(hotel_list_file):
 
     # GUI açık çalıştırıyoruz → headless=False
     driver = uc.Chrome(service=service, options=options, headless=False)
+    driver.set_window_size(1920, 1080)
 
     # (İsteğe bağlı) Stealth destek olsun diye bir de user-agent dışında şu tanımı da yapabilirsin:
     driver.execute_script("""

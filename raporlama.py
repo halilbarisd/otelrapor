@@ -55,7 +55,7 @@ with tab_b2c:
             selected_file = f"sonuc_{selected_datetime.replace(' ', '_')}.csv"
 
             # 🔧 Veriyi oku ➔ "-" olanlar NaN yapılır
-            df = pd.read_csv(selected_file, na_values=['-', 'DOLU'])
+            df = pd.read_csv(selected_file, na_values=['-', 'DOLU', '0'])
 
             # Tarih formatı
             df['Tarih'] = pd.to_datetime(df['Tarih'], format='%d-%m-%Y')

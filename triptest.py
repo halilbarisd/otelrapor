@@ -291,6 +291,7 @@ def main(hotel_list_file):
     options.add_argument('--disable-plugins')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--no-sandbox')
+    options.add_argument("--start-maximized")
     options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
 
     options.binary_location = "C:\\chrome\\chrome.exe"  # Chrome'un yeri

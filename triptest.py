@@ -142,13 +142,13 @@ def scrape_hotel_data(driver, hotel_name):
         human_like_wait()
 
         # Yeni sekmeye geçiş yap
-        WebDriverWait(driver, 20).until(lambda d: len(d.window_handles) > 1)
+        WebDriverWait(driver, 30).until(lambda d: len(d.window_handles) > 1)
         driver.switch_to.window(driver.window_handles[-1])
         print(f"Yeni sekmeye geçildi: {hotel_name}")
         human_like_wait()
 
         # Gerçek otel adını detay sayfasından çekiyoruz
-        otel_adi_element = WebDriverWait(driver, 20).until(
+        otel_adi_element = WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "h1.headInit_headInit-title_nameA__EE_LB"))
         )
         gercek_otel_adi = otel_adi_element.text.strip()
@@ -156,7 +156,7 @@ def scrape_hotel_data(driver, hotel_name):
         human_like_wait()
 
         # Takvimi aç
-        WebDriverWait(driver, 10).until(
+        WebDriverWait(driver, 30).until(
             EC.element_to_be_clickable((By.ID, "checkInInput"))
         ).click()
         print("Otel detaylarında takvim açıldı.")

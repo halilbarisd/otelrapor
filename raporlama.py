@@ -244,16 +244,12 @@ with tab_b2b:
     try:
         st.header("🏨 B2B Verileri")
 
-        # B2B CSV dosyasını oku
+        # CSV oku
         df_b2b = pd.read_csv("bedsopia_prices.csv")
 
         # ➤ Fiyatları float'a çevir
         df_b2b['Fiyat'] = df_b2b['Fiyat'].apply(convert_price_to_float)
-
-        # ➤ Alış fiyatı hesapla
         df_b2b['Alış Fiyatı'] = df_b2b['Fiyat'] * 0.96
-
-        # ➤ Tarih formatı
         df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
 
         # ➤ Board Type normalize et
@@ -274,12 +270,24 @@ with tab_b2b:
         if selected_hotel:
             hotel_df = df_b2b[df_b2b['Otel Adı'] == selected_hotel].copy()
 
-            # ➤ Gruptaki en düşük fiyatları bul
-            grouped_df = hotel_df.sort_values('Fiyat').groupby(
+            # ➤ FİLTRELER
+            st.markdown("### 🔎 Filtreleme Seçenekleri")
+            board_options = sorted(hotel_df['Board Type (Norm)'].unique())
+            policy_options = sorted(hotel_df['İptal Poliçesi'].unique())
+
+            selected_board = st.multiselect("🍽️ Board Type", board_options, default=board_options)
+            selected_policy = st.multiselect("⚖️ İptal Poliçesi", policy_options, default=policy_options)
+
+            filtered_df = hotel_df[
+                hotel_df['Board Type (Norm)'].isin(selected_board) &
+                hotel_df['İptal Poliçesi'].isin(selected_policy)
+            ]
+
+            # ➤ Gruptaki en düşük fiyatlı satırları al
+            grouped_df = filtered_df.sort_values('Fiyat').groupby(
                 ['Tarih', 'Board Type (Norm)', 'İptal Poliçesi'], as_index=False
             ).first()
 
-            # ➤ Son haliyle kolonları seç
             final_df = grouped_df[[
                 'Tarih', 'Oda Tipi', 'Board Type (Norm)', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı',
                 'Para Birimi', 'Müsaitlik', 'Milliyet'

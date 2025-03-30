@@ -23206,3 +23206,11 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 b915eb9 Otomatik veri güncellemesi ve rapor push
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'

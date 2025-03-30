@@ -256,6 +256,22 @@ with tab_b2b:
         # ➤ Tarihleri datetime formatına çevir
         df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
 
+        # ➤ Board Type normalize et (örnek: BB, Bed&Breakfast vs → "Bed & Breakfast")
+        def normalize_board(board):
+            board = str(board).lower()
+            if "breakfast" in board or "bb" in board:
+                return "Bed & Breakfast"
+            elif "room only" in board or "solo habitación" in board or "ro" in board:
+                return "Room Only"
+            elif "half board" in board or "media pensión" in board or "hb" in board:
+                return "Half Board"
+            elif "full board" in board or "pc" in board or "pensión completa" in board:
+                return "Full Board"
+            else:
+                return board.title()
+
+        df_b2b["Board Type Normalized"] = df_b2b["Board Type"].apply(normalize_board)
+
         # ➤ Otel isimleri listesi
         oteller = sorted(df_b2b['Otel Adı'].unique().tolist())
 
@@ -268,29 +284,36 @@ with tab_b2b:
             # ➤ Filtreler
             st.markdown("### 🔎 Filtreleme Seçenekleri")
 
-            oda_tipleri = sorted(hotel_df['Oda Tipi'].unique().tolist())
-            board_types = sorted(hotel_df['Board Type'].unique().tolist())
+            board_types = sorted(hotel_df['Board Type Normalized'].unique().tolist())
             iptal_politikalari = sorted(hotel_df['İptal Poliçesi'].unique().tolist())
 
-            selected_oda = st.multiselect("🏷️ Oda Tipi", oda_tipleri, default=oda_tipleri)
             selected_board = st.multiselect("🍽️ Board Type", board_types, default=board_types)
             selected_politika = st.multiselect("⚖️ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
 
             # ➤ Filtre uygula
             filtered_df = hotel_df[
-                (hotel_df['Oda Tipi'].isin(selected_oda)) &
-                (hotel_df['Board Type'].isin(selected_board)) &
+                (hotel_df['Board Type Normalized'].isin(selected_board)) &
                 (hotel_df['İptal Poliçesi'].isin(selected_politika))
             ]
 
-            # ➤ Tarihe göre sırala
-            filtered_df = filtered_df.sort_values(by='Tarih')
+            # ➤ En düşük fiyatlı satırları grupla
+            grouped = (
+                filtered_df.sort_values(by="Fiyat")
+                .groupby(["Tarih", "Board Type Normalized", "İptal Poliçesi"], as_index=False)
+                .first()  # İlk satır (en düşük fiyatlı)
+            )
 
-            st.markdown(f"### 🗓️ {selected_hotel} Günlük Fiyatlar ve Alış Fiyatları")
-            st.dataframe(filtered_df[['Tarih', 'Oda Tipi', 'Board Type', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet']])
+            # ➤ Tarihe göre sırala
+            grouped = grouped.sort_values(by="Tarih")
+
+            st.markdown(f"### 🗓️ {selected_hotel} Günlük En Uygun Fiyatlar")
+            st.dataframe(grouped[[
+                'Tarih', 'Oda Tipi', 'Board Type Normalized', 'İptal Poliçesi',
+                'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet'
+            ]])
 
             # ➤ Grafik
-            st.line_chart(filtered_df.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
+            st.line_chart(grouped.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
 
     except Exception as e:
         st.error(f"Hata oluştu (B2B): {e}")

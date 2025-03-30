@@ -250,70 +250,46 @@ with tab_b2b:
         # ➤ Fiyatları float'a çevir
         df_b2b['Fiyat'] = df_b2b['Fiyat'].apply(convert_price_to_float)
 
-        # ➤ Alış fiyatını hesapla (%4 düşeceğiz)
+        # ➤ Alış fiyatı hesapla
         df_b2b['Alış Fiyatı'] = df_b2b['Fiyat'] * 0.96
 
-        # ➤ Tarihleri datetime formatına çevir
+        # ➤ Tarih formatı
         df_b2b['Tarih'] = pd.to_datetime(df_b2b['Tarih'])
 
-        # ➤ Board Type normalize et (örnek: BB, Bed&Breakfast vs → "Bed & Breakfast")
-        def normalize_board(board):
-            board = str(board).lower()
-            if "breakfast" in board or "bb" in board:
-                return "Bed & Breakfast"
-            elif "room only" in board or "solo habitación" in board or "ro" in board:
+        # ➤ Board Type normalize et
+        def normalize_board(text):
+            text = str(text).lower()
+            if "breakfast" in text or "desayuno" in text:
+                return "Bed and Breakfast"
+            if "room only" in text or "solo habitación" in text or "roomonly" in text:
                 return "Room Only"
-            elif "half board" in board or "media pensión" in board or "hb" in board:
-                return "Half Board"
-            elif "full board" in board or "pc" in board or "pensión completa" in board:
-                return "Full Board"
-            else:
-                return board.title()
+            return text.title()
 
-        df_b2b["Board Type Normalized"] = df_b2b["Board Type"].apply(normalize_board)
+        df_b2b['Board Type (Norm)'] = df_b2b['Board Type'].apply(normalize_board)
 
-        # ➤ Otel isimleri listesi
-        oteller = sorted(df_b2b['Otel Adı'].unique().tolist())
-
-        # Otel seçimi
+        # ➤ Otel seçimi
+        oteller = sorted(df_b2b['Otel Adı'].unique())
         selected_hotel = st.selectbox("🏨 Bir Otel Seçin", oteller)
 
         if selected_hotel:
             hotel_df = df_b2b[df_b2b['Otel Adı'] == selected_hotel].copy()
 
-            # ➤ Filtreler
-            st.markdown("### 🔎 Filtreleme Seçenekleri")
+            # ➤ Gruptaki en düşük fiyatları bul
+            grouped_df = hotel_df.sort_values('Fiyat').groupby(
+                ['Tarih', 'Board Type (Norm)', 'İptal Poliçesi'], as_index=False
+            ).first()
 
-            board_types = sorted(hotel_df['Board Type Normalized'].unique().tolist())
-            iptal_politikalari = sorted(hotel_df['İptal Poliçesi'].unique().tolist())
+            # ➤ Son haliyle kolonları seç
+            final_df = grouped_df[[
+                'Tarih', 'Oda Tipi', 'Board Type (Norm)', 'İptal Poliçesi', 'Fiyat', 'Alış Fiyatı',
+                'Para Birimi', 'Müsaitlik', 'Milliyet'
+            ]].sort_values('Tarih')
 
-            selected_board = st.multiselect("🍽️ Board Type", board_types, default=board_types)
-            selected_politika = st.multiselect("⚖️ İptal Poliçesi", iptal_politikalari, default=iptal_politikalari)
-
-            # ➤ Filtre uygula
-            filtered_df = hotel_df[
-                (hotel_df['Board Type Normalized'].isin(selected_board)) &
-                (hotel_df['İptal Poliçesi'].isin(selected_politika))
-            ]
-
-            # ➤ En düşük fiyatlı satırları grupla
-            grouped = (
-                filtered_df.sort_values(by="Fiyat")
-                .groupby(["Tarih", "Board Type Normalized", "İptal Poliçesi"], as_index=False)
-                .first()  # İlk satır (en düşük fiyatlı)
-            )
-
-            # ➤ Tarihe göre sırala
-            grouped = grouped.sort_values(by="Tarih")
-
-            st.markdown(f"### 🗓️ {selected_hotel} Günlük En Uygun Fiyatlar")
-            st.dataframe(grouped[[
-                'Tarih', 'Oda Tipi', 'Board Type Normalized', 'İptal Poliçesi',
-                'Fiyat', 'Alış Fiyatı', 'Para Birimi', 'Müsaitlik', 'Milliyet'
-            ]])
+            st.markdown(f"### 📆 {selected_hotel} Günlük En Uygun Fiyatlar")
+            st.dataframe(final_df)
 
             # ➤ Grafik
-            st.line_chart(grouped.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
+            st.line_chart(final_df.set_index('Tarih')[['Fiyat', 'Alış Fiyatı']])
 
     except Exception as e:
         st.error(f"Hata oluştu (B2B): {e}")

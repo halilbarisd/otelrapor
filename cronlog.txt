@@ -23214,3 +23214,19 @@ Traceback (most recent call last):
   File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
     os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
 FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'
+Traceback (most recent call last):
+  File "/Users/halilbarisduman/Desktop/otelrapor/triptest.py", line 27, in <module>
+    os.chdir('C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor')
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Halil\\Desktop\\otelrapor\\otelrapor'

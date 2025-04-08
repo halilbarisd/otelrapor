@@ -179,7 +179,7 @@ with open('bedsopia_prices.csv', mode='w', newline='', encoding='utf-8') as file
     writer = csv.DictWriter(file, fieldnames=["Tarih", "Otel Adı", "Oda Tipi", "Board Type", "İptal Poliçesi", "Fiyat", "Para Birimi", "Müsaitlik", "Milliyet"])
     writer.writeheader()
 login()
-df = pd.read_csv('hotel_list.csv')
+df = pd.read_csv('/Users/halilbarisduman/Desktop/otelrapor/hotel_list.csv')
 hotel_uids = df['hotel_uid'].astype(str).tolist()
 
 date_blocks = generate_date_blocks()

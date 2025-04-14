@@ -8,7 +8,7 @@ import os
 import glob  # Eksik import eklendi
 
 # 📌 Otel listesini oku
-df = pd.read_csv("otel_listesi.csv")
+df = pd.read_csv('/Users/halilbarisduman/Desktop/otelrapor/otel_listesi.csv')
 
 # 📅 Tarih ayarları
 checkin_date = datetime.today()

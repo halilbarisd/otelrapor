@@ -107,7 +107,7 @@ def get_prices():
                 print(f"💥 {otel_adi} - HATA: {e}")
             time.sleep(1)
 
-    print(f"\n📁 Sonuç dosyası oluşturuldu: {filename}")
+    print(f"\n📁 Sonuç dosyası oluşturuldu: {os.path.abspath(filename)}")
 
     # ✅ Git push işlemi
     print("🚀 Git'e push ediliyor...")

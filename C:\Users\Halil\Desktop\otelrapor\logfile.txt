@@ -7,3 +7,10 @@ INFO:root:Script Başladı.
 INFO:root:Script Başladı.
 INFO:root:Script Başladı.
 INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
+INFO:root:Script Başladı.
